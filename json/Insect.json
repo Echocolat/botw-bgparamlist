@@ -67,5 +67,26 @@
   },
   "Item_InsectGet_Z.sbactorpack": {
     "FireResistanceLevel": 0
+  },
+  "Animal_Insect_A.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_B.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_F.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_H.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_M.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_S.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_X.sbactorpack": {
+    "FireResistanceLevel": 3
   }
 }

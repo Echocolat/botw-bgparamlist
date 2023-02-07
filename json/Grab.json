@@ -10274,5 +10274,19 @@
     "Slot3PodNode": "",
     "Slot4PodNode": "",
     "Slot5PodNode": ""
+  },
+  "GameROMPlayer.sbactorpack": {
+    "Slot0Node": "Weapon_R",
+    "Slot1Node": "Weapon_L",
+    "Slot2Node": "Weapon_L",
+    "Slot3Node": "Weapon_R",
+    "Slot4Node": "Weapon_Root",
+    "Slot5Node": "",
+    "Slot0PodNode": "Pod_A",
+    "Slot1PodNode": "Pod_A",
+    "Slot2PodNode": "Pod_A",
+    "Slot3PodNode": "Pod_A",
+    "Slot4PodNode": "Pod_A",
+    "Slot5PodNode": ""
   }
 }

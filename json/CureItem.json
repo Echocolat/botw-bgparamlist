@@ -1858,5 +1858,65 @@
     "EffectType": "None",
     "EffectLevel": 0,
     "EffectiveTime": 0
+  },
+  "Animal_Insect_A.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_B.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "ExGutsMaxUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 0
+  },
+  "Animal_Insect_F.sbactorpack": {
+    "HitPointRecover": 20,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Animal_Insect_H.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_M.sbactorpack": {
+    "HitPointRecover": 16,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 16,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_S.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_X.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "Fireproof",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Material_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Material_03.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Material_07.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
   }
 }

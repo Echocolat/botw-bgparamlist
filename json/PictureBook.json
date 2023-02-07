@@ -2928,5 +2928,70 @@
     "LiveSpot1": 21,
     "LiveSpot2": -1,
     "SpecialDrop": 26
+  },
+  "AncientArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_F.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_H.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_M.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_S.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_X.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "BombArrow_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "ElectricArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "FireArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "IceArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "NormalArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
   }
 }

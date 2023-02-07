@@ -18888,5 +18888,195 @@
     "BurnOutBornName": "",
     "IsBurnOutBornIdent": false,
     "ChangeDropTableName": ""
+  },
+  "Animal_Insect_A.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Animal_Insect_B.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Animal_Insect_F.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Animal_Insect_H.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Animal_Insect_M.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Animal_Insect_S.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Animal_Insect_X.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "CarryBox.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Item_Magnetglove.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 100,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Item_Material_01.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Item_Material_03.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Item_Material_07.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "Item_Ore_F.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 100,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "PlayerStole2.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 100,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "RemoteBomb.sbactorpack": {
+    "Speed": 35.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "RemoteBomb2.sbactorpack": {
+    "Speed": 35.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "RemoteBombCube.sbactorpack": {
+    "Speed": 35.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "RemoteBombCube2.sbactorpack": {
+    "Speed": 35.0,
+    "Life": 1,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
+  },
+  "WakeBoardRope.sbactorpack": {
+    "Speed": 1.0,
+    "Life": 100,
+    "IsLifeInfinite": false,
+    "ElectricalDischarge": 1.0,
+    "IsBurnOutBorn": false,
+    "BurnOutBornName": "",
+    "IsBurnOutBornIdent": false,
+    "ChangeDropTableName": ""
   }
 }

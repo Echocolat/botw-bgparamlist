@@ -27898,5 +27898,1355 @@
     "DisableFreezeLift": false,
     "DisableBurnLift": false,
     "ThrowReactionLevel": -1
+  },
+  "AncientArrow.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "BombArrow_A.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "BrightArrow.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "BrightArrowTP.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "CarryBox.sbactorpack": {
+    "LiftType": "0",
+    "ThrownMass": 25,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.10999999940395355,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": true,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "ElectricArrow.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "ElectricWaterBall.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "Explode.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "FireArrow.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "FireRodLv1Fire.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "FireRodLv2Fire.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "FireRodLv2FireChild.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "GameROMPlayer.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "IceArrow.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "IceRodLv1Ice.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "IceRodLv2Ice.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "Item_Magnetglove.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "Item_Material_01.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "Item_Material_03.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "Item_Material_07.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "Item_Ore_F.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "NormalArrow.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "PlayerStole2.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "RemoteBomb.sbactorpack": {
+    "LiftType": "Sphere_Bomb",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "ChaseLiftRotOffset": true,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "RemoteBomb2.sbactorpack": {
+    "LiftType": "Sphere_Bomb",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "ChaseLiftRotOffset": true,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "RemoteBombCube.sbactorpack": {
+    "LiftType": "Square_Bomb",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "ChaseLiftRotOffset": true,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "RemoteBombCube2.sbactorpack": {
+    "LiftType": "Square_Bomb",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "ChaseLiftRotOffset": true,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "0 90 0,0 180 0,0 270 0",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "ThunderRodLv1Thunder.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "ThunderRodLv2Thunder.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
+  },
+  "ThunderRodLv2ThunderChild.sbactorpack": {
+    "LiftType": "",
+    "ThrownMass": 10,
+    "ThrownRotSpd": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftPosOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LiftRotFrame": 10,
+    "AddLiftRotOffsetList": "",
+    "ChaseLiftRotOffset": false,
+    "LiftCenterOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutPosOffset": [
+      0.0,
+      0.0,
+      0.5
+    ],
+    "PutRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PutRotFrame": 10,
+    "AddPutRotOffsetList": "",
+    "IsUpdateOffsetEachFrame": false,
+    "IsUse2MassConstraintMode": true,
+    "IsSetChemicalParent": true,
+    "DisableFreezeLift": false,
+    "DisableBurnLift": false,
+    "ThrowReactionLevel": -1
   }
 }

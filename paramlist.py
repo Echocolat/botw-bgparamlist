@@ -2,6 +2,7 @@ from bcml import util
 import os
 import oead
 import json
+from pathlib import Path
 
 actor_folder = os.listdir(str(util.get_update_dir()) + '\\Actor\\Pack')
 
@@ -37,6 +38,22 @@ def create_jsons():
 
     for file in actor_folder:
         sarc = oead.Sarc(oead.yaz0.decompress(util.get_game_file('Actor\\Pack\\' + file).read_bytes()))
+        for small_file in sarc.get_files():
+            if 'bgparamlist' in small_file.name:
+                data_small_file = oead.aamp.ParameterIO.from_binary(small_file.data)
+                for (name, other) in data_small_file.objects.items():
+                    name: str = str(oead.aamp.NameTable.get_name(oead.aamp.get_default_name_table(), name.hash, 100, 0))
+                    if not oead_to_normal(name) in all_params:
+                        all_params[oead_to_normal(name)] = {}
+                    all_params[oead_to_normal(name)][file] = {}
+                    for param_name in other.params:
+                        param_name: str = str(oead.aamp.NameTable.get_name(oead.aamp.get_default_name_table(), param_name.hash, 100, oead.aamp.Name(name).hash))
+                        all_params[name][file][param_name] = oead_to_normal(other.params[param_name].v)
+        
+        print(f'Processed {file}')
+
+    for file in os.listdir('TitleBG'):
+        sarc = oead.Sarc(oead.yaz0.decompress(Path('TitleBG\\'+file).read_bytes()))
         for small_file in sarc.get_files():
             if 'bgparamlist' in small_file.name:
                 data_small_file = oead.aamp.ParameterIO.from_binary(small_file.data)

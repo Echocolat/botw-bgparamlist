@@ -330,5 +330,77 @@
   "Wizzrobe_WeatherIceBall.sbactorpack": {
     "NoHitParent": true,
     "IsLimitCount": true
+  },
+  "AncientArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "BombArrow_A.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "BrightArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "BrightArrowTP.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "ElectricArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "ElectricWaterBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Explode.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "FireArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "FireRodLv1Fire.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "FireRodLv2Fire.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "FireRodLv2FireChild.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "IceArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "IceRodLv1Ice.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "IceRodLv2Ice.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "NormalArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "ThunderRodLv1Thunder.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "ThunderRodLv2Thunder.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "ThunderRodLv2ThunderChild.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
   }
 }

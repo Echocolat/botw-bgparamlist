@@ -432,5 +432,26 @@
     "BoostSuccessRate": 100,
     "BoostMaxHeartLevel": 0,
     "BoostStaminaLevel": 0
+  },
+  "Item_Material_01.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 50,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_03.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 30,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_07.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 30,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
   }
 }

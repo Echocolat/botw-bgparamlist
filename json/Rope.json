@@ -82,5 +82,17 @@
     "SplineOffsetRateB": 0.0,
     "SplineOffsetRateC": 1.0,
     "MtxEndPosOffsetLength": 0.07999999821186066
+  },
+  "WakeBoardRope.sbactorpack": {
+    "IsAllowCutting": false,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": true,
+    "IsDeformable": true,
+    "IsOneBoneOneShape": false,
+    "SplineOffsetRateA": -0.5,
+    "SplineOffsetRateB": 0.0,
+    "SplineOffsetRateC": 1.0,
+    "MtxEndPosOffsetLength": 0.07999999821186066
   }
 }

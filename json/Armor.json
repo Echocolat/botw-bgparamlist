@@ -7019,5 +7019,22 @@
       0.0,
       0.0
     ]
+  },
+  "Item_Conductor.sbactorpack": {
+    "StarNum": 0,
+    "DefenceAddLevel": 0,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
   }
 }

@@ -10843,5 +10843,329 @@
     "StainColor": -1,
     "SaleRevivalCount": -1,
     "UseIconActorName": ""
+  },
+  "AncientArrow.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": 100,
+    "CreatingPrice": 90,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Animal_Insect_A.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 2,
+    "BuyingPrice": 10,
+    "CreatingPrice": -1,
+    "StainColor": 7,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Animal_Insect_B.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 20,
+    "BuyingPrice": 100,
+    "CreatingPrice": -1,
+    "StainColor": 12,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Animal_Insect_F.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 2,
+    "BuyingPrice": 10,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Animal_Insect_H.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 2,
+    "BuyingPrice": 10,
+    "CreatingPrice": -1,
+    "StainColor": 7,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Animal_Insect_M.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 20,
+    "BuyingPrice": 100,
+    "CreatingPrice": -1,
+    "StainColor": 1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Animal_Insect_S.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 2,
+    "BuyingPrice": 10,
+    "CreatingPrice": -1,
+    "StainColor": 14,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Animal_Insect_X.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 5,
+    "BuyingPrice": 25,
+    "CreatingPrice": -1,
+    "StainColor": 15,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "BombArrow_A.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 1,
+    "BuyingPrice": 50,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": 50,
+    "UseIconActorName": ""
+  },
+  "BrightArrow.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "BrightArrowTP.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "ElectricArrow.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 1,
+    "BuyingPrice": 20,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": 50,
+    "UseIconActorName": ""
+  },
+  "ElectricWaterBall.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Explode.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "FireArrow.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 1,
+    "BuyingPrice": 20,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": 50,
+    "UseIconActorName": ""
+  },
+  "FireRodLv1Fire.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "FireRodLv2Fire.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "FireRodLv2FireChild.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "IceArrow.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 1,
+    "BuyingPrice": 20,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": 50,
+    "UseIconActorName": ""
+  },
+  "IceRodLv1Ice.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "IceRodLv2Ice.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Item_Conductor.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Item_Magnetglove.sbactorpack": {
+    "PlayerUseItem": true,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Item_Material_01.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 3,
+    "BuyingPrice": 12,
+    "CreatingPrice": -1,
+    "StainColor": 7,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Item_Material_03.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 3,
+    "BuyingPrice": 12,
+    "CreatingPrice": -1,
+    "StainColor": 4,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Item_Material_07.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 3,
+    "BuyingPrice": 12,
+    "CreatingPrice": -1,
+    "StainColor": 13,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "Item_Ore_F.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 30,
+    "BuyingPrice": 120,
+    "CreatingPrice": -1,
+    "StainColor": 10,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "NormalArrow.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": 1,
+    "BuyingPrice": 5,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": 50,
+    "UseIconActorName": ""
+  },
+  "PlayerStole2.sbactorpack": {
+    "PlayerUseItem": true,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "RemoteBomb.sbactorpack": {
+    "PlayerUseItem": true,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "RemoteBomb2.sbactorpack": {
+    "PlayerUseItem": true,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "RemoteBombCube.sbactorpack": {
+    "PlayerUseItem": true,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "RemoteBombCube2.sbactorpack": {
+    "PlayerUseItem": true,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "ThunderRodLv1Thunder.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "ThunderRodLv2Thunder.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
+  },
+  "ThunderRodLv2ThunderChild.sbactorpack": {
+    "PlayerUseItem": false,
+    "SellingPrice": -1,
+    "BuyingPrice": -1,
+    "CreatingPrice": -1,
+    "StainColor": -1,
+    "SaleRevivalCount": -1,
+    "UseIconActorName": ""
   }
 }

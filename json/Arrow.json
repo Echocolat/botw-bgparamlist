@@ -198,5 +198,69 @@
     "EnemyShootNumForDelete": 8,
     "ArrowDeletePer": 0,
     "ExtraDamage": 0
+  },
+  "AncientArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": -1,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 20
+  },
+  "BombArrow_A.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": -1,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 8,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "BrightArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": -1,
+    "DeleteTimeWithChemical": 150,
+    "EnemyShootNumForDelete": 8,
+    "ArrowDeletePer": 30,
+    "ExtraDamage": 0
+  },
+  "BrightArrowTP.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": -1,
+    "DeleteTimeWithChemical": 150,
+    "EnemyShootNumForDelete": 8,
+    "ArrowDeletePer": 30,
+    "ExtraDamage": 0
+  },
+  "ElectricArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 30,
+    "DeleteTimeWithChemical": 30,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "FireArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 90,
+    "DeleteTimeWithChemical": 90,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "IceArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 30,
+    "DeleteTimeWithChemical": 30,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "NormalArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": -1,
+    "DeleteTimeWithChemical": 150,
+    "EnemyShootNumForDelete": 8,
+    "ArrowDeletePer": 30,
+    "ExtraDamage": 0
   }
 }

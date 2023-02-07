@@ -8878,5 +8878,77 @@
   "YabusameTarget.sbactorpack": {
     "SameGroupActorName": "",
     "IsGetItemSelf": false
+  },
+  "Animal_Insect_A.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Animal_Insect_B.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Animal_Insect_F.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Animal_Insect_H.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Animal_Insect_M.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Animal_Insect_S.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Animal_Insect_X.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "CarryBox.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Item_Magnetglove.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Item_Material_01.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Item_Material_03.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Item_Material_07.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "Item_Ore_F.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "PlayerStole2.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "RemoteBomb.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "RemoteBomb2.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "RemoteBombCube.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
+  },
+  "RemoteBombCube2.sbactorpack": {
+    "SameGroupActorName": "",
+    "IsGetItemSelf": false
   }
 }

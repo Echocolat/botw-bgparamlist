@@ -1,0 +1,26 @@
+{
+  "Item_Conductor.sbactorpack": {
+    "NodeNameWithWaist": "Pod_C",
+    "TransOffsetWithWaist": [
+      0.125,
+      0.0,
+      -0.017000000923871994
+    ],
+    "RotOffsetWithWaist": [
+      2.0,
+      184.0,
+      -3.0
+    ],
+    "NodeNameWithHand": "Weapon_L",
+    "TransOffsetWithHand": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RotOffsetWithHand": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}
