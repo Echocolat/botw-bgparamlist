@@ -1,0 +1,22 @@
+{
+  "Weapon_Sword_070.sbactorpack": {
+    "IsMasterSword": true,
+    "TrueFormAttackPower": 60,
+    "TrueFormMagicPower": 20,
+    "TrueFormBreakRatio": 0.20000000298023224,
+    "SearchEvilDist": 70.0,
+    "RecoverTime": 600,
+    "SleepActorName": "Weapon_Sword_056",
+    "TrueFormActorName": "Weapon_Sword_072"
+  },
+  "Weapon_Sword_071.sbactorpack": {
+    "IsMasterSword": false,
+    "TrueFormAttackPower": -1,
+    "TrueFormMagicPower": -1,
+    "TrueFormBreakRatio": 0.5,
+    "SearchEvilDist": -1.0,
+    "RecoverTime": 30,
+    "SleepActorName": "",
+    "TrueFormActorName": ""
+  }
+}

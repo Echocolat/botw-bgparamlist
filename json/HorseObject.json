@@ -1,0 +1,66 @@
+{
+  "GameRomHorseReins_00.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseReins_01.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseReins_02.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseReins_03.sbactorpack": {
+    "HideHorseMane": true,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseReins_04.sbactorpack": {
+    "HideHorseMane": true,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseReins_05.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseReins_06.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseReins_10.sbactorpack": {
+    "HideHorseMane": true,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseSaddle_00.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseSaddle_01.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseSaddle_02.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": true
+  },
+  "GameRomHorseSaddle_03.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": true
+  },
+  "GameRomHorseSaddle_04.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": true
+  },
+  "GameRomHorseSaddle_05.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": true
+  },
+  "GameRomHorseSaddle_06.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": false
+  },
+  "GameRomHorseSaddle_10.sbactorpack": {
+    "HideHorseMane": false,
+    "IsHorseClothDisable": true
+  }
+}

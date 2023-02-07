@@ -1,0 +1,334 @@
+{
+  "ArrowRainChild.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "AssassinIronBall.sbactorpack": {
+    "NoHitParent": false,
+    "IsLimitCount": false
+  },
+  "AssassinRockBall.sbactorpack": {
+    "NoHitParent": false,
+    "IsLimitCount": false
+  },
+  "AssassinWindCutter.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "DragonFlameBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "DragonIceBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "DragonThunderBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "EnemyGanonShockWave.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Giant_Bone_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Giant_Bone_Chin.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Giant_Bone_Rib.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_Lower_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_Lower_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_R_Lower_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_R_Lower_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_R_Upper_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_R_Upper_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_Upper_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Fire_Upper_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Ice_Lower_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Ice_Lower_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Ice_Upper_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Ice_Upper_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Lower_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Lower_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Upper_Arm_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Enemy_Golem_Upper_Arm_R.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GaleArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonFlameBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonIceBullet.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonNormalArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonPillarOfFlame.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonSeaOfFlame.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonShockWave.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonSpearForThrowing.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonThunder.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "GanonTornado.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Giant_Bomb_Weapon.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Giant_Rock_Weapon.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "LastBossThunder.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "LizalfosFlame.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Lizalfos_ElectricWaterBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Lizalfos_IceBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": true
+  },
+  "Lizalfos_Lava.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Lizalfos_Water.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "LynelFlame.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Octarock_Bullet.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Octarock_Bullet_L.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Octarock_SnowBullet.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_01.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_02.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_03.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_04.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_05.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_06.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_07.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Grass_08.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Stone_01.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "OctObj_Stone_TBox.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "PlayerBeam.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "PriestBossThunder.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Priest_Boss_ElectricArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Priest_Boss_FireArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Priest_Boss_IceArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "RemainsWaterChaseBullet.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "RemainsWaterExplodeBullet.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Rock_Moriblin.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Rock_Weapon.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossBigFlameBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossDrawingFlameTornado.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossFlameBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossGaleArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossNormalArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossPillarOfFlame.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossReflectArrow.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossSeaOfFlame.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossSeaOfFlameRotate.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossSpearForThrowing.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossSpearIceBullet.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossTornado.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "SiteBossWearFlame.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Weapon_Arrow_020.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": false
+  },
+  "Wizzrobe_WeatherIceBall.sbactorpack": {
+    "NoHitParent": true,
+    "IsLimitCount": true
+  }
+}

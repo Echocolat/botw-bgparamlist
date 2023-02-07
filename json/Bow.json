@@ -1,0 +1,2634 @@
+{
+  "Priest_Boss_Weapon_Bow_029.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": true,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      -6.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.019999999552965164,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      6.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_001.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.029999999329447746
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      5.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      30.0,
+      -80.0,
+      -20.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_002.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.004999999888241291,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_003.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 3,
+    "LeadShotAng": 13.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 2,
+    "RapidFireInterval": 3,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -8.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_004.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -8.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_006.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -55.0,
+      -7.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      6.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_009.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 0.6000000238418579,
+    "BaseAttackPowerRatio": 0.6000000238418579,
+    "IsLeadShot": true,
+    "LeadShotNum": 3,
+    "LeadShotAng": 3.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -8.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.02500000037252903,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      9.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_011.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 3,
+    "LeadShotAng": 13.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 2,
+    "RapidFireInterval": 3,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_013.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 0.6000000238418579,
+    "BaseAttackPowerRatio": 0.6000000238418579,
+    "IsLeadShot": true,
+    "LeadShotNum": 3,
+    "LeadShotAng": 3.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.0,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      8.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.600000023841858,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_014.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -7.0,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      8.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_015.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": true,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      5.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_016.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -52.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.03999999910593033,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      6.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.05000000074505806
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      -55.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.2999999523162842,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_017.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 3,
+    "LeadShotAng": 13.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -52.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.600000023841858,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_023.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": true,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 4.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -2.799999952316284,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -50.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      30.0,
+      -80.0,
+      -20.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 0.699999988079071,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_026.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 0.6000000238418579,
+    "BaseAttackPowerRatio": 0.6000000238418579,
+    "IsLeadShot": true,
+    "LeadShotNum": 3,
+    "LeadShotAng": 3.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -8.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_027.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 5,
+    "LeadShotAng": 20.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 3,
+    "RapidFireInterval": 3,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.004999999888241291,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -8.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.004999999888241291,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      6.0,
+      -6.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_028.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 0.6000000238418579,
+    "BaseAttackPowerRatio": 0.6000000238418579,
+    "IsLeadShot": true,
+    "LeadShotNum": 3,
+    "LeadShotAng": 3.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -52.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.05000000074505806,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.7999999523162842,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_029.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": true,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      -6.0,
+      -55.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.019999999552965164,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      6.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_030.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 5,
+    "LeadShotAng": 20.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 3,
+    "RapidFireInterval": 3,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      8.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_032.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 0.6000000238418579,
+    "BaseAttackPowerRatio": 0.6000000238418579,
+    "IsLeadShot": true,
+    "LeadShotNum": 3,
+    "LeadShotAng": 3.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 2,
+    "RapidFireInterval": 1,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -8.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_033.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 8.0,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 4.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -53.0,
+      -10.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      6.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.5,
+    "ArrowReloadRate": 0.800000011920929,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_035.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.004999999888241291,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -8.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.03500000014901161,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_036.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -53.0,
+      -10.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      6.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_038.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05999999865889549,
+      0.0,
+      0.019999999552965164
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -7.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      30.0,
+      -80.0,
+      -20.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_040.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 0.6000000238418579,
+    "BaseAttackPowerRatio": 0.6000000238418579,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": true,
+    "RapidFireNum": 2,
+    "RapidFireInterval": 3,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -50.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      9.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_071.sbactorpack": {
+    "QuiverName": "",
+    "ArrowName": "BrightArrow",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 7.0,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 5.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -5.0,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.03999999910593033,
+      0.019999999552965164,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_072.sbactorpack": {
+    "QuiverName": "",
+    "ArrowName": "BrightArrowTP",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 1.0,
+    "BaseAttackPowerRatio": 1.0,
+    "IsLeadShot": false,
+    "LeadShotNum": 0,
+    "LeadShotAng": 45.0,
+    "LeadShotInterval": 0,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 7.0,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 5.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -5.0,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -55.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.03999999910593033,
+      0.004999999888241291,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      10.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.0,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  },
+  "Weapon_Bow_080.sbactorpack": {
+    "QuiverName": "Weapon_Quiver_001",
+    "ArrowName": "",
+    "IsGuardPierce": false,
+    "ExtraDamageRatio": 0.6000000238418579,
+    "BaseAttackPowerRatio": 0.6000000238418579,
+    "IsLeadShot": true,
+    "LeadShotNum": 3,
+    "LeadShotAng": 3.0,
+    "LeadShotInterval": 1,
+    "IsRapidFire": false,
+    "RapidFireNum": 0,
+    "RapidFireInterval": 0,
+    "IsLongRange": false,
+    "ArrowFirstSpeed": 4.5,
+    "ArrowAcceleration": -0.10000000149011612,
+    "ArrowStabilitySpeed": 3.0,
+    "ArrowFallAcceleration": -0.20000000298023224,
+    "ArrowFallStabilitySpeed": 1.0,
+    "ArrowGravity": -9.800000190734863,
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      0.0,
+      0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      -3.0,
+      -52.0,
+      -3.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.05000000074505806,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ArrowChargeRate": 1.7999999523162842,
+    "ArrowReloadRate": 1.0,
+    "WeaponSubType": "0"
+  }
+}

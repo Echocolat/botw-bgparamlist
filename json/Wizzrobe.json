@@ -1,0 +1,68 @@
+{
+  "Enemy_Wizzrobe_Electric.sbactorpack": {
+    "MagicWeatherType": 0,
+    "MagicFallActorName": "",
+    "MagicFallIgniteRotSpd": 0.0,
+    "MagicFallOffsetY": 6.0,
+    "MagicFallCenterOffsetXZ": 5.0,
+    "MagicFallRandRadius": 12.0,
+    "MagicFallIntervalMax": 20.0,
+    "MagicFallIntervalMin": 15.0,
+    "SummonActorName": "Enemy_Keese_Electric,Enemy_Chuchu_Electric_Junior"
+  },
+  "Enemy_Wizzrobe_Electric_Senior.sbactorpack": {
+    "MagicWeatherType": 0,
+    "MagicFallActorName": "",
+    "MagicFallIgniteRotSpd": 0.0,
+    "MagicFallOffsetY": 6.0,
+    "MagicFallCenterOffsetXZ": 5.0,
+    "MagicFallRandRadius": 12.0,
+    "MagicFallIntervalMax": 20.0,
+    "MagicFallIntervalMin": 15.0,
+    "SummonActorName": "Enemy_Keese_Electric,Enemy_Chuchu_Electric_Middle"
+  },
+  "Enemy_Wizzrobe_Fire.sbactorpack": {
+    "MagicWeatherType": 1,
+    "MagicFallActorName": "Wizzrobe_WeatherFireBall",
+    "MagicFallIgniteRotSpd": 540.0,
+    "MagicFallOffsetY": 16.0,
+    "MagicFallCenterOffsetXZ": 5.0,
+    "MagicFallRandRadius": 12.0,
+    "MagicFallIntervalMax": 20.0,
+    "MagicFallIntervalMin": 15.0,
+    "SummonActorName": "Enemy_Keese_Fire,Enemy_Chuchu_Fire_Junior"
+  },
+  "Enemy_Wizzrobe_Fire_Senior.sbactorpack": {
+    "MagicWeatherType": 1,
+    "MagicFallActorName": "Wizzrobe_WeatherFireBall",
+    "MagicFallIgniteRotSpd": 540.0,
+    "MagicFallOffsetY": 16.0,
+    "MagicFallCenterOffsetXZ": 5.0,
+    "MagicFallRandRadius": 12.0,
+    "MagicFallIntervalMax": 20.0,
+    "MagicFallIntervalMin": 15.0,
+    "SummonActorName": "Enemy_Keese_Fire,Enemy_Chuchu_Fire_Middle"
+  },
+  "Enemy_Wizzrobe_Ice.sbactorpack": {
+    "MagicWeatherType": 2,
+    "MagicFallActorName": "Wizzrobe_WeatherIceBall",
+    "MagicFallIgniteRotSpd": 540.0,
+    "MagicFallOffsetY": 16.0,
+    "MagicFallCenterOffsetXZ": 5.0,
+    "MagicFallRandRadius": 12.0,
+    "MagicFallIntervalMax": 35.0,
+    "MagicFallIntervalMin": 30.0,
+    "SummonActorName": "Enemy_Keese_Ice,Enemy_Chuchu_Ice_Junior"
+  },
+  "Enemy_Wizzrobe_Ice_Senior.sbactorpack": {
+    "MagicWeatherType": 2,
+    "MagicFallActorName": "Wizzrobe_WeatherIceBall",
+    "MagicFallIgniteRotSpd": 540.0,
+    "MagicFallOffsetY": 16.0,
+    "MagicFallCenterOffsetXZ": 5.0,
+    "MagicFallRandRadius": 12.0,
+    "MagicFallIntervalMax": 35.0,
+    "MagicFallIntervalMin": 30.0,
+    "SummonActorName": "Enemy_Keese_Ice,Enemy_Chuchu_Ice_Middle"
+  }
+}

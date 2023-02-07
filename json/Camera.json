@@ -1,0 +1,15 @@
+{
+  "GameRomCamera.sbactorpack": {
+    "DefaultConnectScaleAfterEvent": 1.0,
+    "LatConnectRateAfterEvent": 0.75,
+    "LngConnectRateAfterEvent": 0.32499998807907104,
+    "DistConnectRateAfterEvent": 1.5,
+    "FovyConnectRateAfterEvent": 0.0,
+    "ConnectAfterEventMin": 30.0,
+    "ConnectAfterEventMax": 90.0,
+    "RoofGradientNearHighWeight": 1.0,
+    "RoofGradientFarHighWeight": 0.44999998807907104,
+    "RoofGradientNearLowWeight": 1.0,
+    "RoofGradientFarLowWeight": 0.25
+  }
+}

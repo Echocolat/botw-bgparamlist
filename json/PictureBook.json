@@ -1,0 +1,2932 @@
+{
+  "AirOcta_Tag.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Bear_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Boar_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Boar_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Boar_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Bull_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Cassowary_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Cow_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Crow_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Crow_Swarm.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Crow_Swarm_HeapMeasure.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Deer_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Deer_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Doe_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Dog_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Dog_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Dog_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Donkey_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Donkey_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Elk_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_D.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_F.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_G.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_H.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_I.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_J.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_K.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_L.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_M.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_X.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fish_Z.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fox_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Fox_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Goat_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Goat_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Gull_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Gull_Swarm.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Gull_Swarm_HeapMeasure.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Hawk_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Heron_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Heron_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Horse_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_AA.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_AB.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_G.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_I.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_K.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_N.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_O.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_P.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_Q.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_R.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_T.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Insect_Z.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Kokko_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Kokko_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_LittleBird_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_LittleBird_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_LittleBird_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_LittleBird_D.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_LittleBird_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_LittleBird_F.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Pigeon_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Pigeon_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Pigeon_B_Swarm.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Pigeon_B_Swarm_HeapMeasure.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Pigeon_Swarm.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Pigeon_Swarm_HeapMeasure.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Ptarmigan_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Ptarmigan_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Rhino_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_RupeeRabbit_A.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Animal_Sheep_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Squirrel_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_SunazarashiSP_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_SunazarashiSP_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_SunazarashiSP_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Sunazarashi_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Sunazarashi_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Sunazarashi_D_DLC2nd.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_WildDuck_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_WildGoat_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Wolf_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Wolf_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Animal_Wolf_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "BeeHome.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "DgnObj_DLC_Weapon_Sword_502.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Enemy_AirOctarock.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Azito_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Azito_Middle_DLC2.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Junior.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Junior_Npc_001.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Junior_Npc_002.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Middle.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Middle_Quest.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Senior.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Shooter_Azito_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Assassin_Shooter_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Bone_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Bone_Junior_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Dark.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Gold.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Guard_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Guard_Junior_Ambush.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Guard_Junior_TreeHouseTop.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Guard_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Guard_Middle_Ambush.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Guard_Middle_TreeHouseTop.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Bokoblin_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Electric_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Electric_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Electric_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Fire_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Fire_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Fire_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Ice_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Ice_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Ice_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Chuchu_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Dragon_Electric.sbactorpack": {
+    "LiveSpot1": 32,
+    "LiveSpot2": 33,
+    "SpecialDrop": 26
+  },
+  "Enemy_Dragon_Electric_Far.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Dragon_Fire.sbactorpack": {
+    "LiveSpot1": 29,
+    "LiveSpot2": 30,
+    "SpecialDrop": 26
+  },
+  "Enemy_Dragon_Fire_Far.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Dragon_Grudge.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Dragon_Grudge_Far.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Dragon_Ice.sbactorpack": {
+    "LiveSpot1": 31,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Enemy_Dragon_Ice_Far.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Ganon.sbactorpack": {
+    "LiveSpot1": 28,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_GanonBeast.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_GanonGrudge.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_GanonGrudge_01.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_GanonGrudge_02.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Giant_Bone.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Giant_Bone_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Giant_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Giant_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Giant_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Fire.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Fire_R.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Ice.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Little.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Little_Fire.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Little_Ice.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Golem_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_A.sbactorpack": {
+    "LiveSpot1": 27,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_A_Fixed_Moss.sbactorpack": {
+    "LiveSpot1": 27,
+    "LiveSpot2": 28,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_A_Fixed_Sand.sbactorpack": {
+    "LiveSpot1": 27,
+    "LiveSpot2": 28,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_A_Fixed_Snow.sbactorpack": {
+    "LiveSpot1": 27,
+    "LiveSpot2": 28,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_A_Moss.sbactorpack": {
+    "LiveSpot1": 27,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_A_Sand.sbactorpack": {
+    "LiveSpot1": 27,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_A_Snow.sbactorpack": {
+    "LiveSpot1": 27,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_B.sbactorpack": {
+    "LiveSpot1": 28,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_B_Clean.sbactorpack": {
+    "LiveSpot1": 28,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_C_Clean.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Baby.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Baby_Dark.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Junior.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Junior_Dark.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Junior_DetachLineBeam.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe_DetachLineBeam.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Middle.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Middle_Dark.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Middle_DetachLineBeam.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Practice.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Senior.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Guardian_Mini_Senior_Dark.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Electric.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Electric_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Fire.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Fire_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Ice.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Ice_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Swarm.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Swarm_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Swarm_AllDay_HeapMeasure.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Keese_Swarm_HeapMeasure.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Bone_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Bone_Junior_Head.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Dark.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Electric.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Electric_ForestTower.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Fire.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Fire_Guard_Ambush.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Gold.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Guard_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Guard_Junior_LongVisibility.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Guard_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Guard_Middle_LongVisibility.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Ice.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Junior_Guard_Ambush.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Middle_Guard_Ambush.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lizalfos_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lynel_Dark.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lynel_Gold.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lynel_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lynel_Junior_Mountain.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lynel_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Lynel_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Bone_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Bone_Junior_Head.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Dark.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Gold.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Junior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Middle.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Moriblin_Senior_Volcano.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Octarock.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Octarock_Desert.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Octarock_Forest.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Octarock_Snow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Octarock_Stone.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Sandworm.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SandwormR.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "Enemy_SiteBoss_Bow.sbactorpack": {
+    "LiveSpot1": 37,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Bow_Castle.sbactorpack": {
+    "LiveSpot1": 37,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Bow_R.sbactorpack": {
+    "LiveSpot1": 37,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Lsword.sbactorpack": {
+    "LiveSpot1": 35,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Lsword_Castle.sbactorpack": {
+    "LiveSpot1": 35,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Lsword_R.sbactorpack": {
+    "LiveSpot1": 35,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Spear.sbactorpack": {
+    "LiveSpot1": 36,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Spear_Castle.sbactorpack": {
+    "LiveSpot1": 36,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Spear_R.sbactorpack": {
+    "LiveSpot1": 36,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Sword.sbactorpack": {
+    "LiveSpot1": 34,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Sword_Castle.sbactorpack": {
+    "LiveSpot1": 34,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_SiteBoss_Sword_R.sbactorpack": {
+    "LiveSpot1": 34,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Wizzrobe_Electric.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Wizzrobe_Electric_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Wizzrobe_Fire.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Wizzrobe_Fire_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Wizzrobe_Ice.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Enemy_Wizzrobe_Ice_Senior.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse00L.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "GameRomHorse00S.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse02.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse03.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse04.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse05.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse06.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse07.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse08.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse09.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse10.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse11.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse12.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse13.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse14.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse15.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse16.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse17.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse18.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse19.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse20.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse21.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse22.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorse23.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorseBone.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorseBone_AllDay.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorseEpona.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "GameRomHorseNushi.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "GameRomHorseZelda.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Item_FishGet_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_D.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_F.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_G.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_H.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_I.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_J.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_K.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_L.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_M.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_X.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_FishGet_Z.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_D.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_F.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_G.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_H.sbactorpack": {
+    "LiveSpot1": 23,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_I.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Fruit_J.sbactorpack": {
+    "LiveSpot1": 24,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_InsectGet_K.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_InsectGet_O.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_InsectGet_Z.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_MushroomGet_D.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_D.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_F.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_F_00.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_H.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_J.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_L.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_M.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_N.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_N_00.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Mushroom_O.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_F.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_G.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_H.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_I.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_J.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_L.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_M.sbactorpack": {
+    "LiveSpot1": 24,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_O.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_PlantGet_Q.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_A.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_B.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_C.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_E.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_F.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_G.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_H.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_I.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_J.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_L.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_M.sbactorpack": {
+    "LiveSpot1": 24,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_O.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Item_Plant_Q.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_AncientArrow_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_AncientArrow_B_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_AncientArrow_C_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ArrowBundle_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ArrowBundle_A_02.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ArrowBundle_A_10.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ArrowNormal_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_BombArrow_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_BombArrow_A_02.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_BombArrow_A_03.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_BombArrow_A_04.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ElectricArrow_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ElectricArrow_A_02.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ElectricArrow_A_03.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_ElectricArrow_B_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_FireArrow_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_FireArrow_A_02.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_FireArrow_A_03.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_IceArrow_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_IceArrow_A_02.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_IceArrow_A_03.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_MineralBury_A_01.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_Mineral_A_01.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_Mineral_B_01.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Obj_Mineral_C_01.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Priest_Boss_ElectricArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Priest_Boss_FireArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Priest_Boss_Giant.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Priest_Boss_IceArrow.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Priest_Boss_Normal.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Priest_Boss_ShadowClone_Real.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "RemainsFire_Drone_A_01.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "TBox_Dungeon_Iron.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Dungeon_Iron_050.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Dungeon_Iron_Hanged.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Dungeon_Stone.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Dungeon_Wood.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Dungeon_Wood_AreaCulling.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Enemy.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Gamble.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron_GodTree.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron_NoReaction.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron_NoReaction_Aoc.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron_NoReaction_Aoc_long.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron_NoReaction_Collabo.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron_Sandworm.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Iron_SandwormR.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Stone.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Stone_NoReaction.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "TBox_Field_Wood.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": 25
+  },
+  "Weapon_Arrow_020.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_001.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_002.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_003.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_004.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_006.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_009.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_011.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_013.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_014.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_015.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_016.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_017.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_023.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Bow_026.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_027.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_028.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_029.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_030.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_032.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_033.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Bow_035.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_036.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_038.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_040.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Bow_071.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Bow_080.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_001.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_002.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_003.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_004.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_005.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_006.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_010.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_011.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_012.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_013.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_014.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_015.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_016.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_017.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_018.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_019.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_020.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_023.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Lsword_024.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_027.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_029.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_030.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_031.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_032.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_033.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_034.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_035.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_036.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_037.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_038.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_041.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_045.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_047.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Lsword_051.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_054.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_055.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_056.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Lsword_074.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_001.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_002.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_003.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_004.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_005.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_006.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_007.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_008.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_009.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_013.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_014.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_015.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_016.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_017.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_018.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_021.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_022.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_023.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_025.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_026.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_030.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Shield_031.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_032.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_033.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Shield_034.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_035.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_036.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_037.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_038.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Shield_040.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_041.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Shield_042.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_001.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_002.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_003.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_004.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_005.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_006.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_007.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_008.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_009.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_010.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_011.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_012.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_013.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_014.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_015.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_016.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_017.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_018.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_021.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_022.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_023.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Spear_024.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_025.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_027.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_028.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_029.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_030.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_031.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_032.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_033.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_034.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_035.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_036.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_037.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_038.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_047.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Spear_049.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_050.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Spear_080.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_001.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_002.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_003.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_004.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_005.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_006.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_007.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_008.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_009.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_013.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_014.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_015.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_016.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_017.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_018.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_019.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_020.sbactorpack": {
+    "LiveSpot1": 20,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_021.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_022.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_023.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Sword_024.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_025.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_027.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_029.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_030.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_031.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_033.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_034.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_035.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_040.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Sword_041.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_043.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_044.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_047.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Sword_048.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_049.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_050.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_051.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_052.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_053.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_060.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_061.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_062.sbactorpack": {
+    "LiveSpot1": -1,
+    "LiveSpot2": -1,
+    "SpecialDrop": -1
+  },
+  "Weapon_Sword_070.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Sword_073.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Sword_502.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  },
+  "Weapon_Sword_503.sbactorpack": {
+    "LiveSpot1": 21,
+    "LiveSpot2": -1,
+    "SpecialDrop": 26
+  }
+}

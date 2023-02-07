@@ -1,0 +1,71 @@
+{
+  "Animal_Fish_K.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Fish_M.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_AA.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_AB.sbactorpack": {
+    "FireResistanceLevel": 3
+  },
+  "Animal_Insect_C.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_E.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_EP.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_G.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_I.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_K.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_KimoP.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_N.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_O.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_P.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_Q.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_R.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_T.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Animal_Insect_Z.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Item_FishGet_K.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Item_FishGet_M.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Item_InsectGet_K.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Item_InsectGet_O.sbactorpack": {
+    "FireResistanceLevel": 0
+  },
+  "Item_InsectGet_Z.sbactorpack": {
+    "FireResistanceLevel": 0
+  }
+}

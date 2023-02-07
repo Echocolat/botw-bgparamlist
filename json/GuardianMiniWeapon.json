@@ -1,0 +1,86 @@
+{
+  "Weapon_Lsword_013.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Lsword_014.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Lsword_015.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Shield_013.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Shield_014.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Shield_015.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Spear_013.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Spear_014.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Spear_015.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Sword_013.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Sword_014.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  },
+  "Weapon_Sword_015.sbactorpack": {
+    "BindMyNodeName": "Root",
+    "VisibleMatNameR": "Mt_Arm_UFR",
+    "VisibleMatNameL": "Mt_Arm_UFL",
+    "VisibleMatNameB": "Mt_Arm_UB",
+    "VisibleOffMatName": "Mt_Arm"
+  }
+}

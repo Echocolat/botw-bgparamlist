@@ -1,0 +1,9362 @@
+{
+  "Enemy_Ganon_Lsword_Weapon.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": ""
+  },
+  "Enemy_SiteBoss_Lsword_Weapon.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": ""
+  },
+  "FldObj_EnemyLookoutBanana_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "FldObj_ScaffoldWood_A_03_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeApple_A_L_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeApple_A_M_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeBanana_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeBroadleafDead_B_L_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeBroadleaf_A_L_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeBroadleaf_BossArea_A_L_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeBurned_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeBurned_B_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeBurned_B_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferousDead_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferousDead_A_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferousDead_A_Snow_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_A_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_A_03_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_A_04_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_A_Snow_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_A_Snow_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_A_Snow_03_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_C_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_C_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeConiferous_C_03_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeDeadLeaf_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeDead_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeDead_A_Snow_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeDorian_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeDragonblood_A_03_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeGhost_A_03_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeLog_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeMaple_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeMaple_A_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeMaple_B_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeMaple_B_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeMaple_C_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeMaple_C_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreePalmBeach_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreePalmBeach_A_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreePalm_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreePalm_A_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreePine_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeWhiteBirch_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeWhiteBirch_A_02_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeWhiteBirch_A_03_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeWhiteBirch_A_04_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Obj_TreeWillow_A_01_Trunk.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.17000000178813934,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      16.0,
+      -60.0,
+      -18.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_001.sbactorpack": {
+    "PodName": "Weapon_Lsheath_001",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "PlayerHoldRotOffset": [
+      4.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      -0.03999999910593033
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_002.sbactorpack": {
+    "PodName": "Weapon_Lsheath_002",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.023000000044703484,
+      -0.07000000029802322
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05000000074505806,
+      -0.029999999329447746,
+      -0.05999999865889549
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.07999999821186066,
+      -0.029999999329447746,
+      -0.019999999552965164
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -2.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_003.sbactorpack": {
+    "PodName": "Weapon_Lsheath_003",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.03999999910593033,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      5.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      -2.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03999999910593033,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.019999999552965164,
+      -0.07000000029802322
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -4.0,
+      -8.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.10000000149011612,
+      -0.029999999329447746,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -7.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_004.sbactorpack": {
+    "PodName": "Weapon_Lsheath_004",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.03999999910593033,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.07999999821186066,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      13.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      7.0,
+      -3.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      -8.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_005.sbactorpack": {
+    "PodName": "Weapon_Lsheath_004",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.03999999910593033,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      57.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -10.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.09000000357627869,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      10.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      -0.05999999865889549
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.019999999552965164,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_006.sbactorpack": {
+    "PodName": "Weapon_Lsheath_004",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.05000000074505806,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -10.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.09000000357627869,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      12.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05000000074505806,
+      0.009999999776482582,
+      -0.05999999865889549
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      5.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.019999999552965164,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.10000000149011612
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      6.0,
+      90.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_010.sbactorpack": {
+    "PodName": "Weapon_Lsheath_010",
+    "PlayerHoldTransOffset": [
+      0.09000000357627869,
+      -0.029999999329447746,
+      -0.05000000074505806
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -4.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.07999999821186066,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      10.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.029999999329447746,
+      -0.07999999821186066
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      0.0,
+      -0.019999999552965164
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      -5.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_011.sbactorpack": {
+    "PodName": "Weapon_Lsheath_010",
+    "PlayerHoldTransOffset": [
+      0.09000000357627869,
+      -0.02500000037252903,
+      -0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -7.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.07999999821186066,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      13.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.02500000037252903,
+      -0.05999999865889549
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -10.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.029999999329447746,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      -5.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_012.sbactorpack": {
+    "PodName": "Weapon_Lsheath_010",
+    "PlayerHoldTransOffset": [
+      0.10000000149011612,
+      -0.029999999329447746,
+      -0.03999999910593033
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -10.0,
+      -2.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.05999999865889549,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      10.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.03999999910593033
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.004999999888241291,
+      -0.029999999329447746
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      -5.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_013.sbactorpack": {
+    "PodName": "Weapon_Lsheath_013",
+    "PlayerHoldTransOffset": [
+      -0.029999999329447746,
+      -0.004999999888241291,
+      0.029999999329447746
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.05000000074505806,
+      0.0,
+      0.15000000596046448
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      -0.09000000357627869
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      2.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      0.0,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -8.0,
+      -2.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_014.sbactorpack": {
+    "PodName": "Weapon_Lsheath_013",
+    "PlayerHoldTransOffset": [
+      -0.029999999329447746,
+      -0.004999999888241291,
+      0.029999999329447746
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.05000000074505806,
+      0.0,
+      0.15000000596046448
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      -0.09000000357627869
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      2.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      0.0,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -8.0,
+      -2.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_015.sbactorpack": {
+    "PodName": "Weapon_Lsheath_013",
+    "PlayerHoldTransOffset": [
+      -0.029999999329447746,
+      -0.004999999888241291,
+      0.029999999329447746
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.05000000074505806,
+      0.0,
+      0.15000000596046448
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      0.0,
+      0.0,
+      -0.09000000357627869
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      2.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      0.0,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -8.0,
+      -2.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_016.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.10000000149011612,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -10.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.17000000178813934,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.11999999731779099
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      6.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.029999999329447746,
+      0.05000000074505806
+    ],
+    "StandEquipRotOffset": [
+      -9.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_017.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.10000000149011612,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -12.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.1899999976158142,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.11999999731779099
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      6.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.05000000074505806,
+      0.05000000074505806
+    ],
+    "StandEquipRotOffset": [
+      -10.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_018.sbactorpack": {
+    "PodName": "",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.10000000149011612,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -14.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.1899999976158142,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.11999999731779099
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      6.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.15000000596046448,
+      0.10000000149011612
+    ],
+    "StandEquipRotOffset": [
+      -10.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_019.sbactorpack": {
+    "PodName": "Weapon_Lsheath_019",
+    "PlayerHoldTransOffset": [
+      0.3799999952316284,
+      -0.029999999329447746,
+      -0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      -41.0,
+      -150.0,
+      -4.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      270.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      5.0,
+      -3.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.05000000074505806,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.029999999329447746
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -8.0,
+      -3.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.019999999552965164,
+      -0.07000000029802322
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      7.0,
+      -2.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      -90.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.07999999821186066,
+      1.399999976158142
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      90.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_020.sbactorpack": {
+    "PodName": "Weapon_Lsheath_001",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.014999999664723873,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -4.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.019999999552965164
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      -3.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.03999999910593033,
+      -0.019999999552965164,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -1.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_023.sbactorpack": {
+    "PodName": "Weapon_Lsheath_023",
+    "PlayerHoldTransOffset": [
+      0.14000000059604645,
+      -0.09000000357627869,
+      -0.12999999523162842
+    ],
+    "PlayerHoldRotOffset": [
+      6.0,
+      55.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -4.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.10999999940395355,
+      0.019999999552965164
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      4.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.009999999776482582,
+      -0.07999999821186066
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.11999999731779099,
+      -0.03999999910593033,
+      -0.029999999329447746
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -3.0,
+      -7.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_024.sbactorpack": {
+    "PodName": "Weapon_Lsheath_024",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      4.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -4.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03999999910593033,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.10000000149011612
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -2.0,
+      -8.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_027.sbactorpack": {
+    "PodName": "Weapon_Lsheath_027",
+    "PlayerHoldTransOffset": [
+      0.15000000596046448,
+      -0.054999999701976776,
+      -0.12999999523162842
+    ],
+    "PlayerHoldRotOffset": [
+      6.0,
+      56.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.05000000074505806,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -2.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.12999999523162842,
+      -0.009999999776482582,
+      -0.07000000029802322
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -10.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_029.sbactorpack": {
+    "PodName": "Weapon_Lsheath_029",
+    "PlayerHoldTransOffset": [
+      0.20000000298023224,
+      -0.019999999552965164,
+      -0.10999999940395355
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.07000000029802322,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.019999999552965164,
+      -0.07000000029802322
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -8.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.09000000357627869,
+      -0.03500000014901161,
+      -0.029999999329447746
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -3.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.20000000298023224,
+      0.0,
+      -0.25
+    ],
+    "NPCHoldRotOffset": [
+      10.0,
+      -63.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_030.sbactorpack": {
+    "PodName": "Weapon_Lsheath_030",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.027000000700354576,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -15.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03999999910593033,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.05000000074505806
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.019999999552965164,
+      0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -3.0,
+      0.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_031.sbactorpack": {
+    "PodName": "Weapon_Lsheath_056",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.014999999664723873,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -17.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05000000074505806,
+      0.03999999910593033,
+      -0.03999999910593033
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -10.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.019999999552965164,
+      -0.019999999552965164
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_032.sbactorpack": {
+    "PodName": "Weapon_Lsheath_032",
+    "PlayerHoldTransOffset": [
+      0.15000000596046448,
+      -0.03999999910593033,
+      -0.09000000357627869
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -8.0,
+      -2.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03999999910593033,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05000000074505806,
+      0.009999999776482582,
+      -0.029999999329447746
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      6.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.07000000029802322,
+      -0.009999999776482582,
+      0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -7.0,
+      -2.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_033.sbactorpack": {
+    "PodName": "Weapon_Lsheath_033",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.03500000014901161,
+      -0.07000000029802322
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      -0.029999999329447746,
+      -0.03999999910593033,
+      0.03999999910593033
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.03999999910593033,
+      -0.029999999329447746,
+      -0.10000000149011612
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.029999999329447746,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_034.sbactorpack": {
+    "PodName": "Weapon_Lsheath_034",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.04500000178813934,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      -0.029999999329447746,
+      -0.03999999910593033,
+      0.03999999910593033
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.029999999329447746,
+      -0.05000000074505806,
+      -0.11999999731779099
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.02500000037252903,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_035.sbactorpack": {
+    "PodName": "Weapon_Lsheath_035",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.029999999329447746,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -6.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03500000014901161,
+      0.029999999329447746
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05999999865889549,
+      -0.009999999776482582,
+      -0.11999999731779099
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.02500000037252903,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_036.sbactorpack": {
+    "PodName": "Weapon_Lsheath_036",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.10999999940395355,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      6.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -10.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.17000000178813934,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.019999999552965164,
+      -0.10000000149011612
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      10.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.10000000149011612,
+      -0.04500000178813934,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_037.sbactorpack": {
+    "PodName": "Weapon_Lsheath_037",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.07999999821186066,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      4.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -12.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.14000000059604645,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.2199999988079071,
+      -0.05999999865889549,
+      -0.07999999821186066
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -10.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.10000000149011612,
+      -0.05000000074505806,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -7.0,
+      -10.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_038.sbactorpack": {
+    "PodName": "Weapon_Lsheath_056",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.02500000037252903,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      4.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -8.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.009999999776482582,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.07999999821186066,
+      0.019999999552965164,
+      -0.019999999552965164
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -3.0,
+      -6.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      -0.019999999552965164
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_041.sbactorpack": {
+    "PodName": "Weapon_Lsheath_041",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.019999999552965164,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.019999999552965164,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.029999999329447746
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -2.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.07999999821186066,
+      -0.02500000037252903,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "Katana"
+  },
+  "Weapon_Lsword_045.sbactorpack": {
+    "PodName": "Weapon_Lsheath_056",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.02500000037252903,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -4.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05000000074505806,
+      0.0,
+      -0.029999999329447746
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -3.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_047.sbactorpack": {
+    "PodName": "Weapon_Lsheath_047",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.02500000037252903,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      4.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -4.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03999999910593033,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.10000000149011612
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -2.0,
+      -8.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_051.sbactorpack": {
+    "PodName": "Weapon_Lsheath_051",
+    "PlayerHoldTransOffset": [
+      0.15000000596046448,
+      0.0,
+      -0.05999999865889549
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      -50.0,
+      2.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -23.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03999999910593033,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      -0.03999999910593033
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -10.0,
+      -3.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "Boomerang"
+  },
+  "Weapon_Lsword_054.sbactorpack": {
+    "PodName": "Weapon_Lsheath_054",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.07000000029802322,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -12.0,
+      -3.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.11999999731779099,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05000000074505806,
+      0.019999999552965164,
+      -0.05000000074505806
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      8.0,
+      3.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.10000000149011612,
+      -0.02500000037252903,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -3.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_055.sbactorpack": {
+    "PodName": "Weapon_Lsheath_055",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.029999999329447746,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      2.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.03999999910593033,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      -0.07000000029802322
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      7.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05000000074505806,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": ""
+  },
+  "Weapon_Lsword_056.sbactorpack": {
+    "PodName": "Weapon_Lsheath_056",
+    "PlayerHoldTransOffset": [
+      0.15000000596046448,
+      0.004999999888241291,
+      -0.07999999821186066
+    ],
+    "PlayerHoldRotOffset": [
+      178.0,
+      120.0,
+      0.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      -90.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      15.0,
+      -2.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05999999865889549,
+      0.009999999776482582,
+      -0.019999999552965164
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.019999999552965164,
+      -0.019999999552965164,
+      -0.019999999552965164
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      -90.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "Fan"
+  },
+  "Weapon_Lsword_057.sbactorpack": {
+    "PodName": "Weapon_Lsheath_057",
+    "PlayerHoldTransOffset": [
+      0.23000000417232513,
+      -0.029999999329447746,
+      -0.12999999523162842
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      60.0,
+      178.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      5.0,
+      -5.0,
+      -2.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      -0.019999999552965164,
+      -0.05000000074505806
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.10000000149011612,
+      -0.029999999329447746,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_059.sbactorpack": {
+    "PodName": "Weapon_Lsheath_059",
+    "PlayerHoldTransOffset": [
+      0.18000000715255737,
+      -0.03999999910593033,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      62.0,
+      178.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      -0.05000000074505806,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      5.0,
+      -7.0,
+      2.0
+    ],
+    "AffectTransOffsetShield": [
+      -0.029999999329447746,
+      -0.05999999865889549,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.05000000074505806,
+      -0.03999999910593033,
+      -0.15000000596046448
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      0.0,
+      -7.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.07999999821186066,
+      -0.06499999761581421,
+      -0.009999999776482582
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -5.0,
+      -7.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_060.sbactorpack": {
+    "PodName": "Weapon_Lsheath_060",
+    "PlayerHoldTransOffset": [
+      0.1599999964237213,
+      -0.03500000014901161,
+      -0.10000000149011612
+    ],
+    "PlayerHoldRotOffset": [
+      3.0,
+      60.0,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      -5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.054999999701976776,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      5.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.15000000596046448,
+      -0.019999999552965164,
+      -0.10000000149011612
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -5.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.07000000029802322,
+      -0.05000000074505806,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      -3.0,
+      -8.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "0"
+  },
+  "Weapon_Lsword_074.sbactorpack": {
+    "PodName": "Weapon_Lsheath_074",
+    "PlayerHoldTransOffset": [
+      0.25,
+      -0.029999999329447746,
+      -0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      1.0,
+      60.900001525878906,
+      180.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideHorsePlayerHoldRotOffset": [
+      0.0,
+      5.0,
+      0.0
+    ],
+    "AffectTransOffsetShield": [
+      0.0,
+      -0.029999999329447746,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      7.0
+    ],
+    "AffectTransOffsetBow": [
+      -0.10000000149011612,
+      0.0,
+      -0.019999999552965164
+    ],
+    "AffectRotOffsetBow": [
+      0.0,
+      -4.0,
+      -3.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.05999999865889549,
+      -0.03999999910593033,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      5.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponSubType": "Katana"
+  }
+}

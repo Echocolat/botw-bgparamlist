@@ -1,0 +1,380 @@
+{
+  "Animal_Bear_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.5
+    ]
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.5
+    ]
+  },
+  "Animal_Boar_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.5799999833106995
+    ]
+  },
+  "Animal_Boar_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.5799999833106995
+    ]
+  },
+  "Animal_Boar_C.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.5799999833106995
+    ]
+  },
+  "Animal_Bull_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      2.4000000953674316
+    ]
+  },
+  "Animal_Cassowary_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.8500000238418579
+    ]
+  },
+  "Animal_Cow_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.850000023841858
+    ]
+  },
+  "Animal_Crow_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Deer_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.8500000238418579
+    ]
+  },
+  "Animal_Deer_C.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.8500000238418579
+    ]
+  },
+  "Animal_Doe_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.8500000238418579
+    ]
+  },
+  "Animal_Dog_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.6000000238418579
+    ]
+  },
+  "Animal_Dog_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.6000000238418579
+    ]
+  },
+  "Animal_Dog_C.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.6000000238418579
+    ]
+  },
+  "Animal_Donkey_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Donkey_C.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Elk_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      2.4000000953674316
+    ]
+  },
+  "Animal_Fox_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.3499999940395355
+    ]
+  },
+  "Animal_Fox_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.3499999940395355
+    ]
+  },
+  "Animal_Goat_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.6499999761581421
+    ]
+  },
+  "Animal_Goat_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Gull_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Hawk_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Heron_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Heron_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Horse_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Kokko_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Kokko_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_LittleBird_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_LittleBird_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_LittleBird_C.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_LittleBird_D.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_LittleBird_E.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_LittleBird_F.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Pigeon_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Pigeon_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Ptarmigan_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Ptarmigan_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Rhino_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.5499999523162842
+    ]
+  },
+  "Animal_RupeeRabbit_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_Sheep_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.5799999833106995
+    ]
+  },
+  "Animal_Squirrel_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.30000001192092896
+    ]
+  },
+  "Animal_SunazarashiSP_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.600000023841858
+    ]
+  },
+  "Animal_SunazarashiSP_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.600000023841858
+    ]
+  },
+  "Animal_SunazarashiSP_C.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.600000023841858
+    ]
+  },
+  "Animal_Sunazarashi_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.600000023841858
+    ]
+  },
+  "Animal_Sunazarashi_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.600000023841858
+    ]
+  },
+  "Animal_Sunazarashi_D_DLC2nd.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      1.600000023841858
+    ]
+  },
+  "Animal_WildDuck_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Animal_WildGoat_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.6499999761581421
+    ]
+  },
+  "Animal_Wolf_A.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.75
+    ]
+  },
+  "Animal_Wolf_B.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.75
+    ]
+  },
+  "Animal_Wolf_C.sbactorpack": {
+    "EatLocalOffset": [
+      0.0,
+      0.0,
+      0.75
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Enemy_Bokoblin_Bone_Junior.sbactorpack": {
+    "HeadActorName": "Enemy_Bokoblin_Bone_Junior_Head",
+    "LeftArmActorName": "Weapon_Sword_019"
+  },
+  "Enemy_Bokoblin_Bone_Junior_AllDay.sbactorpack": {
+    "HeadActorName": "Enemy_Bokoblin_Bone_Junior_Head_AllDay",
+    "LeftArmActorName": "Weapon_Sword_019"
+  },
+  "Enemy_Giant_Bone.sbactorpack": {
+    "HeadActorName": "Enemy_Giant_Bone_Eye",
+    "LeftArmActorName": "Enemy_Giant_Bone_Arm_L"
+  },
+  "Enemy_Giant_Bone_AllDay.sbactorpack": {
+    "HeadActorName": "Enemy_Giant_Bone_Eye_AllDay",
+    "LeftArmActorName": "Enemy_Giant_Bone_Arm_L"
+  },
+  "Enemy_Lizalfos_Bone_Junior.sbactorpack": {
+    "HeadActorName": "Enemy_Lizalfos_Bone_Junior_Head",
+    "LeftArmActorName": "Weapon_Sword_020"
+  },
+  "Enemy_Moriblin_Bone_Junior.sbactorpack": {
+    "HeadActorName": "Enemy_Moriblin_Bone_Junior_Head",
+    "LeftArmActorName": "Weapon_Lsword_019"
+  }
+}

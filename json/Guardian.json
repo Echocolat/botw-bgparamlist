@@ -1,0 +1,123 @@
+{
+  "Enemy_Guardian_A.sbactorpack": {
+    "GuardianModelType": 0,
+    "GuardianControllerType": 1,
+    "HeadLimitMax": 45.0,
+    "HeadLimitMin": -45.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -45.0,
+    "MaxSpeed": 10.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  },
+  "Enemy_Guardian_A_Fixed_Moss.sbactorpack": {
+    "GuardianModelType": 0,
+    "GuardianControllerType": 0,
+    "HeadLimitMax": 90.0,
+    "HeadLimitMin": -90.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -60.0,
+    "MaxSpeed": 25.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 0.0
+  },
+  "Enemy_Guardian_A_Fixed_Sand.sbactorpack": {
+    "GuardianModelType": 0,
+    "GuardianControllerType": 0,
+    "HeadLimitMax": 90.0,
+    "HeadLimitMin": -90.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -60.0,
+    "MaxSpeed": 25.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 0.0
+  },
+  "Enemy_Guardian_A_Fixed_Snow.sbactorpack": {
+    "GuardianModelType": 0,
+    "GuardianControllerType": 0,
+    "HeadLimitMax": 90.0,
+    "HeadLimitMin": -90.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -60.0,
+    "MaxSpeed": 25.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 0.0
+  },
+  "Enemy_Guardian_A_Moss.sbactorpack": {
+    "GuardianModelType": 0,
+    "GuardianControllerType": 1,
+    "HeadLimitMax": 45.0,
+    "HeadLimitMin": -45.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -45.0,
+    "MaxSpeed": 10.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  },
+  "Enemy_Guardian_A_Sand.sbactorpack": {
+    "GuardianModelType": 0,
+    "GuardianControllerType": 1,
+    "HeadLimitMax": 45.0,
+    "HeadLimitMin": -45.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -45.0,
+    "MaxSpeed": 10.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  },
+  "Enemy_Guardian_A_Snow.sbactorpack": {
+    "GuardianModelType": 0,
+    "GuardianControllerType": 1,
+    "HeadLimitMax": 45.0,
+    "HeadLimitMin": -45.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -45.0,
+    "MaxSpeed": 10.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  },
+  "Enemy_Guardian_B.sbactorpack": {
+    "GuardianModelType": 1,
+    "GuardianControllerType": 0,
+    "HeadLimitMax": 90.0,
+    "HeadLimitMin": -30.0,
+    "SightLimitMax": 90.0,
+    "SightLimitMin": -90.0,
+    "MaxSpeed": 0.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  },
+  "Enemy_Guardian_B_Clean.sbactorpack": {
+    "GuardianModelType": 1,
+    "GuardianControllerType": 0,
+    "HeadLimitMax": 90.0,
+    "HeadLimitMin": -30.0,
+    "SightLimitMax": 90.0,
+    "SightLimitMin": -90.0,
+    "MaxSpeed": 0.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  },
+  "Enemy_Guardian_C.sbactorpack": {
+    "GuardianModelType": 2,
+    "GuardianControllerType": 2,
+    "HeadLimitMax": 30.0,
+    "HeadLimitMin": -90.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -90.0,
+    "MaxSpeed": 15.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  },
+  "Enemy_Guardian_C_Clean.sbactorpack": {
+    "GuardianModelType": 2,
+    "GuardianControllerType": 2,
+    "HeadLimitMax": 30.0,
+    "HeadLimitMin": -90.0,
+    "SightLimitMax": 45.0,
+    "SightLimitMin": -90.0,
+    "MaxSpeed": 15.0,
+    "CannonBoneName": "Eye",
+    "RapidFireDistance": 10.0
+  }
+}

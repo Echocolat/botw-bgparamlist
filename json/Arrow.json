@@ -1,0 +1,202 @@
+{
+  "Obj_AncientArrow_A_01.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_AncientArrow_B_01.sbactorpack": {
+    "ArrowNum": 5,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_AncientArrow_C_01.sbactorpack": {
+    "ArrowNum": 3,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ArrowBundle_A_01.sbactorpack": {
+    "ArrowNum": 5,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ArrowBundle_A_02.sbactorpack": {
+    "ArrowNum": 10,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ArrowBundle_A_10.sbactorpack": {
+    "ArrowNum": 10,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ArrowNormal_A_01.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_BombArrow_A_01.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_BombArrow_A_02.sbactorpack": {
+    "ArrowNum": 5,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_BombArrow_A_03.sbactorpack": {
+    "ArrowNum": 10,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_BombArrow_A_04.sbactorpack": {
+    "ArrowNum": 20,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ElectricArrow_A_01.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ElectricArrow_A_02.sbactorpack": {
+    "ArrowNum": 10,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ElectricArrow_A_03.sbactorpack": {
+    "ArrowNum": 5,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_ElectricArrow_B_01.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_FireArrow_A_01.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_FireArrow_A_02.sbactorpack": {
+    "ArrowNum": 10,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_FireArrow_A_03.sbactorpack": {
+    "ArrowNum": 5,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_IceArrow_A_01.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_IceArrow_A_02.sbactorpack": {
+    "ArrowNum": 10,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Obj_IceArrow_A_03.sbactorpack": {
+    "ArrowNum": 5,
+    "DeleteTime": 0,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Priest_Boss_ElectricArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 30,
+    "DeleteTimeWithChemical": 30,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Priest_Boss_FireArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 90,
+    "DeleteTimeWithChemical": 90,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Priest_Boss_IceArrow.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": 30,
+    "DeleteTimeWithChemical": 30,
+    "EnemyShootNumForDelete": 0,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  },
+  "Weapon_Arrow_020.sbactorpack": {
+    "ArrowNum": 1,
+    "DeleteTime": -1,
+    "DeleteTimeWithChemical": 0,
+    "EnemyShootNumForDelete": 8,
+    "ArrowDeletePer": 0,
+    "ExtraDamage": 0
+  }
+}

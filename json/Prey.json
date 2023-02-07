@@ -1,0 +1,380 @@
+{
+  "Animal_Bear_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Boar_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Boar_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Boar_C.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Bull_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Cassowary_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Cow_A.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Crow_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Deer_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Deer_C.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Doe_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Dog_A.sbactorpack": {
+    "EatActorFindRadius": 30.0,
+    "EatActorFindRotDegree": 180.0,
+    "WaitTimeForStartEat": 0.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Dog_B.sbactorpack": {
+    "EatActorFindRadius": 30.0,
+    "EatActorFindRotDegree": 180.0,
+    "WaitTimeForStartEat": 0.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Dog_C.sbactorpack": {
+    "EatActorFindRadius": 30.0,
+    "EatActorFindRotDegree": 180.0,
+    "WaitTimeForStartEat": 0.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Donkey_B.sbactorpack": {
+    "EatActorFindRadius": 0.0,
+    "EatActorFindRotDegree": 0.0,
+    "WaitTimeForStartEat": 45.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Donkey_C.sbactorpack": {
+    "EatActorFindRadius": 0.0,
+    "EatActorFindRotDegree": 0.0,
+    "WaitTimeForStartEat": 45.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Elk_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Fox_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Fox_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Goat_A.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Goat_B.sbactorpack": {
+    "EatActorFindRadius": 0.0,
+    "EatActorFindRotDegree": 0.0,
+    "WaitTimeForStartEat": 45.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Gull_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Hawk_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Heron_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Heron_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Horse_A.sbactorpack": {
+    "EatActorFindRadius": 0.0,
+    "EatActorFindRotDegree": 0.0,
+    "WaitTimeForStartEat": 45.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Kokko_A.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Kokko_B.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_LittleBird_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_LittleBird_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_LittleBird_C.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_LittleBird_D.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_LittleBird_E.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_LittleBird_F.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Pigeon_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Pigeon_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Ptarmigan_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Ptarmigan_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Rhino_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_RupeeRabbit_A.sbactorpack": {
+    "EatActorFindRadius": 0.0,
+    "EatActorFindRotDegree": 0.0,
+    "WaitTimeForStartEat": 45.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Sheep_A.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Squirrel_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_SunazarashiSP_A.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_SunazarashiSP_B.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_SunazarashiSP_C.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Sunazarashi_A.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Sunazarashi_B.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Sunazarashi_D_DLC2nd.sbactorpack": {
+    "EatActorFindRadius": 15.0,
+    "EatActorFindRotDegree": 115.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_WildDuck_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_WildGoat_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Wolf_A.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Wolf_B.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  },
+  "Animal_Wolf_C.sbactorpack": {
+    "EatActorFindRadius": 50.0,
+    "EatActorFindRotDegree": 135.0,
+    "WaitTimeForStartEat": 35.0,
+    "IsEnableGroupEscape": true,
+    "AimEscapeOffsetRate": 0.75
+  }
+}

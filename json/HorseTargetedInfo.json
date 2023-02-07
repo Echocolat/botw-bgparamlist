@@ -1,0 +1,3552 @@
+{
+  "AirOcta_Tag.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Crow_Swarm.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Crow_Swarm_HeapMeasure.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Gull_Swarm.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Gull_Swarm_HeapMeasure.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Pigeon_B_Swarm.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Pigeon_B_Swarm_HeapMeasure.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Pigeon_Swarm.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Animal_Pigeon_Swarm_HeapMeasure.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Dm_Npc_Gerdo_Hero.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Dm_Npc_Goron_Hero.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Dm_Npc_Hyrule_KingSoul.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Dm_Npc_Rito_Hero.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Dm_Npc_Zelda_Sibyl.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Dm_Npc_Zora_Hero.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_AirOctarock.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Azito_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Azito_Middle_DLC2.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Junior_Npc_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Junior_Npc_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Middle_Quest.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Shooter_Azito_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Assassin_Shooter_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bee_Swarm.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bee_Swarm_HeapMeasure.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Bone_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Bone_Junior_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Gold.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Guard_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Guard_Junior_Ambush.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Guard_Junior_TreeHouseTop.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Guard_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Guard_Middle_Ambush.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Guard_Middle_TreeHouseTop.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Bokoblin_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Ganon.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_GanonBeast.sbactorpack": {
+    "HorseMoveRadius": 45.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": true
+  },
+  "Enemy_GanonBeast_WeakPoint.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_GanonGrudge.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_GanonGrudge_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_GanonGrudge_02.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Giant_Bone.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 4.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Giant_Bone_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 4.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Giant_Bone_Eye.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Giant_Bone_Eye_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Giant_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 4.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Giant_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 4.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Giant_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 4.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Golem_Fire.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": true
+  },
+  "Enemy_Golem_Fire_R.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": true
+  },
+  "Enemy_Golem_Ice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": true
+  },
+  "Enemy_Golem_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": true
+  },
+  "Enemy_Golem_Little.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Golem_Little_Fire.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Golem_Little_Ice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Golem_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": true
+  },
+  "Enemy_Golem_R_WeakPoint.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Golem_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": true
+  },
+  "Enemy_Golem_WeakPoint.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Golem_WeakPoint_02.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Golem_WeakPoint_03.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_A.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_A_Fixed_Moss.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_A_Fixed_Sand.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_A_Fixed_Snow.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_A_Moss.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_A_Sand.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_A_Snow.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_B.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_B_Clean.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_C.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_C_Clean.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Baby.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Baby_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Junior_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Junior_DetachLineBeam.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe_DetachLineBeam.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Middle_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Middle_DetachLineBeam.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Practice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Guardian_Mini_Senior_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Electric.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Electric_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Fire.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Fire_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Ice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Ice_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Swarm.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Swarm_AllDay.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Swarm_AllDay_HeapMeasure.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Keese_Swarm_HeapMeasure.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Bone_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Bone_Junior_Head.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Electric.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Electric_ForestTower.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Fire.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Fire_Guard_Ambush.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Gold.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Guard_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Guard_Junior_LongVisibility.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Guard_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Guard_Middle_LongVisibility.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Ice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Junior_Guard_Ambush.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Middle_Guard_Ambush.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lizalfos_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lynel_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lynel_Gold.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lynel_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lynel_Junior_Mountain.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lynel_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Lynel_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Bone_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Bone_Junior_Head.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Dark.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Gold.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Junior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Middle.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Moriblin_Senior_Volcano.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Octarock.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 2.200000047683716,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Octarock_Desert.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 2.200000047683716,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Octarock_Forest.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 2.200000047683716,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Octarock_Snow.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 2.200000047683716,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Octarock_Stone.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 2.200000047683716,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Wizzrobe_Electric.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Wizzrobe_Electric_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Wizzrobe_Fire.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Wizzrobe_Fire_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Wizzrobe_Ice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Enemy_Wizzrobe_Ice_Senior.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "GreatFairyBeforeRevival.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "HorseAssociationCustum001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "HorseAssociationCustum002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "HorseAssociationCustum003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "HorseAssociationCustum004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "HorseGod001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_AncientAssistant001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_AncientAssistant003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_AncientAssistant004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_AncientDoctor.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_AncientDoctor_Hateno.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_000.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_artist_011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Assassin_010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_006_DLC2nd.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_011_DLC2nd.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Attacked_012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_BackseatKorok_Air.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Bottle_Mes001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Bowling.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_CaptionVoice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Challenge093Lady.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DeathEastHatago_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DeathEastHatago_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DeathEastHatago_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DeathMt001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DeathWestHatago_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_DRCVoice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DressFairy_00.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DressFairy_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DressFairy_02.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DressFairy_03.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriest001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc2nd001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_DungeonPriestDlc2nd_Boss.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronHatago_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronWoods001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronWoods003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronWoods006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronWoods007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronWoods008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronWoods009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FaronWoods010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FarthestIsland002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FirstColony004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_FollowGoron.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Gaman01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Gaman01_DLC2nd.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Gaman02.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Gaman02_DLC2nd.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Gaman03.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Gaman03_DLC2nd.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_GerudoCanyonHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_GerudoDesert001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_GerudoDesert002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_GerudoDesert003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_GerudoDesert004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_gerudovalley001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_GodVoice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_goron001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_goron002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_goron003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_goron004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron016.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron017.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron018.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron020.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron020_2.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron021.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron022.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron023.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron025.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_goron026.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron030.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron031.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron032.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron033.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron109.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron110.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron_Camp001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron_Camp002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Goron_Camp003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoGate001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoGate002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoGate003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage016.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage017.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage018.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage019.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage020.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage021.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage022.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage023.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage024.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage025.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage026.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage027.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage028.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage029.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage030.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage031.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage032.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HatenoVillage033.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HiddenKorokFly.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HiddenKorokGround.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain020.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain021.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain025.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain030.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain031.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain032.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain033.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain034.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain035.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain036.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain037.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain040.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HighMountain041.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HorseBuyer.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Hunters_Lost.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HutagoHatago_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HutagoHatago_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HutagoHatago_Woman_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleDepthHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleDepthHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleDepthHatago003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleDepthHatago004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleDepthHatago005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleDepthHatago006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleDepthHatago007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyrulePlain004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyrulePlain005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyrulePlain006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleWestHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleWestHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleWestHatago003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleWestHatago004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleWestHatago005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_HyruleWestHatago006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_IceVillage011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kakariko016.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Parasail002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Parasail004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Parasail005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Vagrant001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Vagrant003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Vagrant004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Vagrant005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Vagrant006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_King_Vagrant007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri004_DLCDemo.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri005_DLCDemo.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri006_DLCDemo.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kokiri007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kokiri008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kokiri010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Kokiri011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_kokiri012_DLCDemo.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_LakeSideHatago004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_LakeSideHatago005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_LakeSideHatago006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_Lanayru001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_Lanayru002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Lanayru003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Lanayru004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_MamonoShop.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Minigame_BirdMan001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_MiniGame_Crosscountry.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_MiniGame_Golf.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_BalladOfHeroes.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_BalladOfHeroes_Last.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroGerudo.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroGerudoRelief.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroGoron.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroGoronRelief.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroRito.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroRitoRelief.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroZora.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Musician_AoC_HeroZoraRelief.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_NakedIslandPriest.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_NorthHatelHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_NorthHatelHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_NorthHatelHatago006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_NorthHateru003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_NorthHateru005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_NorthHateru_around001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis004_fr01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis004_fr02.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis004_fr03.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis004_fr04.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis016.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis017.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis018.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis019.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis020.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis021.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis022.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis023.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis024.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis025.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis026.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis027.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis028.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis029.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis032.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis033.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis036.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis037.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis038.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis039.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis040.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis041.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis042.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis043.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis044.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis045.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis046.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis047.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis050.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis050_2.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_oasis051.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis061.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis062.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis063.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis064.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis065.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis066.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis067.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis068.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis069.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_oasis070.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisGoddess.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisGoron_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisHighMountain_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisHylia_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisHylia_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisHylia_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisMilk_A.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisMilk_B.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisMilk_C.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisMilk_D.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisMilk_E.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisSoldier_A.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisSoldier_B.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisSoldier_C.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisStep_A.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisStep_B.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisStudent_A.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisStudent_B.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisStudent_C.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisTeacher.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OasisWaterChannel.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OldKorok.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OldKorok_Forest.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OldKorok_Help.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OldKorok_Rvs.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_OldKorok_WetLand.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_PublicVoice.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Remains_Fancier001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_RitoHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_RitoHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_RitoHatago003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_RitoHatago004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_RiverSideHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_RiverSideHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_RiverSideHatago003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_016.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_017.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_018.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_019.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_020.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_021.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_022.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_023.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_024.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_025.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_026.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_027.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_028.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_029.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_030.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_031.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_032.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_033.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_034.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_035.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_036.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_037.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_040.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_041.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_042.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_043.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_044.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_045.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Road_Firone002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SmallOasis012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillage016.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthernVillageGambler.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthHateru005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthHateru006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_SouthHateru007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Strange_Beacon.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_SystemTextBoard.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "NPC_SystemTextDemonStatue.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaBridgeHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaBridgeHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaBridgeHatago003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaBridgeHatago004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaBridgeHatago005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaBridgeHatago006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaHatago003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TabantaHatago004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourHatago001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourHatago002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourHatago003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourHatago004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourHatago005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourHatago2_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourPlainHatago_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourPlainHatago_002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourPlainHatago_003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TamourPlainHatago_004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_00.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_02.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_03.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_04.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_05.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_06.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_07.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_08.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_09.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_10.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_11.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_12.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_13.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_14.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_TripMaster_15.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage030.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage031.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage031_2.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_UMiiVillage032.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_ValleyVillage010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_ValleyVillage031.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora002.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora003.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora004.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora005.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora006.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora007.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora008.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora009.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora010.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora011.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora012.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora013.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora014.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora015.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora020.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora025.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora026.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora027.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora028.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora029.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora030.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora031.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora032.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora033.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora034.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora035.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora036.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora037.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_Zora126.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_ZoraB001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Npc_ZoraGoron_001.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": 1.600000023841858,
+    "IsCircularMoveAlways": false
+  },
+  "Priest_Boss_Giant.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Priest_Boss_Normal.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Priest_Boss_ShadowClone.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Priest_Boss_ShadowClone_Real.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "RemainsElectricCannon.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "RemainsElectric_WeakPoint.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "RemainsFire_Drone_A_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "RemainsWind_Battery_A_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "Self_HorseAssociationCustum.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "subchallnpc000.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "subchallnpc000_twin.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "TwnObj_AncientOven_A_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "TwnObj_DemonStatue_A_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "TwnObj_GoddesStatue_A_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "TwnObj_GoddesStatue_A_02.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "TwnObj_GoddesStatue_A_10.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "TwnObj_SuperGoddesStatue_A_01.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "UnknownNPC.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  },
+  "UnKnownNPC_2.sbactorpack": {
+    "HorseMoveRadius": -1.0,
+    "HorseAvoidOffset": -1.0,
+    "IsCircularMoveAlways": false
+  }
+}

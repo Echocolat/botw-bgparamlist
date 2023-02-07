@@ -1,0 +1,1450 @@
+{
+  "AirOcta_Tag.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Bear_A.sbactorpack": {
+    "ShortAttackTimeMin": 500,
+    "ShortAttackTimeMax": 600,
+    "MiddleAttackTimeMin": 900,
+    "MiddleAttackTimeMax": 1000,
+    "LongAttackTimeMin": 1200,
+    "LongAttackTimeMax": 1300
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "ShortAttackTimeMin": 500,
+    "ShortAttackTimeMax": 600,
+    "MiddleAttackTimeMin": 900,
+    "MiddleAttackTimeMax": 1000,
+    "LongAttackTimeMin": 1200,
+    "LongAttackTimeMax": 1300
+  },
+  "Animal_Crow_Swarm.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Crow_Swarm_HeapMeasure.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Gull_Swarm.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Gull_Swarm_HeapMeasure.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Pigeon_B_Swarm.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Pigeon_B_Swarm_HeapMeasure.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Pigeon_Swarm.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Pigeon_Swarm_HeapMeasure.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Animal_Wolf_A.sbactorpack": {
+    "ShortAttackTimeMin": 500,
+    "ShortAttackTimeMax": 600,
+    "MiddleAttackTimeMin": 900,
+    "MiddleAttackTimeMax": 1000,
+    "LongAttackTimeMin": 1200,
+    "LongAttackTimeMax": 1300
+  },
+  "Animal_Wolf_B.sbactorpack": {
+    "ShortAttackTimeMin": 500,
+    "ShortAttackTimeMax": 600,
+    "MiddleAttackTimeMin": 900,
+    "MiddleAttackTimeMax": 1000,
+    "LongAttackTimeMin": 1200,
+    "LongAttackTimeMax": 1300
+  },
+  "Animal_Wolf_C.sbactorpack": {
+    "ShortAttackTimeMin": 500,
+    "ShortAttackTimeMax": 600,
+    "MiddleAttackTimeMin": 900,
+    "MiddleAttackTimeMax": 1000,
+    "LongAttackTimeMin": 1200,
+    "LongAttackTimeMax": 1300
+  },
+  "Enemy_AirOctarock.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Assassin_Azito_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 60
+  },
+  "Enemy_Assassin_Azito_Middle_DLC2.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 60
+  },
+  "Enemy_Assassin_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 45,
+    "ShortAttackTimeMax": 65,
+    "MiddleAttackTimeMin": 45,
+    "MiddleAttackTimeMax": 65,
+    "LongAttackTimeMin": 45,
+    "LongAttackTimeMax": 65
+  },
+  "Enemy_Assassin_Junior_Npc_001.sbactorpack": {
+    "ShortAttackTimeMin": 45,
+    "ShortAttackTimeMax": 65,
+    "MiddleAttackTimeMin": 45,
+    "MiddleAttackTimeMax": 65,
+    "LongAttackTimeMin": 45,
+    "LongAttackTimeMax": 65
+  },
+  "Enemy_Assassin_Junior_Npc_002.sbactorpack": {
+    "ShortAttackTimeMin": 45,
+    "ShortAttackTimeMax": 65,
+    "MiddleAttackTimeMin": 45,
+    "MiddleAttackTimeMax": 65,
+    "LongAttackTimeMin": 45,
+    "LongAttackTimeMax": 65
+  },
+  "Enemy_Assassin_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 120,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 140
+  },
+  "Enemy_Assassin_Middle_Quest.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 120,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 140
+  },
+  "Enemy_Assassin_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 60,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 50,
+    "LongAttackTimeMax": 90
+  },
+  "Enemy_Assassin_Shooter_Azito_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 0,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 0,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 0
+  },
+  "Enemy_Assassin_Shooter_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 0,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 0,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 0
+  },
+  "Enemy_Bee_Swarm.sbactorpack": {
+    "ShortAttackTimeMin": 160,
+    "ShortAttackTimeMax": 180,
+    "MiddleAttackTimeMin": 200,
+    "MiddleAttackTimeMax": 220,
+    "LongAttackTimeMin": 220,
+    "LongAttackTimeMax": 240
+  },
+  "Enemy_Bee_Swarm_HeapMeasure.sbactorpack": {
+    "ShortAttackTimeMin": 160,
+    "ShortAttackTimeMax": 180,
+    "MiddleAttackTimeMin": 200,
+    "MiddleAttackTimeMax": 220,
+    "LongAttackTimeMin": 220,
+    "LongAttackTimeMax": 240
+  },
+  "Enemy_Bokoblin_Bone_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Bone_Junior_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Bokoblin_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 5,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 5,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 5
+  },
+  "Enemy_Bokoblin_Gold.sbactorpack": {
+    "ShortAttackTimeMin": 5,
+    "ShortAttackTimeMax": 10,
+    "MiddleAttackTimeMin": 5,
+    "MiddleAttackTimeMax": 15,
+    "LongAttackTimeMin": 5,
+    "LongAttackTimeMax": 20
+  },
+  "Enemy_Bokoblin_Guard_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Guard_Junior_Ambush.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Guard_Junior_TreeHouseTop.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Guard_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Guard_Middle_Ambush.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Guard_Middle_TreeHouseTop.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Bokoblin_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 75,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Chuchu_Electric_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Electric_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Electric_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Fire_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Fire_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Fire_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Ice_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Ice_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Ice_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Chuchu_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 35,
+    "MiddleAttackTimeMin": 35,
+    "MiddleAttackTimeMax": 40,
+    "LongAttackTimeMin": 40,
+    "LongAttackTimeMax": 45
+  },
+  "Enemy_Ganon.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_GanonBeast.sbactorpack": {
+    "ShortAttackTimeMin": 70,
+    "ShortAttackTimeMax": 90,
+    "MiddleAttackTimeMin": 110,
+    "MiddleAttackTimeMax": 130,
+    "LongAttackTimeMin": 150,
+    "LongAttackTimeMax": 175
+  },
+  "Enemy_GanonBeast_WeakPoint.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_GanonGrudge.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_GanonGrudge_01.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_GanonGrudge_02.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Giant_Bone.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 80,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 120,
+    "LongAttackTimeMin": 120,
+    "LongAttackTimeMax": 180
+  },
+  "Enemy_Giant_Bone_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 80,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 120,
+    "LongAttackTimeMin": 120,
+    "LongAttackTimeMax": 180
+  },
+  "Enemy_Giant_Bone_Eye.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Giant_Bone_Eye_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Giant_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 80,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 120,
+    "LongAttackTimeMin": 120,
+    "LongAttackTimeMax": 180
+  },
+  "Enemy_Giant_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 80,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 120,
+    "LongAttackTimeMin": 120,
+    "LongAttackTimeMax": 180
+  },
+  "Enemy_Giant_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 80,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 120,
+    "LongAttackTimeMin": 120,
+    "LongAttackTimeMax": 180
+  },
+  "Enemy_Golem_Fire.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 50,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 70,
+    "LongAttackTimeMax": 80
+  },
+  "Enemy_Golem_Fire_R.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 50,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 70,
+    "LongAttackTimeMax": 80
+  },
+  "Enemy_Golem_Ice.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 50,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 70,
+    "LongAttackTimeMax": 80
+  },
+  "Enemy_Golem_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 70,
+    "ShortAttackTimeMax": 80,
+    "MiddleAttackTimeMin": 90,
+    "MiddleAttackTimeMax": 100,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Golem_Little.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Golem_Little_Fire.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Golem_Little_Ice.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Golem_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 50,
+    "ShortAttackTimeMax": 60,
+    "MiddleAttackTimeMin": 70,
+    "MiddleAttackTimeMax": 80,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Golem_R_WeakPoint.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Golem_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 50,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 70,
+    "LongAttackTimeMax": 80
+  },
+  "Enemy_Golem_WeakPoint.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Golem_WeakPoint_02.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Golem_WeakPoint_03.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_A.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_A_Fixed_Moss.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_A_Fixed_Sand.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_A_Fixed_Snow.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_A_Moss.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_A_Sand.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_A_Snow.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_B.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_B_Clean.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_C.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_C_Clean.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Guardian_Mini_Baby.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Baby_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Junior_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Junior_DetachLineBeam.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe_DetachLineBeam.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Middle_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Middle_DetachLineBeam.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Practice.sbactorpack": {
+    "ShortAttackTimeMin": 60,
+    "ShortAttackTimeMax": 60,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 60,
+    "LongAttackTimeMax": 60
+  },
+  "Enemy_Guardian_Mini_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Guardian_Mini_Senior_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Keese.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_Electric.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_Electric_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_Fire.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_Fire_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_Ice.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_Ice_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 100,
+    "MiddleAttackTimeMin": 100,
+    "MiddleAttackTimeMax": 110,
+    "LongAttackTimeMin": 110,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Keese_Swarm.sbactorpack": {
+    "ShortAttackTimeMin": 210,
+    "ShortAttackTimeMax": 220,
+    "MiddleAttackTimeMin": 230,
+    "MiddleAttackTimeMax": 240,
+    "LongAttackTimeMin": 240,
+    "LongAttackTimeMax": 250
+  },
+  "Enemy_Keese_Swarm_AllDay.sbactorpack": {
+    "ShortAttackTimeMin": 210,
+    "ShortAttackTimeMax": 220,
+    "MiddleAttackTimeMin": 230,
+    "MiddleAttackTimeMax": 240,
+    "LongAttackTimeMin": 240,
+    "LongAttackTimeMax": 250
+  },
+  "Enemy_Keese_Swarm_AllDay_HeapMeasure.sbactorpack": {
+    "ShortAttackTimeMin": 210,
+    "ShortAttackTimeMax": 220,
+    "MiddleAttackTimeMin": 230,
+    "MiddleAttackTimeMax": 240,
+    "LongAttackTimeMin": 240,
+    "LongAttackTimeMax": 250
+  },
+  "Enemy_Keese_Swarm_HeapMeasure.sbactorpack": {
+    "ShortAttackTimeMin": 210,
+    "ShortAttackTimeMax": 220,
+    "MiddleAttackTimeMin": 230,
+    "MiddleAttackTimeMax": 240,
+    "LongAttackTimeMin": 240,
+    "LongAttackTimeMax": 250
+  },
+  "Enemy_Lizalfos_Bone_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Bone_Junior_Head.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Lizalfos_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 5,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 5,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 5
+  },
+  "Enemy_Lizalfos_Electric.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Electric_ForestTower.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Fire.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Fire_Guard_Ambush.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Gold.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 5,
+    "MiddleAttackTimeMin": 5,
+    "MiddleAttackTimeMax": 10,
+    "LongAttackTimeMin": 10,
+    "LongAttackTimeMax": 15
+  },
+  "Enemy_Lizalfos_Guard_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Guard_Junior_LongVisibility.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Guard_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Guard_Middle_LongVisibility.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Ice.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Junior_Guard_Ambush.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Middle_Guard_Ambush.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lizalfos_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 70,
+    "LongAttackTimeMin": 90,
+    "LongAttackTimeMax": 100
+  },
+  "Enemy_Lynel_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 5,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 5,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 5
+  },
+  "Enemy_Lynel_Gold.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 5,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 10,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 15
+  },
+  "Enemy_Lynel_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 5,
+    "ShortAttackTimeMax": 10,
+    "MiddleAttackTimeMin": 10,
+    "MiddleAttackTimeMax": 20,
+    "LongAttackTimeMin": 20,
+    "LongAttackTimeMax": 30
+  },
+  "Enemy_Lynel_Junior_Mountain.sbactorpack": {
+    "ShortAttackTimeMin": 5,
+    "ShortAttackTimeMax": 10,
+    "MiddleAttackTimeMin": 10,
+    "MiddleAttackTimeMax": 20,
+    "LongAttackTimeMin": 20,
+    "LongAttackTimeMax": 30
+  },
+  "Enemy_Lynel_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 5,
+    "ShortAttackTimeMax": 10,
+    "MiddleAttackTimeMin": 10,
+    "MiddleAttackTimeMax": 20,
+    "LongAttackTimeMin": 20,
+    "LongAttackTimeMax": 30
+  },
+  "Enemy_Lynel_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 5,
+    "ShortAttackTimeMax": 10,
+    "MiddleAttackTimeMin": 10,
+    "MiddleAttackTimeMax": 20,
+    "LongAttackTimeMin": 20,
+    "LongAttackTimeMax": 30
+  },
+  "Enemy_Moriblin_Bone_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 80,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Moriblin_Bone_Junior_Head.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Moriblin_Dark.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 5,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 5,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 5
+  },
+  "Enemy_Moriblin_Gold.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 10,
+    "MiddleAttackTimeMin": 5,
+    "MiddleAttackTimeMax": 15,
+    "LongAttackTimeMin": 10,
+    "LongAttackTimeMax": 20
+  },
+  "Enemy_Moriblin_Junior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 80,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Moriblin_Middle.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 80,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Moriblin_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 80,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Moriblin_Senior_Volcano.sbactorpack": {
+    "ShortAttackTimeMin": 20,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 80,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Octarock.sbactorpack": {
+    "ShortAttackTimeMin": 40,
+    "ShortAttackTimeMax": 60,
+    "MiddleAttackTimeMin": 60,
+    "MiddleAttackTimeMax": 80,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Octarock_Desert.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Octarock_Forest.sbactorpack": {
+    "ShortAttackTimeMin": 40,
+    "ShortAttackTimeMax": 60,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 100,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Octarock_Snow.sbactorpack": {
+    "ShortAttackTimeMin": 30,
+    "ShortAttackTimeMax": 40,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 50,
+    "LongAttackTimeMin": 60,
+    "LongAttackTimeMax": 70
+  },
+  "Enemy_Octarock_Stone.sbactorpack": {
+    "ShortAttackTimeMin": 40,
+    "ShortAttackTimeMax": 60,
+    "MiddleAttackTimeMin": 80,
+    "MiddleAttackTimeMax": 100,
+    "LongAttackTimeMin": 100,
+    "LongAttackTimeMax": 120
+  },
+  "Enemy_Sandworm.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 110,
+    "MiddleAttackTimeMin": 120,
+    "MiddleAttackTimeMax": 130,
+    "LongAttackTimeMin": 150,
+    "LongAttackTimeMax": 160
+  },
+  "Enemy_SandwormR.sbactorpack": {
+    "ShortAttackTimeMin": 90,
+    "ShortAttackTimeMax": 110,
+    "MiddleAttackTimeMin": 120,
+    "MiddleAttackTimeMax": 130,
+    "LongAttackTimeMin": 150,
+    "LongAttackTimeMax": 160
+  },
+  "Enemy_SiteBoss_Bow.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Bow_Castle.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Bow_R.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Lsword.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Lsword_Castle.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Lsword_R.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Spear.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Spear_Castle.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Spear_R.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Sword.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Sword_Castle.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_SiteBoss_Sword_R.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Wizzrobe_Electric.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Wizzrobe_Electric_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Wizzrobe_Fire.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Wizzrobe_Fire_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Wizzrobe_Ice.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Enemy_Wizzrobe_Ice_Senior.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "Priest_Boss_Giant.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 0,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 0,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 0
+  },
+  "Priest_Boss_Normal.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 0,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 0,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 0
+  },
+  "Priest_Boss_ShadowClone.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 0,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 0,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 0
+  },
+  "Priest_Boss_ShadowClone_Real.sbactorpack": {
+    "ShortAttackTimeMin": 0,
+    "ShortAttackTimeMax": 0,
+    "MiddleAttackTimeMin": 0,
+    "MiddleAttackTimeMax": 0,
+    "LongAttackTimeMin": 0,
+    "LongAttackTimeMax": 0
+  },
+  "RemainsElectricCannon.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "RemainsElectric_WeakPoint.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "RemainsFire_Drone_A_01.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  },
+  "RemainsWind_Battery_A_01.sbactorpack": {
+    "ShortAttackTimeMin": 10,
+    "ShortAttackTimeMax": 30,
+    "MiddleAttackTimeMin": 40,
+    "MiddleAttackTimeMax": 60,
+    "LongAttackTimeMin": 80,
+    "LongAttackTimeMax": 110
+  }
+}

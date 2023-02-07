@@ -1,0 +1,302 @@
+{
+  "Enemy_Chuchu_Electric_Junior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 0.75,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.25,
+    "EyeDir": [
+      0.10000000149011612,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.5,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Electric_Middle.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.0,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.20000000298023224,
+    "EyeDir": [
+      0.30000001192092896,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Electric_Senior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.5,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.3499999940395355,
+    "EyeDir": [
+      0.25,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Fire_Junior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 0.75,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.25,
+    "EyeDir": [
+      0.10000000149011612,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.5,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Fire_Middle.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.0,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.20000000298023224,
+    "EyeDir": [
+      0.30000001192092896,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Fire_Senior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.5,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.3499999940395355,
+    "EyeDir": [
+      0.25,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Ice_Junior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 0.75,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.25,
+    "EyeDir": [
+      0.10000000149011612,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.5,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Ice_Middle.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.0,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.20000000298023224,
+    "EyeDir": [
+      0.30000001192092896,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Ice_Senior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.5,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.3499999940395355,
+    "EyeDir": [
+      0.25,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Junior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 0.75,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.25,
+    "EyeDir": [
+      0.10000000149011612,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.5,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Middle.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.0,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.20000000298023224,
+    "EyeDir": [
+      0.30000001192092896,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  },
+  "Enemy_Chuchu_Senior.sbactorpack": {
+    "MoveBoneName": "Body_Move",
+    "BodyRadius": 1.5,
+    "ClothBoneNumForEyeCalc": 12,
+    "BodyRootBoneName": "Skl_Root",
+    "LeftEyeBoneName": "Eye_2_L",
+    "RightEyeBoneName": "Eye_2_R",
+    "EyeSpaceHalf": 0.3499999940395355,
+    "EyeDir": [
+      0.25,
+      1.0,
+      1.0
+    ],
+    "EyeOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EyeUpMoveRate": 0.25,
+    "EyeDownMoveRate": 0.4000000059604645,
+    "IsAverageEyePos": true,
+    "EyeDelayAccRate": 0.6000000238418579,
+    "EyeYMoveTheta": 1.0,
+    "EyeYMoveFrequency": 0.032999999821186066
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "BeamosBeam.sbactorpack": {
+    "BeamLevel": 255
+  },
+  "CurseGanonBeam.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GanonBeam.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GanonBeastBeam.sbactorpack": {
+    "BeamLevel": 255
+  },
+  "GuardianBeam.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GuardianBeam_RemainsWind.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GuardianMiniBeam.sbactorpack": {
+    "BeamLevel": 1
+  },
+  "GuardianMiniBeam_Junior.sbactorpack": {
+    "BeamLevel": 1
+  },
+  "GuardianMiniBeam_Middle.sbactorpack": {
+    "BeamLevel": 1
+  },
+  "GuardianMiniBeam_Senior.sbactorpack": {
+    "BeamLevel": 1
+  },
+  "GuardianMiniFinalBeam.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GuardianMiniFinalBeam_Junior.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GuardianMiniFinalBeam_Middle.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GuardianMiniFinalBeam_Senior.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "GuardianMiniLineBeam.sbactorpack": {
+    "BeamLevel": 255
+  },
+  "GuardianMiniLineBeam_Junior.sbactorpack": {
+    "BeamLevel": 255
+  },
+  "GuardianMiniLineBeam_Middle.sbactorpack": {
+    "BeamLevel": 255
+  },
+  "GuardianMiniLineBeam_Senior.sbactorpack": {
+    "BeamLevel": 255
+  },
+  "Priest_Boss_Beam.sbactorpack": {
+    "BeamLevel": 2
+  },
+  "SimpleBeam.sbactorpack": {
+    "BeamLevel": 2
+  }
+}

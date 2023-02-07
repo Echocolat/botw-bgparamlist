@@ -1,0 +1,30 @@
+{
+  "Animal_Bear_A.sbactorpack": {
+    "BindActorName": "Horse_Link_Mane_Grabbed_Bear",
+    "IsKeepSleep": true
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "BindActorName": "Horse_Link_Mane_Grabbed_Bear",
+    "IsKeepSleep": true
+  },
+  "Animal_Deer_A.sbactorpack": {
+    "BindActorName": "Horse_Link_Mane_Grabbed_Deer",
+    "IsKeepSleep": true
+  },
+  "Animal_Deer_C.sbactorpack": {
+    "BindActorName": "Horse_Link_Mane_Grabbed_Deer",
+    "IsKeepSleep": true
+  },
+  "Animal_Doe_A.sbactorpack": {
+    "BindActorName": "Horse_Link_Mane_Grabbed_Doe",
+    "IsKeepSleep": true
+  },
+  "Animal_Donkey_B.sbactorpack": {
+    "BindActorName": "GameRomHorseSaddle_00S",
+    "IsKeepSleep": false
+  },
+  "Animal_Horse_A.sbactorpack": {
+    "BindActorName": "Horse_Link_Mane_Reduction",
+    "IsKeepSleep": false
+  }
+}

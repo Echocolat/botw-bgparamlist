@@ -1,0 +1,436 @@
+{
+  "BeeHome.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 0,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_00.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_01.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_02.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_03.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_04.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_05.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_06.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_07.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_08.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_12.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_13.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_14.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_15.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_16.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_17.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_18.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_19.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_20.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_21.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_24.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_25.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_26.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_27.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_28.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_29.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_30.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_31.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_32.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_33.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_34.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_38.sbactorpack": {
+    "BoostHitPointRecover": 5,
+    "BoostEffectiveTime": 60,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_39.sbactorpack": {
+    "BoostHitPointRecover": 8,
+    "BoostEffectiveTime": 180,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_40.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_41.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_42.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_43.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_44.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_45.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_46.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 80,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_47.sbactorpack": {
+    "BoostHitPointRecover": 10,
+    "BoostEffectiveTime": 600,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_48.sbactorpack": {
+    "BoostHitPointRecover": 15,
+    "BoostEffectiveTime": 1800,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_49.sbactorpack": {
+    "BoostHitPointRecover": 5,
+    "BoostEffectiveTime": 60,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_50.sbactorpack": {
+    "BoostHitPointRecover": 8,
+    "BoostEffectiveTime": 180,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_51.sbactorpack": {
+    "BoostHitPointRecover": 10,
+    "BoostEffectiveTime": 600,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_52.sbactorpack": {
+    "BoostHitPointRecover": 15,
+    "BoostEffectiveTime": 1800,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_53.sbactorpack": {
+    "BoostHitPointRecover": 5,
+    "BoostEffectiveTime": 60,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_54.sbactorpack": {
+    "BoostHitPointRecover": 8,
+    "BoostEffectiveTime": 180,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_55.sbactorpack": {
+    "BoostHitPointRecover": 10,
+    "BoostEffectiveTime": 600,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_56.sbactorpack": {
+    "BoostHitPointRecover": 15,
+    "BoostEffectiveTime": 1800,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_57.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 40,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Enemy_Put_57.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 160,
+    "BoostSuccessRate": 30,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Fruit_K.sbactorpack": {
+    "BoostHitPointRecover": 2,
+    "BoostEffectiveTime": 20,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Fruit_L.sbactorpack": {
+    "BoostHitPointRecover": 2,
+    "BoostEffectiveTime": 10,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_02.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 60,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_04.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 60,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_05.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 50,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_05_00.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 50,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_06.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 50,
+    "BoostSuccessRate": 10,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Material_08.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 0,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Ore_H.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 30,
+    "BoostSuccessRate": 0,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  },
+  "Item_Ore_J.sbactorpack": {
+    "BoostHitPointRecover": 0,
+    "BoostEffectiveTime": 60,
+    "BoostSuccessRate": 100,
+    "BoostMaxHeartLevel": 0,
+    "BoostStaminaLevel": 0
+  }
+}

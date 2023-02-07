@@ -1,0 +1,1562 @@
+{
+  "AirOcta_Tag.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Bear_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "BeeHome,Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit"
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit"
+  },
+  "Animal_Boar_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMushroom,CookPlant"
+  },
+  "Animal_Boar_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMushroom,CookPlant"
+  },
+  "Animal_Boar_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMushroom,CookPlant"
+  },
+  "Animal_Bull_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookPlant"
+  },
+  "Animal_Cassowary_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMushroom,CookPlant"
+  },
+  "Animal_Cow_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookPlant"
+  },
+  "Animal_Crow_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Deer_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookPlant"
+  },
+  "Animal_Deer_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookPlant"
+  },
+  "Animal_Doe_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookPlant"
+  },
+  "Animal_Dog_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMeat"
+  },
+  "Animal_Dog_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMeat"
+  },
+  "Animal_Dog_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMeat"
+  },
+  "Animal_Donkey_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Donkey_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Elk_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookPlant"
+  },
+  "Animal_Fish_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_A,Item_PlantGet_A",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMushroom,CookValue1"
+  },
+  "Animal_Fish_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_B,Item_PlantGet_B,Item_Plant_C,Item_PlantGet_C",
+    "EatActorNames2": "Item_Mushroom_F,Item_Mushroom_N,Item_Fruit_D",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_E,Item_PlantGet_E,Item_Mushroom_B,Item_Fruit_F",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_D.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_L,Item_PlantGet_L,Item_Mushroom_H,Item_Fruit_C",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_E.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_G,Item_PlantGet_G,Item_Mushroom_L,Item_Fruit_H",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_F.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_G,Item_PlantGet_G,Item_Mushroom_L,Item_Fruit_H",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_G.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_H,Item_PlantGet_H,Item_Mushroom_M,Item_Fruit_J",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_H.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_H,Item_PlantGet_H,Item_Mushroom_M,Item_Fruit_J",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_I.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_B,Item_PlantGet_B,Item_Plant_C,Item_PlantGet_C",
+    "EatActorNames2": "Item_Mushroom_F,Item_Mushroom_N,Item_Fruit_D",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_J.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_F,Item_PlantGet_F,Item_Mushroom_C,Item_Fruit_I",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_L.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Mushroom_A,BeeHome",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_X.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_I,Item_PlantGet_I,Item_Plant_J,Item_PlantGet_J,Item_Mushroom_J",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Animal_Fish_Z.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1,CookFruit"
+  },
+  "Animal_Fox_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookFish,CookInsect"
+  },
+  "Animal_Fox_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookFish,CookInsect"
+  },
+  "Animal_Goat_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookMushroom,CookPlant"
+  },
+  "Animal_Goat_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Gull_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Hawk_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Heron_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Heron_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Horse_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Kokko_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Kokko_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_LittleBird_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_LittleBird_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_LittleBird_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_LittleBird_D.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_LittleBird_E.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_LittleBird_F.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Pigeon_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Pigeon_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Ptarmigan_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Ptarmigan_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Rhino_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookPlant"
+  },
+  "Animal_RupeeRabbit_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_Sheep_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookPlant"
+  },
+  "Animal_Squirrel_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit"
+  },
+  "Animal_SunazarashiSP_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit"
+  },
+  "Animal_SunazarashiSP_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit"
+  },
+  "Animal_SunazarashiSP_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit"
+  },
+  "Animal_Sunazarashi_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit"
+  },
+  "Animal_Sunazarashi_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit"
+  },
+  "Animal_Sunazarashi_D_DLC2nd.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit"
+  },
+  "Animal_WildDuck_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Animal_WildGoat_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Fruit_K,Item_Fruit_L",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookFruit,CookPlant"
+  },
+  "Animal_Wolf_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat"
+  },
+  "Animal_Wolf_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat"
+  },
+  "Animal_Wolf_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat"
+  },
+  "Enemy_AirOctarock.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Azito_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookEnemy,CookOre,CookFruit,CookMushroom"
+  },
+  "Enemy_Assassin_Azito_Middle_DLC2.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookEnemy,CookOre,CookFruit,CookMushroom"
+  },
+  "Enemy_Assassin_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Junior_Npc_001.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Junior_Npc_002.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Middle_Quest.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Shooter_Azito_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Assassin_Shooter_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Bokoblin_Bone_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Bokoblin_Bone_Junior_AllDay.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Bokoblin_Bone_Junior_Head_AllDay.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Bokoblin_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Bokoblin_Gold.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Guard_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Guard_Junior_Ambush.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Guard_Junior_TreeHouseTop.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Guard_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Guard_Middle_Ambush.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Guard_Middle_TreeHouseTop.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_Bokoblin_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookFruit,CookMushroom,RoastMeat,RoastFish,RoastFruit,RoastMushroom"
+  },
+  "Enemy_GanonBeast.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_GanonBeast_WeakPoint.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_GanonGrudge.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_GanonGrudge_01.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_GanonGrudge_02.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Giant_Bone_Eye.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Giant_Bone_Eye_AllDay.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Golem_Little.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Golem_Little_Fire.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Golem_Little_Ice.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Golem_R_WeakPoint.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Golem_WeakPoint.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Golem_WeakPoint_02.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Golem_WeakPoint_03.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Baby.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Baby_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Junior_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Junior_DetachLineBeam.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe_DetachLineBeam.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Middle_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Middle_DetachLineBeam.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Practice.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Guardian_Mini_Senior_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese_AllDay.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese_Electric.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese_Electric_AllDay.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese_Fire.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese_Fire_AllDay.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese_Ice.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Keese_Ice_AllDay.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lizalfos_Bone_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lizalfos_Bone_Junior_Head.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lizalfos_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lizalfos_Electric.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Electric_ForestTower.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Fire.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Fire_Guard_Ambush.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Gold.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lizalfos_Guard_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Guard_Junior_LongVisibility.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Guard_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Guard_Middle_LongVisibility.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Ice.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Junior_Guard_Ambush.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Middle_Guard_Ambush.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lizalfos_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,CookInsect,RoastMeat,RoastFish"
+  },
+  "Enemy_Lynel_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lynel_Gold.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lynel_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lynel_Junior_Mountain.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lynel_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Lynel_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Moriblin_Bone_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Moriblin_Bone_Junior_Head.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Moriblin_Dark.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Moriblin_Gold.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Moriblin_Junior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_01,Item_Meat_02,Item_Meat_11,Item_Roast_01,Item_Roast_40,Item_Roast_45,Item_Meat_06,Item_Meat_07,Item_Meat_12,Item_Roast_02,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,RoastMeat,RoastFish"
+  },
+  "Enemy_Moriblin_Middle.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_02,Item_Meat_11,Item_Roast_40,Item_Roast_45,Item_Meat_07,Item_Meat_12,Item_Roast_41,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,RoastMeat,RoastFish"
+  },
+  "Enemy_Moriblin_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,RoastMeat,RoastFish"
+  },
+  "Enemy_Moriblin_Senior_Volcano.sbactorpack": {
+    "FavoriteEatActorNames": "Item_Meat_11,Item_Roast_45,Item_Meat_12,Item_Roast_46",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMeat,CookFish,RoastMeat,RoastFish"
+  },
+  "Enemy_Octarock.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Octarock_Desert.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Octarock_Forest.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Octarock_Snow.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Octarock_Stone.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Sandworm.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_SandwormR.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Wizzrobe_Electric.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Wizzrobe_Electric_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Wizzrobe_Fire.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Wizzrobe_Fire_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Wizzrobe_Ice.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Enemy_Wizzrobe_Ice_Senior.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Item_FishGet_A.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_A,Item_PlantGet_A",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookMushroom,CookValue1"
+  },
+  "Item_FishGet_B.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_B,Item_PlantGet_B,Item_Plant_C,Item_PlantGet_C",
+    "EatActorNames2": "Item_Mushroom_F,Item_Mushroom_N,Item_Fruit_D",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_C.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_E,Item_PlantGet_E,Item_Mushroom_B,Item_Fruit_F",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_D.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_L,Item_PlantGet_L,Item_Mushroom_H,Item_Fruit_C",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_E.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_G,Item_PlantGet_G,Item_Mushroom_L,Item_Fruit_H",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_F.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_G,Item_PlantGet_G,Item_Mushroom_L,Item_Fruit_H",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_G.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_H,Item_PlantGet_H,Item_Mushroom_M,Item_Fruit_J",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_H.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_H,Item_PlantGet_H,Item_Mushroom_M,Item_Fruit_J",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_I.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_B,Item_PlantGet_B,Item_Plant_C,Item_PlantGet_C",
+    "EatActorNames2": "Item_Mushroom_F,Item_Mushroom_N,Item_Fruit_D",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_J.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_F,Item_PlantGet_F,Item_Mushroom_C,Item_Fruit_I",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_L.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Mushroom_A,BeeHome",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_X.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "Item_Plant_I,Item_PlantGet_I,Item_Plant_J,Item_PlantGet_J,Item_Mushroom_J",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1"
+  },
+  "Item_FishGet_Z.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": "CookValue1,CookFruit"
+  },
+  "Priest_Boss_Giant.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Priest_Boss_Normal.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Priest_Boss_ShadowClone.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "Priest_Boss_ShadowClone_Real.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "RemainsElectricCannon.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "RemainsElectric_WeakPoint.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "RemainsFire_Drone_A_01.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  },
+  "RemainsWind_Battery_A_01.sbactorpack": {
+    "FavoriteEatActorNames": "",
+    "FavoriteEatActorTags": "",
+    "EatActorNames": "",
+    "EatActorNames2": "",
+    "EatActorNames3": "",
+    "EatActorTags": ""
+  }
+}

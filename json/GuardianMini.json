@@ -1,0 +1,106 @@
+{
+  "Enemy_Guardian_Mini_Baby.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "DgnObj_PillarCrack_A,Test_Sakasai_Colum,Obj_BoxIron_B_2x2x2_02",
+    "BeamName": "GuardianMiniBeam",
+    "LineBeamName": "GuardianMiniLineBeam",
+    "FinalBeamName": "GuardianMiniFinalBeam"
+  },
+  "Enemy_Guardian_Mini_Baby_Dark.sbactorpack": {
+    "ColorType": 1,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "DgnObj_PillarCrack_A,Test_Sakasai_Colum,Obj_BoxIron_B_2x2x2_02",
+    "BeamName": "GuardianMiniBeam",
+    "LineBeamName": "GuardianMiniLineBeam",
+    "FinalBeamName": "GuardianMiniFinalBeam"
+  },
+  "Enemy_Guardian_Mini_Junior.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02,DgnObj_DLc_FallDownPillar_A_01",
+    "BeamName": "GuardianMiniBeam_Junior",
+    "LineBeamName": "GuardianMiniLineBeam_Junior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Junior"
+  },
+  "Enemy_Guardian_Mini_Junior_Dark.sbactorpack": {
+    "ColorType": 1,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "DgnObj_PillarCrack_A,Test_Sakasai_Colum,Obj_BoxIron_B_2x2x2_02",
+    "BeamName": "GuardianMiniBeam_Junior",
+    "LineBeamName": "GuardianMiniLineBeam_Junior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Junior"
+  },
+  "Enemy_Guardian_Mini_Junior_DetachLineBeam.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02,DgnObj_DLc_FallDownPillar_A_01",
+    "BeamName": "GuardianMiniBeam_Junior",
+    "LineBeamName": "GuardianMiniLineBeam_Junior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Junior"
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02,DgnObj_DLc_FallDownPillar_A_01",
+    "BeamName": "GuardianMiniBeam_Junior",
+    "LineBeamName": "GuardianMiniLineBeam_Junior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Junior"
+  },
+  "Enemy_Guardian_Mini_Junior_Wipe_DetachLineBeam.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02,DgnObj_DLc_FallDownPillar_A_01",
+    "BeamName": "GuardianMiniBeam_Junior",
+    "LineBeamName": "GuardianMiniLineBeam_Junior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Junior"
+  },
+  "Enemy_Guardian_Mini_Middle.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Ear_A,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02",
+    "BeamName": "GuardianMiniBeam_Middle",
+    "LineBeamName": "GuardianMiniLineBeam_Middle",
+    "FinalBeamName": "GuardianMiniFinalBeam_Middle"
+  },
+  "Enemy_Guardian_Mini_Middle_Dark.sbactorpack": {
+    "ColorType": 1,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Ear_A,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "DgnObj_PillarCrack_A,Test_Sakasai_Colum,DgnObj_BoxStone_A,Obj_BoxIron_B_2x2x2_02,Obj_IceMakerBlock",
+    "BeamName": "GuardianMiniBeam_Middle",
+    "LineBeamName": "GuardianMiniLineBeam_Middle",
+    "FinalBeamName": "GuardianMiniFinalBeam_Middle"
+  },
+  "Enemy_Guardian_Mini_Middle_DetachLineBeam.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Ear_A,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02",
+    "BeamName": "GuardianMiniBeam_Middle",
+    "LineBeamName": "GuardianMiniLineBeam_Middle",
+    "FinalBeamName": "GuardianMiniFinalBeam_Middle"
+  },
+  "Enemy_Guardian_Mini_Practice.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02,DgnObj_DLc_FallDownPillar_A_01",
+    "BeamName": "GuardianMiniBeam_Junior",
+    "LineBeamName": "GuardianMiniLineBeam_Junior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Junior"
+  },
+  "Enemy_Guardian_Mini_Senior.sbactorpack": {
+    "ColorType": 0,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Ear_B,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "Obj_IceMakerBlock,DgnObj_FallDownPillar_A_01,Obj_BoxIron_B_2x2x2_02,DgnObj_DLc_FallDownPillar_A_01",
+    "BeamName": "GuardianMiniBeam_Senior",
+    "LineBeamName": "GuardianMiniLineBeam_Senior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Senior"
+  },
+  "Enemy_Guardian_Mini_Senior_Dark.sbactorpack": {
+    "ColorType": 1,
+    "BodyMatName": "Mt_Body,Mt_Eye,Mt_Ear_B,Mt_Leg,Mt_Gear",
+    "GuardJustActor": "DgnObj_PillarCrack_A,Test_Sakasai_Colum,DgnObj_BoxStone_A,Obj_BoxIron_B_2x2x2_02,Obj_IceMakerBlock",
+    "BeamName": "GuardianMiniBeam_Senior",
+    "LineBeamName": "GuardianMiniLineBeam_Senior",
+    "FinalBeamName": "GuardianMiniFinalBeam_Senior"
+  }
+}

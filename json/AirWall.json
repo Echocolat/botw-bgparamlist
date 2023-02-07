@@ -1,0 +1,11 @@
+{
+  "AirWall.sbactorpack": {
+    "Layer": "AirWall"
+  },
+  "AirWallForE3.sbactorpack": {
+    "Layer": "AirWall"
+  },
+  "CastleBarrier.sbactorpack": {
+    "Layer": "Ground"
+  }
+}

@@ -1,0 +1,1654 @@
+{
+  "Armor_001_Head.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_001_Head_B.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_001_Lower.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_001_Upper.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_002_Head.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_002_Head_B.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_002_Lower.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_002_Upper.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": false
+  },
+  "Armor_003_Head.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_003_Head_B.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_003_Lower.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_003_Upper.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_004_Head.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_004_Head_B.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_004_Lower.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_004_Upper.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_005_Head.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": false
+  },
+  "Armor_005_Lower.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": false
+  },
+  "Armor_005_Upper.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": false
+  },
+  "Armor_006_Head.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": false
+  },
+  "Armor_006_Lower.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": false
+  },
+  "Armor_006_Upper.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": false
+  },
+  "Armor_007_Head.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": false
+  },
+  "Armor_007_Lower.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": false
+  },
+  "Armor_007_Upper.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": false
+  },
+  "Armor_008_Head.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": false
+  },
+  "Armor_008_Lower.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": false
+  },
+  "Armor_008_Upper.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": false
+  },
+  "Armor_009_Head.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": false
+  },
+  "Armor_009_Lower.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": false
+  },
+  "Armor_009_Upper.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": false
+  },
+  "Armor_011_Head.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": false
+  },
+  "Armor_011_Lower.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": false
+  },
+  "Armor_011_Upper.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": false
+  },
+  "Armor_012_Head.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_012_Head_B.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_012_Lower.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_012_Upper.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_014_Head.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": false
+  },
+  "Armor_014_Lower.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": false
+  },
+  "Armor_014_Upper.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": false
+  },
+  "Armor_015_Head.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_015_Head_B.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_015_Lower.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_015_Upper.sbactorpack": {
+    "SeriesType": "Hylia",
+    "EnableCompBonus": true
+  },
+  "Armor_017_Head.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": false
+  },
+  "Armor_017_Lower.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": false
+  },
+  "Armor_017_Upper.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": false
+  },
+  "Armor_020_Head.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": false
+  },
+  "Armor_020_Lower.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": false
+  },
+  "Armor_020_Upper.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": false
+  },
+  "Armor_021_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_021_Lower.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_021_Upper.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_022_Head.sbactorpack": {
+    "SeriesType": "Bokoblin",
+    "EnableCompBonus": false
+  },
+  "Armor_022_Head_B.sbactorpack": {
+    "SeriesType": "Bokoblin",
+    "EnableCompBonus": false
+  },
+  "Armor_024_Head.sbactorpack": {
+    "SeriesType": "Dia",
+    "EnableCompBonus": false
+  },
+  "Armor_025_Head.sbactorpack": {
+    "SeriesType": "Ruby",
+    "EnableCompBonus": false
+  },
+  "Armor_026_Head.sbactorpack": {
+    "SeriesType": "Sapphire",
+    "EnableCompBonus": false
+  },
+  "Armor_027_Head.sbactorpack": {
+    "SeriesType": "Topaz",
+    "EnableCompBonus": false
+  },
+  "Armor_028_Head.sbactorpack": {
+    "SeriesType": "Opal",
+    "EnableCompBonus": false
+  },
+  "Armor_029_Head.sbactorpack": {
+    "SeriesType": "Amber",
+    "EnableCompBonus": false
+  },
+  "Armor_035_Head.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": false
+  },
+  "Armor_035_Lower.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": false
+  },
+  "Armor_035_Upper.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": false
+  },
+  "Armor_036_Head.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": false
+  },
+  "Armor_036_Lower.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": false
+  },
+  "Armor_036_Upper.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": false
+  },
+  "Armor_037_Head.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": false
+  },
+  "Armor_037_Lower.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": false
+  },
+  "Armor_037_Upper.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": false
+  },
+  "Armor_039_Head.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_039_Lower.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_039_Upper.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_040_Head.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": false
+  },
+  "Armor_040_Lower.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": false
+  },
+  "Armor_040_Upper.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": false
+  },
+  "Armor_042_Head.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_042_Head_B.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_042_Lower.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_042_Upper.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": false
+  },
+  "Armor_043_Lower.sbactorpack": {
+    "SeriesType": "Old",
+    "EnableCompBonus": false
+  },
+  "Armor_043_Upper.sbactorpack": {
+    "SeriesType": "Old",
+    "EnableCompBonus": false
+  },
+  "Armor_044_Upper.sbactorpack": {
+    "SeriesType": "Winter",
+    "EnableCompBonus": false
+  },
+  "Armor_045_Head.sbactorpack": {
+    "SeriesType": "Moriblin",
+    "EnableCompBonus": false
+  },
+  "Armor_046_Head.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": false
+  },
+  "Armor_046_Lower.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": false
+  },
+  "Armor_046_Upper.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": false
+  },
+  "Armor_048_Head.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": false
+  },
+  "Armor_048_Lower.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": false
+  },
+  "Armor_048_Upper.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": false
+  },
+  "Armor_049_Lower.sbactorpack": {
+    "SeriesType": "Desert",
+    "EnableCompBonus": false
+  },
+  "Armor_053_Head.sbactorpack": {
+    "SeriesType": "GerudoCloth",
+    "EnableCompBonus": true
+  },
+  "Armor_053_Lower.sbactorpack": {
+    "SeriesType": "GerudoCloth",
+    "EnableCompBonus": true
+  },
+  "Armor_053_Upper.sbactorpack": {
+    "SeriesType": "GerudoCloth",
+    "EnableCompBonus": true
+  },
+  "Armor_055_Head.sbactorpack": {
+    "SeriesType": "Lizalfos",
+    "EnableCompBonus": false
+  },
+  "Armor_056_Head.sbactorpack": {
+    "SeriesType": "Lynel",
+    "EnableCompBonus": false
+  },
+  "Armor_060_Head.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_060_Lower.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_060_Upper.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_061_Head.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_061_Lower.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_061_Upper.sbactorpack": {
+    "SeriesType": "Korok",
+    "EnableCompBonus": true
+  },
+  "Armor_062_Head.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_062_Lower.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_062_Upper.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_063_Head.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_063_Lower.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_063_Upper.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_064_Head.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_064_Lower.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_064_Upper.sbactorpack": {
+    "SeriesType": "Zora",
+    "EnableCompBonus": true
+  },
+  "Armor_065_Head.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_065_Lower.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_065_Upper.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_066_Head.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_066_Lower.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_066_Upper.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_067_Head.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_067_Lower.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_067_Upper.sbactorpack": {
+    "SeriesType": "Gerudo",
+    "EnableCompBonus": true
+  },
+  "Armor_071_Head.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_071_Lower.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_071_Upper.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_072_Head.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_072_Lower.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_072_Upper.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_073_Head.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_073_Lower.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_073_Upper.sbactorpack": {
+    "SeriesType": "Rito",
+    "EnableCompBonus": true
+  },
+  "Armor_074_Head.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_074_Lower.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_074_Upper.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_075_Head.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_075_Lower.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_075_Upper.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_076_Head.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_076_Lower.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_076_Upper.sbactorpack": {
+    "SeriesType": "Goron",
+    "EnableCompBonus": true
+  },
+  "Armor_077_Head.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_077_Head_B.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_077_Lower.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_077_Upper.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_078_Head.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_078_Head_B.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_078_Lower.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_078_Upper.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_079_Head.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_079_Head_B.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_079_Lower.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_079_Upper.sbactorpack": {
+    "SeriesType": "Sheikah",
+    "EnableCompBonus": true
+  },
+  "Armor_083_Head.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": false
+  },
+  "Armor_083_Lower.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": false
+  },
+  "Armor_083_Upper.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": false
+  },
+  "Armor_084_Head.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_084_Lower.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_084_Upper.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_085_Head.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_085_Lower.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_085_Upper.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_086_Head.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_086_Lower.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_086_Upper.sbactorpack": {
+    "SeriesType": "Climb",
+    "EnableCompBonus": true
+  },
+  "Armor_087_Head.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": false
+  },
+  "Armor_087_Lower.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": false
+  },
+  "Armor_087_Upper.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": false
+  },
+  "Armor_088_Head.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_088_Lower.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_088_Upper.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_089_Head.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_089_Lower.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_089_Upper.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_090_Head.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_090_Lower.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_090_Upper.sbactorpack": {
+    "SeriesType": "Stalfos",
+    "EnableCompBonus": true
+  },
+  "Armor_095_Head.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": false
+  },
+  "Armor_095_Lower.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": false
+  },
+  "Armor_095_Upper.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": false
+  },
+  "Armor_096_Head.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_096_Lower.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_096_Upper.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_097_Head.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_097_Lower.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_097_Upper.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_098_Head.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_098_Lower.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_098_Upper.sbactorpack": {
+    "SeriesType": "HyliaArmor",
+    "EnableCompBonus": true
+  },
+  "Armor_099_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_099_Lower.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_099_Upper.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_100_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_100_Lower.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_100_Upper.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_101_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_101_Lower.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_101_Upper.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_102_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_102_Lower.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_102_Upper.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_103_Head.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": false
+  },
+  "Armor_103_Lower.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": false
+  },
+  "Armor_103_Upper.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": false
+  },
+  "Armor_104_Head.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_104_Lower.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_104_Upper.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_105_Head.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_105_Lower.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_105_Upper.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_106_Head.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_106_Lower.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_106_Upper.sbactorpack": {
+    "SeriesType": "Rubber",
+    "EnableCompBonus": true
+  },
+  "Armor_111_Head.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": false
+  },
+  "Armor_111_Lower.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": false
+  },
+  "Armor_111_Upper.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": false
+  },
+  "Armor_112_Head.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_112_Lower.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_112_Upper.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_113_Head.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_113_Lower.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_113_Upper.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_114_Head.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_114_Lower.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_114_Upper.sbactorpack": {
+    "SeriesType": "Power",
+    "EnableCompBonus": true
+  },
+  "Armor_115_Head.sbactorpack": {
+    "SeriesType": "Thunder",
+    "EnableCompBonus": false
+  },
+  "Armor_116_Upper.sbactorpack": {
+    "SeriesType": "Hero",
+    "EnableCompBonus": false
+  },
+  "Armor_117_Head.sbactorpack": {
+    "SeriesType": "Dia",
+    "EnableCompBonus": false
+  },
+  "Armor_118_Head.sbactorpack": {
+    "SeriesType": "Dia",
+    "EnableCompBonus": false
+  },
+  "Armor_119_Head.sbactorpack": {
+    "SeriesType": "Dia",
+    "EnableCompBonus": false
+  },
+  "Armor_120_Head.sbactorpack": {
+    "SeriesType": "Dia",
+    "EnableCompBonus": false
+  },
+  "Armor_121_Head.sbactorpack": {
+    "SeriesType": "Ruby",
+    "EnableCompBonus": false
+  },
+  "Armor_122_Head.sbactorpack": {
+    "SeriesType": "Ruby",
+    "EnableCompBonus": false
+  },
+  "Armor_123_Head.sbactorpack": {
+    "SeriesType": "Ruby",
+    "EnableCompBonus": false
+  },
+  "Armor_124_Head.sbactorpack": {
+    "SeriesType": "Ruby",
+    "EnableCompBonus": false
+  },
+  "Armor_125_Head.sbactorpack": {
+    "SeriesType": "Sapphire",
+    "EnableCompBonus": false
+  },
+  "Armor_126_Head.sbactorpack": {
+    "SeriesType": "Sapphire",
+    "EnableCompBonus": false
+  },
+  "Armor_127_Head.sbactorpack": {
+    "SeriesType": "Sapphire",
+    "EnableCompBonus": false
+  },
+  "Armor_128_Head.sbactorpack": {
+    "SeriesType": "Sapphire",
+    "EnableCompBonus": false
+  },
+  "Armor_129_Head.sbactorpack": {
+    "SeriesType": "Topaz",
+    "EnableCompBonus": false
+  },
+  "Armor_130_Head.sbactorpack": {
+    "SeriesType": "Topaz",
+    "EnableCompBonus": false
+  },
+  "Armor_131_Head.sbactorpack": {
+    "SeriesType": "Topaz",
+    "EnableCompBonus": false
+  },
+  "Armor_132_Head.sbactorpack": {
+    "SeriesType": "Topaz",
+    "EnableCompBonus": false
+  },
+  "Armor_133_Head.sbactorpack": {
+    "SeriesType": "Opal",
+    "EnableCompBonus": false
+  },
+  "Armor_134_Head.sbactorpack": {
+    "SeriesType": "Opal",
+    "EnableCompBonus": false
+  },
+  "Armor_135_Head.sbactorpack": {
+    "SeriesType": "Opal",
+    "EnableCompBonus": false
+  },
+  "Armor_136_Head.sbactorpack": {
+    "SeriesType": "Opal",
+    "EnableCompBonus": false
+  },
+  "Armor_137_Head.sbactorpack": {
+    "SeriesType": "Amber",
+    "EnableCompBonus": false
+  },
+  "Armor_138_Head.sbactorpack": {
+    "SeriesType": "Amber",
+    "EnableCompBonus": false
+  },
+  "Armor_139_Head.sbactorpack": {
+    "SeriesType": "Amber",
+    "EnableCompBonus": false
+  },
+  "Armor_140_Head.sbactorpack": {
+    "SeriesType": "Amber",
+    "EnableCompBonus": false
+  },
+  "Armor_140_Lower.sbactorpack": {
+    "SeriesType": "Snow",
+    "EnableCompBonus": false
+  },
+  "Armor_141_Lower.sbactorpack": {
+    "SeriesType": "Snow",
+    "EnableCompBonus": false
+  },
+  "Armor_148_Upper.sbactorpack": {
+    "SeriesType": "Hero",
+    "EnableCompBonus": false
+  },
+  "Armor_149_Upper.sbactorpack": {
+    "SeriesType": "Hero",
+    "EnableCompBonus": false
+  },
+  "Armor_150_Upper.sbactorpack": {
+    "SeriesType": "Hero",
+    "EnableCompBonus": false
+  },
+  "Armor_151_Upper.sbactorpack": {
+    "SeriesType": "Hero",
+    "EnableCompBonus": false
+  },
+  "Armor_152_Lower.sbactorpack": {
+    "SeriesType": "Desert",
+    "EnableCompBonus": false
+  },
+  "Armor_153_Lower.sbactorpack": {
+    "SeriesType": "Desert",
+    "EnableCompBonus": false
+  },
+  "Armor_154_Lower.sbactorpack": {
+    "SeriesType": "Desert",
+    "EnableCompBonus": false
+  },
+  "Armor_155_Lower.sbactorpack": {
+    "SeriesType": "Desert",
+    "EnableCompBonus": false
+  },
+  "Armor_156_Lower.sbactorpack": {
+    "SeriesType": "Snow",
+    "EnableCompBonus": false
+  },
+  "Armor_157_Lower.sbactorpack": {
+    "SeriesType": "Snow",
+    "EnableCompBonus": false
+  },
+  "Armor_158_Lower.sbactorpack": {
+    "SeriesType": "Snow",
+    "EnableCompBonus": false
+  },
+  "Armor_159_Lower.sbactorpack": {
+    "SeriesType": "Snow",
+    "EnableCompBonus": false
+  },
+  "Armor_160_Head.sbactorpack": {
+    "SeriesType": "Black",
+    "EnableCompBonus": true
+  },
+  "Armor_160_Lower.sbactorpack": {
+    "SeriesType": "Black",
+    "EnableCompBonus": true
+  },
+  "Armor_160_Upper.sbactorpack": {
+    "SeriesType": "Black",
+    "EnableCompBonus": true
+  },
+  "Armor_168_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_169_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_170_Upper.sbactorpack": {
+    "SeriesType": "",
+    "EnableCompBonus": false
+  },
+  "Armor_171_Head.sbactorpack": {
+    "SeriesType": "Phantom",
+    "EnableCompBonus": true
+  },
+  "Armor_171_Lower.sbactorpack": {
+    "SeriesType": "Phantom",
+    "EnableCompBonus": true
+  },
+  "Armor_171_Upper.sbactorpack": {
+    "SeriesType": "Phantom",
+    "EnableCompBonus": true
+  },
+  "Armor_172_Head.sbactorpack": {
+    "SeriesType": "Majora",
+    "EnableCompBonus": false
+  },
+  "Armor_173_Head.sbactorpack": {
+    "SeriesType": "Midna",
+    "EnableCompBonus": false
+  },
+  "Armor_174_Head.sbactorpack": {
+    "SeriesType": "Tingle",
+    "EnableCompBonus": true
+  },
+  "Armor_174_Lower.sbactorpack": {
+    "SeriesType": "Tingle",
+    "EnableCompBonus": true
+  },
+  "Armor_174_Upper.sbactorpack": {
+    "SeriesType": "Tingle",
+    "EnableCompBonus": true
+  },
+  "Armor_175_Upper.sbactorpack": {
+    "SeriesType": "WindWaker",
+    "EnableCompBonus": false
+  },
+  "Armor_176_Head.sbactorpack": {
+    "SeriesType": "",
+    "EnableCompBonus": false
+  },
+  "Armor_177_Head.sbactorpack": {
+    "SeriesType": "Ravio",
+    "EnableCompBonus": false
+  },
+  "Armor_177_Head_B.sbactorpack": {
+    "SeriesType": "Ravio",
+    "EnableCompBonus": false
+  },
+  "Armor_178_Head.sbactorpack": {
+    "SeriesType": "Zant",
+    "EnableCompBonus": false
+  },
+  "Armor_178_Head_B.sbactorpack": {
+    "SeriesType": "Zant",
+    "EnableCompBonus": false
+  },
+  "Armor_179_Head.sbactorpack": {
+    "SeriesType": "RoyalGuard",
+    "EnableCompBonus": true
+  },
+  "Armor_179_Lower.sbactorpack": {
+    "SeriesType": "RoyalGuard",
+    "EnableCompBonus": true
+  },
+  "Armor_179_Upper.sbactorpack": {
+    "SeriesType": "RoyalGuard",
+    "EnableCompBonus": true
+  },
+  "Armor_180_Head.sbactorpack": {
+    "SeriesType": "PhantomGanon",
+    "EnableCompBonus": true
+  },
+  "Armor_180_Lower.sbactorpack": {
+    "SeriesType": "PhantomGanon",
+    "EnableCompBonus": true
+  },
+  "Armor_180_Upper.sbactorpack": {
+    "SeriesType": "PhantomGanon",
+    "EnableCompBonus": true
+  },
+  "Armor_181_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_182_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_183_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_184_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_185_Head.sbactorpack": {
+    "SeriesType": "Collaboration",
+    "EnableCompBonus": true
+  },
+  "Armor_185_Lower.sbactorpack": {
+    "SeriesType": "Collaboration",
+    "EnableCompBonus": true
+  },
+  "Armor_185_Upper.sbactorpack": {
+    "SeriesType": "Collaboration",
+    "EnableCompBonus": true
+  },
+  "Armor_186_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_187_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_188_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_189_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_190_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_191_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_192_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_193_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_194_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_195_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_196_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_197_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_198_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": false
+  },
+  "Armor_199_Head.sbactorpack": {
+    "SeriesType": "Ancient",
+    "EnableCompBonus": true
+  },
+  "Armor_200_Head.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": false
+  },
+  "Armor_200_Lower.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": false
+  },
+  "Armor_200_Upper.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": false
+  },
+  "Armor_201_Head.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": false
+  },
+  "Armor_201_Lower.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": false
+  },
+  "Armor_201_Upper.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": false
+  },
+  "Armor_202_Head.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_202_Lower.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_202_Upper.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_203_Head.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_203_Lower.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_203_Upper.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_204_Head.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_204_Lower.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_204_Upper.sbactorpack": {
+    "SeriesType": "AmiiboOcarinaOfTime",
+    "EnableCompBonus": true
+  },
+  "Armor_205_Head.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": false
+  },
+  "Armor_205_Lower.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": false
+  },
+  "Armor_205_Upper.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": false
+  },
+  "Armor_206_Head.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": false
+  },
+  "Armor_206_Lower.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": false
+  },
+  "Armor_206_Upper.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": false
+  },
+  "Armor_207_Head.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_207_Lower.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_207_Upper.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_208_Head.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_208_Lower.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_208_Upper.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_209_Head.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_209_Lower.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_209_Upper.sbactorpack": {
+    "SeriesType": "AmiiboWindWaker",
+    "EnableCompBonus": true
+  },
+  "Armor_210_Head.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": false
+  },
+  "Armor_210_Lower.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": false
+  },
+  "Armor_210_Upper.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": false
+  },
+  "Armor_211_Head.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": false
+  },
+  "Armor_211_Lower.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": false
+  },
+  "Armor_211_Upper.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": false
+  },
+  "Armor_212_Head.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_212_Lower.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_212_Upper.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_213_Head.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_213_Lower.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_213_Upper.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_214_Head.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_214_Lower.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_214_Upper.sbactorpack": {
+    "SeriesType": "AmiiboTwilightPrincess",
+    "EnableCompBonus": true
+  },
+  "Armor_215_Head.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": false
+  },
+  "Armor_215_Lower.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": false
+  },
+  "Armor_215_Upper.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": false
+  },
+  "Armor_216_Head.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": false
+  },
+  "Armor_216_Lower.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": false
+  },
+  "Armor_216_Upper.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": false
+  },
+  "Armor_217_Head.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_217_Lower.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_217_Upper.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_218_Head.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_218_Lower.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_218_Upper.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_219_Head.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_219_Lower.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_219_Upper.sbactorpack": {
+    "SeriesType": "AmiiboSkywardSword",
+    "EnableCompBonus": true
+  },
+  "Armor_220_Head.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_220_Head_B.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_221_Head.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_221_Head_B.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_222_Head.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_222_Head_B.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_223_Head.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_223_Head_B.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_224_Head.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_224_Head_B.sbactorpack": {
+    "SeriesType": "SheikMask",
+    "EnableCompBonus": false
+  },
+  "Armor_225_Head.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": false
+  },
+  "Armor_225_Lower.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": false
+  },
+  "Armor_225_Upper.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": false
+  },
+  "Armor_226_Head.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": false
+  },
+  "Armor_226_Lower.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": false
+  },
+  "Armor_226_Upper.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": false
+  },
+  "Armor_227_Head.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_227_Lower.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_227_Upper.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_228_Head.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_228_Lower.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_228_Upper.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_229_Head.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_229_Lower.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_229_Upper.sbactorpack": {
+    "SeriesType": "AmiiboMajorasMask",
+    "EnableCompBonus": true
+  },
+  "Armor_230_Head.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": false
+  },
+  "Armor_230_Lower.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": false
+  },
+  "Armor_230_Upper.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": false
+  },
+  "Armor_231_Head.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": false
+  },
+  "Armor_231_Lower.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": false
+  },
+  "Armor_231_Upper.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": false
+  },
+  "Armor_232_Head.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_232_Lower.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_232_Upper.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_233_Head.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_233_Lower.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_233_Upper.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_234_Head.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_234_Lower.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_234_Upper.sbactorpack": {
+    "SeriesType": "AmiiboFirstHero",
+    "EnableCompBonus": true
+  },
+  "Armor_Default_Head.sbactorpack": {
+    "SeriesType": "Naked",
+    "EnableCompBonus": false
+  },
+  "Armor_Default_Lower.sbactorpack": {
+    "SeriesType": "Naked",
+    "EnableCompBonus": false
+  },
+  "Armor_Default_Upper.sbactorpack": {
+    "SeriesType": "Naked",
+    "EnableCompBonus": false
+  }
+}

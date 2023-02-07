@@ -1,0 +1,86 @@
+{
+  "FldObj_Chain_A.sbactorpack": {
+    "IsAllowCutting": false,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": true,
+    "IsDeformable": false,
+    "IsOneBoneOneShape": false,
+    "SplineOffsetRateA": 0.0,
+    "SplineOffsetRateB": 1.0,
+    "SplineOffsetRateC": 2.0,
+    "MtxEndPosOffsetLength": 0.0
+  },
+  "FldObj_Chain_A_02.sbactorpack": {
+    "IsAllowCutting": false,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": true,
+    "IsDeformable": false,
+    "IsOneBoneOneShape": false,
+    "SplineOffsetRateA": 0.0,
+    "SplineOffsetRateB": 1.0,
+    "SplineOffsetRateC": 2.0,
+    "MtxEndPosOffsetLength": 0.0
+  },
+  "FldObj_Chain_A_03.sbactorpack": {
+    "IsAllowCutting": false,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": true,
+    "IsDeformable": false,
+    "IsOneBoneOneShape": false,
+    "SplineOffsetRateA": 0.0,
+    "SplineOffsetRateB": 1.0,
+    "SplineOffsetRateC": 2.0,
+    "MtxEndPosOffsetLength": 0.0
+  },
+  "Rope.sbactorpack": {
+    "IsAllowCutting": true,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": false,
+    "IsDeformable": true,
+    "IsOneBoneOneShape": false,
+    "SplineOffsetRateA": -0.5,
+    "SplineOffsetRateB": 0.0,
+    "SplineOffsetRateC": 1.0,
+    "MtxEndPosOffsetLength": 0.07999999821186066
+  },
+  "RopeWire.sbactorpack": {
+    "IsAllowCutting": false,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": false,
+    "IsDeformable": false,
+    "IsOneBoneOneShape": true,
+    "SplineOffsetRateA": 0.0,
+    "SplineOffsetRateB": 1.0,
+    "SplineOffsetRateC": 2.0,
+    "MtxEndPosOffsetLength": 0.0
+  },
+  "RopeWire_DemoCalc.sbactorpack": {
+    "IsAllowCutting": false,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": false,
+    "IsDeformable": false,
+    "IsOneBoneOneShape": true,
+    "SplineOffsetRateA": 0.0,
+    "SplineOffsetRateB": 1.0,
+    "SplineOffsetRateC": 2.0,
+    "MtxEndPosOffsetLength": 0.0
+  },
+  "Rope_OctarockBalloon.sbactorpack": {
+    "IsAllowCutting": true,
+    "IsSetupKeyframed": false,
+    "BoneEffectiveLength": 0.25,
+    "IsInterpolateEdge": false,
+    "IsDeformable": true,
+    "IsOneBoneOneShape": false,
+    "SplineOffsetRateA": -0.5,
+    "SplineOffsetRateB": 0.0,
+    "SplineOffsetRateC": 1.0,
+    "MtxEndPosOffsetLength": 0.07999999821186066
+  }
+}

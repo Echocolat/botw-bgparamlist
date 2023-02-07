@@ -1,0 +1,42 @@
+{
+  "Enemy_Giant_WeakPoint.sbactorpack": {
+    "DamageScale": 2.0,
+    "RotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "GiantGreave_Iron_L.sbactorpack": {
+    "DamageScale": 0.0,
+    "RotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "GiantGreave_Iron_R.sbactorpack": {
+    "DamageScale": 0.0,
+    "RotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "GiantGreave_Wood_L.sbactorpack": {
+    "DamageScale": 0.0,
+    "RotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "GiantGreave_Wood_R.sbactorpack": {
+    "DamageScale": 0.0,
+    "RotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

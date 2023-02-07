@@ -1,0 +1,60 @@
+{
+  "Enemy_Sandworm.sbactorpack": {
+    "SandWidth": 9.5,
+    "SandLength": 25.0,
+    "SandHeight": 3.5,
+    "SandCombSpan": 8.0,
+    "SandCombHeight": 2.0,
+    "SnakeModelOffsetZ": 0.0,
+    "SnakeBaseNode": "Forehead",
+    "SnakeNode1": "Spine_1",
+    "SnakeNode2": "Spine_2",
+    "SnakeNode3": "Spine_3",
+    "SnakeNode4": "Spine_4",
+    "SnakeNode5": "Spine_5",
+    "SnakeNode6": "Spine_6",
+    "SnakeNode7": "Spine_7",
+    "SnakeNode8": "Spine_8",
+    "SnakeNode9": "Waist",
+    "SnakeNode10": "Tail_1",
+    "SnakeNode11": "Tail_2",
+    "SnakeNode12": "Tail_3",
+    "SnakeNodeRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SnakeNodeChaseInterval": 2.0,
+    "ShowLifeGageDist": 150.0,
+    "ShowLifeGageOffset": 10.0
+  },
+  "Enemy_SandwormR.sbactorpack": {
+    "SandWidth": 9.5,
+    "SandLength": 25.0,
+    "SandHeight": 3.5,
+    "SandCombSpan": 8.0,
+    "SandCombHeight": 2.0,
+    "SnakeModelOffsetZ": 0.0,
+    "SnakeBaseNode": "Forehead",
+    "SnakeNode1": "Spine_1",
+    "SnakeNode2": "Spine_2",
+    "SnakeNode3": "Spine_3",
+    "SnakeNode4": "Spine_4",
+    "SnakeNode5": "Spine_5",
+    "SnakeNode6": "Spine_6",
+    "SnakeNode7": "Spine_7",
+    "SnakeNode8": "Spine_8",
+    "SnakeNode9": "Waist",
+    "SnakeNode10": "Tail_1",
+    "SnakeNode11": "Tail_2",
+    "SnakeNode12": "Tail_3",
+    "SnakeNodeRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SnakeNodeChaseInterval": 2.0,
+    "ShowLifeGageDist": 150.0,
+    "ShowLifeGageOffset": 10.0
+  }
+}

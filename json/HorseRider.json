@@ -1,0 +1,665 @@
+{
+  "Enemy_Bokoblin_Bone_Junior.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "RotLimit": 90.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "Leg_1_L",
+    "LeftFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "RightFootNode": "Leg_1_R",
+    "RightFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 10.0
+  },
+  "Enemy_Bokoblin_Bone_Junior_AllDay.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "RotLimit": 90.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "Leg_1_L",
+    "LeftFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "RightFootNode": "Leg_1_R",
+    "RightFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 10.0
+  },
+  "Enemy_Bokoblin_Dark.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "RotLimit": 45.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "",
+    "LeftFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RightFootNode": "",
+    "RightFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 0.0
+  },
+  "Enemy_Bokoblin_Gold.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "RotLimit": 45.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "",
+    "LeftFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RightFootNode": "",
+    "RightFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 0.0
+  },
+  "Enemy_Bokoblin_Guard_Junior.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "RotLimit": 90.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "Leg_1_L",
+    "LeftFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "RightFootNode": "Leg_1_R",
+    "RightFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 10.0
+  },
+  "Enemy_Bokoblin_Guard_Junior_Ambush.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "RotLimit": 90.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "Leg_1_L",
+    "LeftFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "RightFootNode": "Leg_1_R",
+    "RightFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 10.0
+  },
+  "Enemy_Bokoblin_Guard_Junior_TreeHouseTop.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "RotLimit": 90.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "Leg_1_L",
+    "LeftFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "RightFootNode": "Leg_1_R",
+    "RightFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 10.0
+  },
+  "Enemy_Bokoblin_Guard_Middle.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "RotLimit": 45.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "",
+    "LeftFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RightFootNode": "",
+    "RightFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 0.0
+  },
+  "Enemy_Bokoblin_Guard_Middle_Ambush.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "RotLimit": 45.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "",
+    "LeftFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RightFootNode": "",
+    "RightFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 0.0
+  },
+  "Enemy_Bokoblin_Guard_Middle_TreeHouseTop.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "RotLimit": 45.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "",
+    "LeftFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RightFootNode": "",
+    "RightFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 0.0
+  },
+  "Enemy_Bokoblin_Junior.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      0.0,
+      0.0
+    ],
+    "RotLimit": 90.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "Leg_1_L",
+    "LeftFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "RightFootNode": "Leg_1_R",
+    "RightFootRotAxis": [
+      0.0,
+      1.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 10.0
+  },
+  "Enemy_Bokoblin_Middle.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "RotLimit": 45.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "",
+    "LeftFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RightFootNode": "",
+    "RightFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 0.0
+  },
+  "Enemy_Bokoblin_Senior.sbactorpack": {
+    "RootNode": "Root",
+    "SpineNode": "Spine_1",
+    "RotBaseNode": "Spine_1",
+    "RotAxis": [
+      1.0,
+      -1.0,
+      0.0
+    ],
+    "RotLimit": 45.0,
+    "WeaponTransOffsetSmallSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetLargeSword": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetSpear": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetBow": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "WeaponTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "LeftFootNode": "",
+    "LeftFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RightFootNode": "",
+    "RightFootRotAxis": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "FootRotRatio": 0.4000000059604645,
+    "FootRetRotRatio": 0.800000011920929,
+    "FootRotAngleForKuma": 0.0
+  }
+}

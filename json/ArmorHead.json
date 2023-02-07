@@ -1,0 +1,1676 @@
+{
+  "Armor_001_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_001_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_002_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_002_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_003_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_003_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_004_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_004_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_005_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_006_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_007_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_008_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_009_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_011_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      20.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": ""
+  },
+  "Armor_012_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_012_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_014_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_015_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_015_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_017_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_020_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_021_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_022_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": "Bokoblin"
+  },
+  "Armor_022_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": "Bokoblin"
+  },
+  "Armor_024_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_025_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_026_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_027_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_028_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_029_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_035_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_036_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_037_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      20.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": ""
+  },
+  "Armor_039_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_040_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_042_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_042_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_045_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      64.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": "Moriblin"
+  },
+  "Armor_046_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_048_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_053_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      38.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_055_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": "Lizarfos"
+  },
+  "Armor_056_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": "Lynel"
+  },
+  "Armor_060_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_061_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_062_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_063_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_064_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      100.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_065_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_066_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_067_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_071_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_072_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_073_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_074_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      20.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": ""
+  },
+  "Armor_075_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      20.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": ""
+  },
+  "Armor_076_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      20.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": ""
+  },
+  "Armor_077_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_077_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_078_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_078_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_079_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_079_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_083_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_084_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_085_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_086_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_087_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_088_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_089_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_090_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_095_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_096_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_097_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_098_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_099_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_100_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_101_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_102_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      50.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_103_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_104_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_105_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_106_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      40.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_111_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_112_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_113_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_114_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_115_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_117_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_118_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_119_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_120_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_121_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_122_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_123_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_124_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_125_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_126_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_127_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_128_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_129_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_130_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_131_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_132_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_133_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_134_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_135_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_136_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_137_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_138_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_139_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_140_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_160_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_168_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      59.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_169_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      59.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_171_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_172_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": "All"
+  },
+  "Armor_173_Head.sbactorpack": {
+    "EarRotate": [
+      18.0,
+      0.0,
+      -15.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_174_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_176_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_177_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_177_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_178_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_178_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_179_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_180_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_181_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_182_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      23.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_183_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_184_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      59.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_185_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 1,
+    "MaskType": ""
+  },
+  "Armor_186_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_187_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_188_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_189_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_190_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      23.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_191_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      23.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_192_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      23.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_193_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      23.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_194_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_195_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_196_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_197_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      60.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_198_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      59.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_199_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      59.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_200_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_201_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_202_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_203_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_204_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_205_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_206_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_207_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_208_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_209_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_210_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_211_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_212_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_213_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_214_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_215_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_216_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_217_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_218_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_219_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_220_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_220_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_221_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_221_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_222_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_222_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_223_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_223_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_224_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_224_Head_B.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 2,
+    "MaskType": ""
+  },
+  "Armor_225_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_226_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_227_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_228_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_229_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_230_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_231_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_232_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_233_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_234_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  },
+  "Armor_Default_Head.sbactorpack": {
+    "EarRotate": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "MantleType": 0,
+    "MaskType": ""
+  }
+}

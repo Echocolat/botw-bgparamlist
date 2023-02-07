@@ -1,0 +1,5 @@
+{
+  "BeeHome.sbactorpack": {
+    "CreateActor": "Enemy_Bee_Swarm"
+  }
+}

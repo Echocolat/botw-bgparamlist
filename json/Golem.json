@@ -1,0 +1,202 @@
+{
+  "Enemy_Golem_Fire.sbactorpack": {
+    "UpperArmRActor": "Enemy_Golem_Fire_Upper_Arm_R",
+    "LowerArmRActor": "Enemy_Golem_Fire_Lower_Arm_R",
+    "UpperArmLActor": "Enemy_Golem_Fire_Upper_Arm_L",
+    "LowerArmLActor": "Enemy_Golem_Fire_Lower_Arm_L",
+    "DefaultWeakPointActor": "Enemy_Golem_WeakPoint_02",
+    "IsDefaultChemicalOn": true
+  },
+  "Enemy_Golem_Fire_Lower_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Fire_Lower_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Fire_R.sbactorpack": {
+    "UpperArmRActor": "Enemy_Golem_Fire_R_Upper_Arm_R",
+    "LowerArmRActor": "Enemy_Golem_Fire_R_Lower_Arm_R",
+    "UpperArmLActor": "Enemy_Golem_Fire_R_Upper_Arm_L",
+    "LowerArmLActor": "Enemy_Golem_Fire_R_Lower_Arm_L",
+    "DefaultWeakPointActor": "Enemy_Golem_R_WeakPoint",
+    "IsDefaultChemicalOn": true
+  },
+  "Enemy_Golem_Fire_R_Lower_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Fire_R_Lower_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Fire_R_Upper_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Fire_R_Upper_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Fire_Upper_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Fire_Upper_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Ice.sbactorpack": {
+    "UpperArmRActor": "Enemy_Golem_Ice_Upper_Arm_R",
+    "LowerArmRActor": "Enemy_Golem_Ice_Lower_Arm_R",
+    "UpperArmLActor": "Enemy_Golem_Ice_Upper_Arm_L",
+    "LowerArmLActor": "Enemy_Golem_Ice_Lower_Arm_L",
+    "DefaultWeakPointActor": "Enemy_Golem_WeakPoint_02",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Ice_Lower_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Ice_Lower_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Ice_Upper_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Ice_Upper_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Junior.sbactorpack": {
+    "UpperArmRActor": "Enemy_Golem_Upper_Arm_R",
+    "LowerArmRActor": "Enemy_Golem_Lower_Arm_R",
+    "UpperArmLActor": "Enemy_Golem_Upper_Arm_L",
+    "LowerArmLActor": "Enemy_Golem_Lower_Arm_L",
+    "DefaultWeakPointActor": "Enemy_Golem_WeakPoint",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Little.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Little_Fire.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": true
+  },
+  "Enemy_Golem_Little_Ice.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Lower_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Lower_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Middle.sbactorpack": {
+    "UpperArmRActor": "Enemy_Golem_Upper_Arm_R",
+    "LowerArmRActor": "Enemy_Golem_Lower_Arm_R",
+    "UpperArmLActor": "Enemy_Golem_Upper_Arm_L",
+    "LowerArmLActor": "Enemy_Golem_Lower_Arm_L",
+    "DefaultWeakPointActor": "Enemy_Golem_WeakPoint_03",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Senior.sbactorpack": {
+    "UpperArmRActor": "Enemy_Golem_Upper_Arm_R",
+    "LowerArmRActor": "Enemy_Golem_Lower_Arm_R",
+    "UpperArmLActor": "Enemy_Golem_Upper_Arm_L",
+    "LowerArmLActor": "Enemy_Golem_Lower_Arm_L",
+    "DefaultWeakPointActor": "Enemy_Golem_WeakPoint_02",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Upper_Arm_L.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  },
+  "Enemy_Golem_Upper_Arm_R.sbactorpack": {
+    "UpperArmRActor": "",
+    "LowerArmRActor": "",
+    "UpperArmLActor": "",
+    "LowerArmLActor": "",
+    "DefaultWeakPointActor": "",
+    "IsDefaultChemicalOn": false
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "Armor_022_Head.sbactorpack": {
+    "BuyMamo": 99,
+    "SellMamo": 0
+  },
+  "Armor_022_Head_B.sbactorpack": {
+    "BuyMamo": 99,
+    "SellMamo": 0
+  },
+  "Armor_045_Head.sbactorpack": {
+    "BuyMamo": 199,
+    "SellMamo": 0
+  },
+  "Armor_055_Head.sbactorpack": {
+    "BuyMamo": 299,
+    "SellMamo": 0
+  },
+  "Armor_056_Head.sbactorpack": {
+    "BuyMamo": 999,
+    "SellMamo": 0
+  },
+  "Armor_160_Head.sbactorpack": {
+    "BuyMamo": 1999,
+    "SellMamo": 0
+  },
+  "Armor_160_Lower.sbactorpack": {
+    "BuyMamo": 999,
+    "SellMamo": 0
+  },
+  "Armor_160_Upper.sbactorpack": {
+    "BuyMamo": 999,
+    "SellMamo": 0
+  },
+  "GameRomHorseReins_04.sbactorpack": {
+    "BuyMamo": 399,
+    "SellMamo": 8
+  },
+  "GameRomHorseSaddle_04.sbactorpack": {
+    "BuyMamo": 299,
+    "SellMamo": 10
+  },
+  "Item_Enemy_00.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 3
+  },
+  "Item_Enemy_01.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 5
+  },
+  "Item_Enemy_02.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 10
+  },
+  "Item_Enemy_03.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 5
+  },
+  "Item_Enemy_04.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 8
+  },
+  "Item_Enemy_05.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 12
+  },
+  "Item_Enemy_06.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 2
+  },
+  "Item_Enemy_07.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 6
+  },
+  "Item_Enemy_08.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 12
+  },
+  "Item_Enemy_12.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 20
+  },
+  "Item_Enemy_13.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 30
+  },
+  "Item_Enemy_14.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 100
+  },
+  "Item_Enemy_15.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 5
+  },
+  "Item_Enemy_16.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 5
+  },
+  "Item_Enemy_17.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 5
+  },
+  "Item_Enemy_18.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 2
+  },
+  "Item_Enemy_19.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 10
+  },
+  "Item_Enemy_20.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 5
+  },
+  "Item_Enemy_21.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 13
+  },
+  "Item_Enemy_24.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 15
+  },
+  "Item_Enemy_25.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 55
+  },
+  "Item_Enemy_26.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 10
+  },
+  "Item_Enemy_27.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 2
+  },
+  "Item_Enemy_28.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 5
+  },
+  "Item_Enemy_29.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 20
+  },
+  "Item_Enemy_30.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 40
+  },
+  "Item_Enemy_31.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 100
+  },
+  "Item_Enemy_32.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 15
+  },
+  "Item_Enemy_33.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 18
+  },
+  "Item_Enemy_34.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 40
+  },
+  "Item_Enemy_38.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 60
+  },
+  "Item_Enemy_39.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 80
+  },
+  "Item_Enemy_40.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 3
+  },
+  "Item_Enemy_41.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 16
+  },
+  "Item_Enemy_42.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 16
+  },
+  "Item_Enemy_43.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 16
+  },
+  "Item_Enemy_44.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 6
+  },
+  "Item_Enemy_45.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 6
+  },
+  "Item_Enemy_46.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 6
+  },
+  "Item_Enemy_47.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 110
+  },
+  "Item_Enemy_48.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 150
+  },
+  "Item_Enemy_49.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 60
+  },
+  "Item_Enemy_50.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 80
+  },
+  "Item_Enemy_51.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 110
+  },
+  "Item_Enemy_52.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 150
+  },
+  "Item_Enemy_53.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 60
+  },
+  "Item_Enemy_54.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 80
+  },
+  "Item_Enemy_55.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 110
+  },
+  "Item_Enemy_56.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 150
+  },
+  "Item_Enemy_57.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 1
+  },
+  "Item_Enemy_Put_57.sbactorpack": {
+    "BuyMamo": 0,
+    "SellMamo": 1
+  },
+  "Item_Material_08.sbactorpack": {
+    "BuyMamo": 9,
+    "SellMamo": 2
+  },
+  "Item_Ore_G.sbactorpack": {
+    "BuyMamo": 80,
+    "SellMamo": 0
+  },
+  "Weapon_Spear_036.sbactorpack": {
+    "BuyMamo": 19,
+    "SellMamo": 1
+  },
+  "Weapon_Sword_040.sbactorpack": {
+    "BuyMamo": 199,
+    "SellMamo": 0
+  }
+}

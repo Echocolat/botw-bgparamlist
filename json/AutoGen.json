@@ -1,0 +1,77 @@
+{
+  "Item_Fruit_A.sbactorpack": {
+    "SetName": "Set_Fruit_1AppleTreeLowB",
+    "KeyActorName": "Item_Fruit_A",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_B.sbactorpack": {
+    "SetName": "Set_Fruit_2SnowberryTree",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_C.sbactorpack": {
+    "SetName": "Set_Fruit_2Biribirifruit",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_D.sbactorpack": {
+    "SetName": "Set_Fruit_1DurianTree_01",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_E.sbactorpack": {
+    "SetName": "Set_Fruit_1LotusSeedsPlant",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_F.sbactorpack": {
+    "SetName": "Set_Fruit_2MelonGrass",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_G.sbactorpack": {
+    "SetName": "Set_1CoconutTree_01",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_H.sbactorpack": {
+    "SetName": "Set_Fruit_3BananaTree",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_I.sbactorpack": {
+    "SetName": "Set_Fruit_3ChiliTree",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_J.sbactorpack": {
+    "SetName": "Set_Fruit_1Pumpkin",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_K.sbactorpack": {
+    "SetName": "",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Item_Fruit_L.sbactorpack": {
+    "SetName": "",
+    "KeyActorName": "",
+    "SetRadius": 0.0
+  },
+  "Obj_Set_FlowerMargaret_A_01.sbactorpack": {
+    "SetName": "Set_PlantTemperateZoneA_01",
+    "KeyActorName": "",
+    "SetRadius": 6.0
+  },
+  "Obj_Set_FlowerMargaret_B_01.sbactorpack": {
+    "SetName": "Set_PlantTemperateZoneF_01",
+    "KeyActorName": "",
+    "SetRadius": 7.0
+  },
+  "Obj_Set_PlantTropicalForestB_01.sbactorpack": {
+    "SetName": "Set_PlantTropicalForestB_01",
+    "KeyActorName": "",
+    "SetRadius": 4.0
+  }
+}

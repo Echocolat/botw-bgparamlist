@@ -1,0 +1,50 @@
+{
+  "Animal_Bear_A.sbactorpack": {
+    "IsUsePivotAdjustRange": true,
+    "PivotAdjustRange": 1.0
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "IsUsePivotAdjustRange": true,
+    "PivotAdjustRange": 1.0
+  },
+  "Animal_Bull_A.sbactorpack": {
+    "IsUsePivotAdjustRange": true,
+    "PivotAdjustRange": 1.0
+  },
+  "Animal_Cow_A.sbactorpack": {
+    "IsUsePivotAdjustRange": true,
+    "PivotAdjustRange": 1.0
+  },
+  "Animal_Elk_A.sbactorpack": {
+    "IsUsePivotAdjustRange": true,
+    "PivotAdjustRange": 1.0
+  },
+  "Animal_Rhino_A.sbactorpack": {
+    "IsUsePivotAdjustRange": true,
+    "PivotAdjustRange": 1.0
+  },
+  "Enemy_Lynel_Dark.sbactorpack": {
+    "IsUsePivotAdjustRange": false,
+    "PivotAdjustRange": 1.0
+  },
+  "Enemy_Lynel_Gold.sbactorpack": {
+    "IsUsePivotAdjustRange": false,
+    "PivotAdjustRange": 1.0
+  },
+  "Enemy_Lynel_Junior.sbactorpack": {
+    "IsUsePivotAdjustRange": false,
+    "PivotAdjustRange": 1.0
+  },
+  "Enemy_Lynel_Junior_Mountain.sbactorpack": {
+    "IsUsePivotAdjustRange": false,
+    "PivotAdjustRange": 1.0
+  },
+  "Enemy_Lynel_Middle.sbactorpack": {
+    "IsUsePivotAdjustRange": false,
+    "PivotAdjustRange": 1.0
+  },
+  "Enemy_Lynel_Senior.sbactorpack": {
+    "IsUsePivotAdjustRange": false,
+    "PivotAdjustRange": 1.0
+  }
+}

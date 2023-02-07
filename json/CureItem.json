@@ -1,0 +1,1862 @@
+{
+  "Animal_Fish_A.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Animal_Fish_B.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 8,
+    "EffectiveTime": 0
+  },
+  "Animal_Fish_C.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_D.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_E.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "AttackUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_F.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "AttackUp",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_G.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_H.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_I.sbactorpack": {
+    "HitPointRecover": 16,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 16,
+    "EffectiveTime": 0
+  },
+  "Animal_Fish_J.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistCold",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_K.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 12,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_L.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 4,
+    "EffectiveTime": 0
+  },
+  "Animal_Fish_M.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "Quietness",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_X.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "Quietness",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Fish_Z.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_AA.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 6,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_AB.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "Fireproof",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_C.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistHot",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_E.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "Quietness",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_G.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "AttackUp",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_I.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_K.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "AttackUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_N.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_O.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_P.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_Q.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistCold",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_R.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_T.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistCold",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Animal_Insect_Z.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 2,
+    "EffectiveTime": 0
+  },
+  "BeeHome.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 2,
+    "EffectiveTime": 0
+  },
+  "Item_Boiled_01.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_ChilledFish_01.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_02.sbactorpack": {
+    "HitPointRecover": 16,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_03.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_04.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_05.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_06.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_07.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_08.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_ChilledFish_09.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_Chilled_01.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_Chilled_02.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_Chilled_03.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_Chilled_04.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_Chilled_05.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_Chilled_06.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 1800
+  },
+  "Item_Cook_A_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_07.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_09.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_10.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_11.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_12.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_13.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_A_14.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_11.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_12.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_13.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_14.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_15.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_16.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_17.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_18.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_19.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_20.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_21.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_22.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_B_23.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_07.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_11.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_12.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_13.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_14.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_15.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_16.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_17.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_C_17_00.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_07.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_09.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_D_10.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_E_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_E_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_E_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_E_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_F_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_F_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_F_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_F_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_07.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_09.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_10.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_11.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_12.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_13.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_14.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_15.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_16.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_G_17.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_H_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_H_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_H_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_07.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_09.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_10.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_11.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_12.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_13.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_14.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_15.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_16.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_I_17.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_07.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_J_09.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_07.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_K_09.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_L_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_L_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_L_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_L_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_L_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_M_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_N_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_N_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_N_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_N_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_O_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_O_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_P_01.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_P_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_P_03.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_P_04.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Cook_P_05.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_FishGet_A.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_FishGet_B.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 8,
+    "EffectiveTime": 0
+  },
+  "Item_FishGet_C.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistHot",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_D.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_E.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "AttackUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_F.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "AttackUp",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_G.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_H.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_I.sbactorpack": {
+    "HitPointRecover": 16,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 16,
+    "EffectiveTime": 0
+  },
+  "Item_FishGet_J.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ResistCold",
+    "EffectLevel": 3,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_K.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 12,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_L.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 4,
+    "EffectiveTime": 0
+  },
+  "Item_FishGet_M.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "Quietness",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_X.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "Quietness",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_FishGet_Z.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_A.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_B.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_C.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_D.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 16,
+    "EffectiveTime": 0
+  },
+  "Item_Fruit_E.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_F.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_G.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_H.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "AttackUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_I.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "ResistCold",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_J.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Fruit_K.sbactorpack": {
+    "HitPointRecover": 1,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Fruit_L.sbactorpack": {
+    "HitPointRecover": 1,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_InsectGet_K.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "AttackUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_InsectGet_O.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_InsectGet_Z.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 2,
+    "EffectiveTime": 0
+  },
+  "Item_Material_02.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 1,
+    "EffectiveTime": 0
+  },
+  "Item_Material_04.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Material_05.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Material_05_00.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Material_06.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Material_08.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Meat_01.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Meat_02.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Meat_06.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Meat_07.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Meat_11.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Meat_12.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_MushroomGet_D.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_A.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "GutsRecover",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_B.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "ResistHot",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_C.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "ResistCold",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_D.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_E.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Mushroom_F.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 4,
+    "EffectiveTime": 0
+  },
+  "Item_Mushroom_F_00.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 4,
+    "EffectiveTime": 0
+  },
+  "Item_Mushroom_H.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_J.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "Quietness",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_L.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "AttackUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_M.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Mushroom_N.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 16,
+    "EffectiveTime": 0
+  },
+  "Item_Mushroom_N_00.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 16,
+    "EffectiveTime": 0
+  },
+  "Item_Mushroom_O.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "ExGutsMaxUp",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_A.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_PlantGet_B.sbactorpack": {
+    "HitPointRecover": 10,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 12,
+    "EffectiveTime": 0
+  },
+  "Item_PlantGet_C.sbactorpack": {
+    "HitPointRecover": 16,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 20,
+    "EffectiveTime": 0
+  },
+  "Item_PlantGet_E.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_F.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistCold",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_G.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "AttackUp",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_H.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_I.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "Quietness",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_J.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "Quietness",
+    "EffectLevel": 3,
+    "EffectiveTime": 1200
+  },
+  "Item_PlantGet_L.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_M.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 1,
+    "EffectiveTime": 300
+  },
+  "Item_PlantGet_O.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_PlantGet_Q.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "ExGutsMaxUp",
+    "EffectLevel": 4,
+    "EffectiveTime": 300
+  },
+  "Item_Plant_A.sbactorpack": {
+    "HitPointRecover": 4,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Plant_B.sbactorpack": {
+    "HitPointRecover": 10,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 12,
+    "EffectiveTime": 0
+  },
+  "Item_Plant_C.sbactorpack": {
+    "HitPointRecover": 16,
+    "EffectType": "LifeMaxUp",
+    "EffectLevel": 20,
+    "EffectiveTime": 0
+  },
+  "Item_Plant_E.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistHot",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Plant_F.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistCold",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Plant_G.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "AttackUp",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Plant_H.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "DefenseUp",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Plant_I.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "Quietness",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Plant_J.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "Quietness",
+    "EffectLevel": 3,
+    "EffectiveTime": 1200
+  },
+  "Item_Plant_L.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "ResistElectric",
+    "EffectLevel": 1,
+    "EffectiveTime": 900
+  },
+  "Item_Plant_M.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 1,
+    "EffectiveTime": 300
+  },
+  "Item_Plant_O.sbactorpack": {
+    "HitPointRecover": 0,
+    "EffectType": "MovingSpeed",
+    "EffectLevel": 2,
+    "EffectiveTime": 900
+  },
+  "Item_Plant_Q.sbactorpack": {
+    "HitPointRecover": 8,
+    "EffectType": "ExGutsMaxUp",
+    "EffectLevel": 4,
+    "EffectiveTime": 300
+  },
+  "Item_RoastFish_01.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_RoastFish_02.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_RoastFish_03.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_RoastFish_04.sbactorpack": {
+    "HitPointRecover": 18,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_RoastFish_07.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_RoastFish_09.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_RoastFish_11.sbactorpack": {
+    "HitPointRecover": 18,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_RoastFish_13.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_RoastFish_15.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_01.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_02.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_03.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_04.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_05.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_06.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_07.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_08.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_Roast_09.sbactorpack": {
+    "HitPointRecover": 18,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_Roast_10.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_Roast_11.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_Roast_12.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_Roast_13.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_Roast_15.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 9000
+  },
+  "Item_Roast_16.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_18.sbactorpack": {
+    "HitPointRecover": 15,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_19.sbactorpack": {
+    "HitPointRecover": 24,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_24.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_27.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_28.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_31.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_32.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_33.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_36.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_37.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_38.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_39.sbactorpack": {
+    "HitPointRecover": 3,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_40.sbactorpack": {
+    "HitPointRecover": 9,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_41.sbactorpack": {
+    "HitPointRecover": 9,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_45.sbactorpack": {
+    "HitPointRecover": 18,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 900
+  },
+  "Item_Roast_46.sbactorpack": {
+    "HitPointRecover": 18,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 900
+  },
+  "Item_Roast_48.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_49.sbactorpack": {
+    "HitPointRecover": 18,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_50.sbactorpack": {
+    "HitPointRecover": 12,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_51.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_52.sbactorpack": {
+    "HitPointRecover": 2,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  },
+  "Item_Roast_53.sbactorpack": {
+    "HitPointRecover": 6,
+    "EffectType": "None",
+    "EffectLevel": 0,
+    "EffectiveTime": 0
+  }
+}

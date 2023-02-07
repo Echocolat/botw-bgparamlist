@@ -1,0 +1,2510 @@
+{
+  "Weapon_Shield_001.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.05000000074505806,
+      0.05000000074505806,
+      0.019999999552965164
+    ],
+    "NPCHoldRotOffset": [
+      -25.0,
+      30.0,
+      10.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_002.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_003.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.029999999329447746,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_004.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.15000000596046448,
+      0.009999999776482582,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.05000000074505806,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_005.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.15000000596046448,
+      0.009999999776482582,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_006.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.15000000596046448,
+      0.009999999776482582,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_007.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.17000000178813934,
+      -0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_008.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.17000000178813934,
+      -0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      -0.009999999776482582,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      -8.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_009.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.17000000178813934,
+      -0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 0.5,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_013.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      0.0,
+      0.05000000074505806,
+      0.1899999976158142
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      0.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 1,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_014.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      0.0,
+      0.05000000074505806,
+      0.1899999976158142
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 1,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_015.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      0.0,
+      0.05000000074505806,
+      0.1899999976158142
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 1,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_016.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_017.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_018.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.10000000149011612,
+      -0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_021.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.019999999552965164,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_022.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.03999999910593033,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_023.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.0,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.014999999664723873,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_025.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.0,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.019999999552965164,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      3.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_026.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.1599999964237213,
+      0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.014999999664723873,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 0.699999988079071,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_030.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.09000000357627869,
+      0.009999999776482582,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.014999999664723873,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_031.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_032.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_033.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.03999999910593033,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 3.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_034.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_035.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.009999999776482582,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_036.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.10999999940395355,
+      0.009999999776482582,
+      0.2199999988079071
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 0.6000000238418579,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 0.10000000149011612
+  },
+  "Weapon_Shield_037.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.009999999776482582,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 0.5,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_038.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.09000000357627869,
+      0.009999999776482582,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 0.20000000298023224,
+    "MirrorLevel": 2,
+    "WeaponSubType": "0",
+    "SurfingFriction": 0.15000000596046448
+  },
+  "Weapon_Shield_040.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.12999999523162842,
+      0.029999999329447746,
+      0.20000000298023224
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.05000000074505806,
+      0.05000000074505806,
+      0.019999999552965164
+    ],
+    "NPCHoldRotOffset": [
+      -25.0,
+      30.0,
+      10.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_041.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.05000000074505806,
+      0.004999999888241291,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.029999999329447746,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.05000000074505806,
+      0.05000000074505806,
+      0.019999999552965164
+    ],
+    "NPCHoldRotOffset": [
+      -25.0,
+      30.0,
+      10.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.019999999552965164,
+      0.10000000149011612
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 0.25
+  },
+  "Weapon_Shield_042.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.11999999731779099,
+      -0.02500000037252903,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      -8.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.07999999821186066,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.05000000074505806,
+      0.05000000074505806,
+      0.019999999552965164
+    ],
+    "NPCHoldRotOffset": [
+      -25.0,
+      30.0,
+      10.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  },
+  "Weapon_Shield_057.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.09000000357627869,
+      0.0,
+      0.20999999344348907
+    ],
+    "PlayerHoldRotOffset": [
+      0.0,
+      120.0,
+      -5.0
+    ],
+    "PlayerEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "PlayerEquipRotOffset": [
+      0.0,
+      0.0,
+      -4.0
+    ],
+    "SquatPlayerHoldTransAddOffset": [
+      -0.03999999910593033,
+      -0.009999999776482582,
+      0.0
+    ],
+    "SquatPlayerHoldRotAddOffset": [
+      0.0,
+      0.0,
+      -5.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "EnemyEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "StandEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "RideBreakRatio": 1.0,
+    "MirrorLevel": 0,
+    "WeaponSubType": "0",
+    "SurfingFriction": 1.0
+  }
+}

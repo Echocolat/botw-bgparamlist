@@ -1,0 +1,20 @@
+{
+  "PutRupee.sbactorpack": {
+    "RupeeValue": 1
+  },
+  "PutRupee_Blue.sbactorpack": {
+    "RupeeValue": 5
+  },
+  "PutRupee_Gold.sbactorpack": {
+    "RupeeValue": 300
+  },
+  "PutRupee_Purple.sbactorpack": {
+    "RupeeValue": 50
+  },
+  "PutRupee_Red.sbactorpack": {
+    "RupeeValue": 20
+  },
+  "PutRupee_Silver.sbactorpack": {
+    "RupeeValue": 100
+  }
+}

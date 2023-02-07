@@ -1,0 +1,266 @@
+{
+  "Animal_Bear_A.sbactorpack": {
+    "RiddenAnimalType": 10,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Animal_Bear_B.sbactorpack": {
+    "RiddenAnimalType": 10,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Animal_Deer_A.sbactorpack": {
+    "RiddenAnimalType": 0,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Animal_Deer_C.sbactorpack": {
+    "RiddenAnimalType": 0,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Animal_Doe_A.sbactorpack": {
+    "RiddenAnimalType": 0,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Dm_GameROMMotorcycle.sbactorpack": {
+    "RiddenAnimalType": 11,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.25,
+    "RideonAboveASRadius": 1.0
+  },
+  "Enemy_Lynel_Dark.sbactorpack": {
+    "RiddenAnimalType": 8,
+    "CalmDownNum": 3,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Enemy_Lynel_Gold.sbactorpack": {
+    "RiddenAnimalType": 8,
+    "CalmDownNum": 3,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Enemy_Lynel_Junior.sbactorpack": {
+    "RiddenAnimalType": 8,
+    "CalmDownNum": 3,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Enemy_Lynel_Junior_Mountain.sbactorpack": {
+    "RiddenAnimalType": 8,
+    "CalmDownNum": 3,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Enemy_Lynel_Middle.sbactorpack": {
+    "RiddenAnimalType": 8,
+    "CalmDownNum": 3,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "Enemy_Lynel_Senior.sbactorpack": {
+    "RiddenAnimalType": 8,
+    "CalmDownNum": 3,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 1.0
+  },
+  "GameRomHorse.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse00L.sbactorpack": {
+    "RiddenAnimalType": 6,
+    "CalmDownNum": 30,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse00S.sbactorpack": {
+    "RiddenAnimalType": 7,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse01.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse02.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse03.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse04.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse05.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse06.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse07.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse08.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse09.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse10.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse11.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse12.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 18,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse13.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse14.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse15.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 18,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse16.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse17.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse18.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse19.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 20,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse20.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 25,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse21.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse22.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorse23.sbactorpack": {
+    "RiddenAnimalType": 1,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorseBone.sbactorpack": {
+    "RiddenAnimalType": 5,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorseBone_AllDay.sbactorpack": {
+    "RiddenAnimalType": 5,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorseEpona.sbactorpack": {
+    "RiddenAnimalType": 4,
+    "CalmDownNum": 15,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorseNushi.sbactorpack": {
+    "RiddenAnimalType": 9,
+    "CalmDownNum": 40,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameRomHorseZelda.sbactorpack": {
+    "RiddenAnimalType": 3,
+    "CalmDownNum": 25,
+    "RideonAboveASHeight": 1.0,
+    "RideonAboveASRadius": 0.5
+  },
+  "GameROMMotorcycle.sbactorpack": {
+    "RiddenAnimalType": 11,
+    "CalmDownNum": 10,
+    "RideonAboveASHeight": 1.25,
+    "RideonAboveASRadius": 1.0
+  }
+}

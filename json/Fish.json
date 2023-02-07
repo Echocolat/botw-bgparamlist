@@ -1,0 +1,184 @@
+{
+  "Animal_Fish_A.sbactorpack": {
+    "RestoreSpeedRate": 0.3499999940395355,
+    "RestoreSpeedRateAdd": -0.07000000029802322,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.41999998688697815
+  },
+  "Animal_Fish_B.sbactorpack": {
+    "RestoreSpeedRate": 0.3499999940395355,
+    "RestoreSpeedRateAdd": -0.07000000029802322,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.41999998688697815
+  },
+  "Animal_Fish_C.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_D.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_E.sbactorpack": {
+    "RestoreSpeedRate": 0.4000000059604645,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_F.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_G.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_H.sbactorpack": {
+    "RestoreSpeedRate": 0.4000000059604645,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_I.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.03999999910593033,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.3499999940395355
+  },
+  "Animal_Fish_J.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_L.sbactorpack": {
+    "RestoreSpeedRate": 0.3499999940395355,
+    "RestoreSpeedRateAdd": -0.07000000029802322,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.41999998688697815
+  },
+  "Animal_Fish_X.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Animal_Fish_Z.sbactorpack": {
+    "RestoreSpeedRate": 0.4000000059604645,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_A.sbactorpack": {
+    "RestoreSpeedRate": 0.3499999940395355,
+    "RestoreSpeedRateAdd": -0.07000000029802322,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.41999998688697815
+  },
+  "Item_FishGet_B.sbactorpack": {
+    "RestoreSpeedRate": 0.3499999940395355,
+    "RestoreSpeedRateAdd": -0.07000000029802322,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.41999998688697815
+  },
+  "Item_FishGet_C.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_D.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_E.sbactorpack": {
+    "RestoreSpeedRate": 0.4000000059604645,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_F.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_G.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_H.sbactorpack": {
+    "RestoreSpeedRate": 0.4000000059604645,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_I.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.03999999910593033,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.3499999940395355
+  },
+  "Item_FishGet_J.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_L.sbactorpack": {
+    "RestoreSpeedRate": 0.3499999940395355,
+    "RestoreSpeedRateAdd": -0.07000000029802322,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.41999998688697815
+  },
+  "Item_FishGet_X.sbactorpack": {
+    "RestoreSpeedRate": 0.30000001192092896,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  },
+  "Item_FishGet_Z.sbactorpack": {
+    "RestoreSpeedRate": 0.4000000059604645,
+    "RestoreSpeedRateAdd": -0.05000000074505806,
+    "LimitAngle": 60.0,
+    "LimitAngleAdd": 10.0,
+    "PrevSpeedRate": 0.30000001192092896
+  }
+}

@@ -1,0 +1,7023 @@
+{
+  "Armor_001_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "Mant_001_Havok",
+    "WindScale": 0.30000001192092896,
+    "NextRankName": "Armor_002_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_001_Head_B.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "Mant_001_Havok",
+    "WindScale": 0.30000001192092896,
+    "NextRankName": "Armor_002_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_001_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_002_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_001_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_002_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_002_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_003_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_002_Head_B.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_003_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_002_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_003_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_002_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_003_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_003_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_004_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_003_Head_B.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_004_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_003_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_004_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_003_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_004_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_004_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_015_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_004_Head_B.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_015_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_004_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_015_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_004_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_015_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_005_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_035_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_005_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_035_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_005_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_035_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_006_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_007_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_006_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_007_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_006_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_007_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -3.0
+    ]
+  },
+  "Armor_007_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_062_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_007_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_062_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_007_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_062_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -3.0
+    ]
+  },
+  "Armor_008_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_040_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_008_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_040_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_008_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_040_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_009_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_036_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_009_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_036_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_009_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_036_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_011_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_037_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_011_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_037_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_011_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_037_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -6.0
+    ]
+  },
+  "Armor_012_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_042_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_012_Head_B.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_042_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_012_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_042_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_012_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_042_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_014_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_083_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_014_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_083_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_014_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_083_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_015_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_015_Head_B.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_015_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_015_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_017_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_087_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_017_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_087_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_017_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_087_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_020_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_095_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_020_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_095_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_020_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_095_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_021_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_099_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_021_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_099_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_021_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_099_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_022_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_022_Head_B.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_024_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_117_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_025_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_121_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_026_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_125_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_027_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_129_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_028_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_133_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_029_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_137_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_035_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_039_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_035_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_039_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_035_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_039_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_036_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_071_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_036_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_071_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_036_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_071_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_037_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_074_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_037_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_074_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_037_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_074_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_039_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_060_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_039_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_060_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_039_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_060_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_040_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_065_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_040_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_065_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_040_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_065_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_042_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_077_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_042_Head_B.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_077_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_042_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_077_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_042_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_077_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_043_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_043_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_044_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_045_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_046_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_103_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_046_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_103_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_046_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_103_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_048_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_111_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_048_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_111_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_048_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_111_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_049_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_152_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_053_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_053_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_053_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_055_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_056_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_060_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_061_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_060_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_061_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_060_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_061_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_061_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_061_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_061_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_062_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_063_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_062_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_063_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_062_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_063_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -3.0
+    ]
+  },
+  "Armor_063_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_064_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_063_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_064_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_063_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_064_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -3.0
+    ]
+  },
+  "Armor_064_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_064_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_064_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -3.0
+    ]
+  },
+  "Armor_065_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_066_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_065_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_066_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_065_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_066_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_066_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_067_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_066_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_067_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_066_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_067_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_067_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_067_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_067_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_071_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_072_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_071_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_072_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_071_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_072_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_072_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_073_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_072_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_073_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_072_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_073_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_073_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_073_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_073_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_074_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_075_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_074_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_075_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_074_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_075_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_075_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_076_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_075_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_076_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_075_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_076_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_076_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_076_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_076_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_077_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 6,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_078_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_077_Head_B.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 6,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_078_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_077_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 6,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_078_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_077_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 6,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_078_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_078_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 9,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_079_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_078_Head_B.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 9,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_079_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_078_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 9,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_079_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_078_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 9,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_079_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_079_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 16,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_079_Head_B.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 16,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_079_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 16,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_079_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 16,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_083_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_084_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_083_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_084_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_083_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_084_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_084_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_085_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_084_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_085_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_084_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_085_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_085_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_086_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_085_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_086_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_085_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_086_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_086_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_086_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_086_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_087_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_088_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_087_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_088_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_087_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_088_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_088_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_089_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_088_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_089_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_088_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_089_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_089_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_090_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_089_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_090_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_089_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_090_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_090_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_090_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_090_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_095_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_096_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_095_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_096_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_095_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_096_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_096_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_097_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_096_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_097_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_096_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_097_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_097_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_098_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_097_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_098_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_097_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_098_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_098_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_098_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_098_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_099_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_100_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_099_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_100_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_099_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_100_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_100_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_101_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_100_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_101_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_100_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_101_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_101_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_102_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_101_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_102_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_101_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_102_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_102_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_102_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_102_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_103_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_104_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_103_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_104_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_103_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_104_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_104_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_105_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_104_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_105_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_104_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_105_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_105_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_106_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_105_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_106_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_105_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_106_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_106_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_106_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_106_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -5.0
+    ]
+  },
+  "Armor_111_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_112_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_111_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_112_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_111_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_112_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_112_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_113_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_112_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_113_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_112_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_113_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_113_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_114_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_113_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_114_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_113_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_114_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_114_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_114_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_114_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_115_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_116_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_148_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_117_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_118_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_118_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_119_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_119_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_120_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_120_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_121_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_122_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_122_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_123_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_123_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_124_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_124_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_125_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_126_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_126_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_127_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_127_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_128_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_128_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_129_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_130_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_130_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_131_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_131_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_132_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_132_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_133_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_134_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_134_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_135_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_135_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_136_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_136_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_137_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_138_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_138_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_139_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_139_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_140_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_140_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_140_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_141_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_156_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_148_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_149_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_149_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 14,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_150_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_150_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 22,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_151_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_151_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 32,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_152_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_153_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_153_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_154_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_154_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_155_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_155_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_156_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_157_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_157_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_158_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_158_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_159_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_159_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_160_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "Mant_001_Havok",
+    "WindScale": 0.30000001192092896,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_160_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_160_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_168_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_169_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_169_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_170_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_171_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_171_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_171_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -10.0
+    ]
+  },
+  "Armor_172_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_173_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_174_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_174_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_174_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_175_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_176_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 1,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_177_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_177_Head_B.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_178_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_178_Head_B.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_179_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_179_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_179_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -3.0
+    ]
+  },
+  "Armor_180_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_180_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_180_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_181_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_186_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_182_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_190_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_183_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_194_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_184_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_198_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_185_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_185_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_185_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      -6.0
+    ]
+  },
+  "Armor_186_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_187_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_187_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_188_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_188_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_189_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_189_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_190_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_191_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_191_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_192_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_192_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_193_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_193_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_194_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_195_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_195_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_196_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_196_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 18,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_197_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_197_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 28,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_198_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 7,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_199_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_199_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_168_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_200_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_201_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_200_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_201_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_200_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_201_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_201_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_202_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_201_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_202_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_201_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_202_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_202_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_203_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_202_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_203_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_202_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_203_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_203_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_204_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_203_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_204_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_203_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_204_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_204_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_204_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_204_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_205_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_206_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_205_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_206_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_205_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_206_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_206_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_207_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_206_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_207_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_206_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_207_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_207_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_208_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_207_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_208_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_207_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_208_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_208_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_209_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_208_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_209_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_208_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_209_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_209_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_209_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_209_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_210_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_211_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_210_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_211_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_210_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_211_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_211_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_212_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_211_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_212_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_211_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_212_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_212_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_213_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_212_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_213_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_212_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_213_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_213_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_214_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_213_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_214_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_213_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_214_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_214_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_214_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_214_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_215_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_216_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_215_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_216_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_215_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_216_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_216_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_217_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_216_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_217_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_216_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_217_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_217_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_218_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_217_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_218_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_217_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_218_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_218_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_219_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_218_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_219_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_218_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_219_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_219_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_219_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_219_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_220_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_221_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_220_Head_B.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 2,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_221_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_221_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_222_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_221_Head_B.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 4,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_222_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_222_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 6,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_223_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_222_Head_B.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 6,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_223_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_223_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 9,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_224_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_223_Head_B.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 9,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_224_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_224_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 16,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_224_Head_B.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 16,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_225_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_226_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_225_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_226_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_225_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_226_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_226_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_227_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_226_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_227_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_226_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_227_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_227_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_228_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_227_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_228_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_227_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_228_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_228_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_229_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_228_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_229_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_228_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_229_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_229_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_229_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_229_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_230_Head.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_231_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_230_Lower.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_231_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_230_Upper.sbactorpack": {
+    "StarNum": 1,
+    "DefenceAddLevel": 3,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_231_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_231_Head.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_232_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_231_Lower.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_232_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_231_Upper.sbactorpack": {
+    "StarNum": 2,
+    "DefenceAddLevel": 5,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_232_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_232_Head.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_233_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_232_Lower.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_233_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_232_Upper.sbactorpack": {
+    "StarNum": 3,
+    "DefenceAddLevel": 8,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_233_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_233_Head.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_234_Head",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_233_Lower.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_234_Lower",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_233_Upper.sbactorpack": {
+    "StarNum": 4,
+    "DefenceAddLevel": 12,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "Armor_234_Upper",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_234_Head.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_234_Lower.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_234_Upper.sbactorpack": {
+    "StarNum": 5,
+    "DefenceAddLevel": 20,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_Default_Head.sbactorpack": {
+    "StarNum": 0,
+    "DefenceAddLevel": 0,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_Default_Lower.sbactorpack": {
+    "StarNum": 0,
+    "DefenceAddLevel": 0,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Armor_Default_Upper.sbactorpack": {
+    "StarNum": 0,
+    "DefenceAddLevel": 0,
+    "WindScaleMesh": "",
+    "WindScale": 0.0,
+    "NextRankName": "",
+    "AffectTransOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "AffectRotOffsetShield": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

@@ -1,0 +1,1682 @@
+{
+  "Armor_001_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_002_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_003_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_004_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_005_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_006_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.029999999329447746,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_007_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.029999999329447746,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_008_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      -2.0,
+      2.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_009_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_011_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.014999999664723873,
+      0.03500000014901161,
+      0.004999999888241291
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_012_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_014_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_015_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_017_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_020_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_021_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.004999999888241291,
+      0.014999999664723873,
+      0.00800000037997961
+    ],
+    "ShiekerStoneRotOffset": [
+      -5.0,
+      0.0,
+      5.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_035_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_036_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_037_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.014999999664723873,
+      0.03500000014901161,
+      0.004999999888241291
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_039_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_040_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      -2.0,
+      2.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_042_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_043_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_044_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_046_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_048_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_053_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_060_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_061_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_062_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.029999999329447746,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_063_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.029999999329447746,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_064_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.029999999329447746,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_065_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      -2.0,
+      2.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_066_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      -2.0,
+      2.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_067_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      -2.0,
+      2.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_071_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_072_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_073_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_074_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.014999999664723873,
+      0.03500000014901161,
+      0.004999999888241291
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_075_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.014999999664723873,
+      0.03500000014901161,
+      0.004999999888241291
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_076_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.014999999664723873,
+      0.03500000014901161,
+      0.004999999888241291
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      4.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_077_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_078_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_079_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_083_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_084_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_085_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_086_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_087_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_088_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_089_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_090_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_095_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_096_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_097_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_098_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_099_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.004999999888241291,
+      0.014999999664723873,
+      0.00800000037997961
+    ],
+    "ShiekerStoneRotOffset": [
+      -5.0,
+      0.0,
+      5.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_100_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.004999999888241291,
+      0.014999999664723873,
+      0.00800000037997961
+    ],
+    "ShiekerStoneRotOffset": [
+      -5.0,
+      0.0,
+      5.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_101_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.004999999888241291,
+      0.014999999664723873,
+      0.00800000037997961
+    ],
+    "ShiekerStoneRotOffset": [
+      -5.0,
+      0.0,
+      5.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_102_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.004999999888241291,
+      0.014999999664723873,
+      0.00800000037997961
+    ],
+    "ShiekerStoneRotOffset": [
+      -5.0,
+      0.0,
+      5.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_103_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_104_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_105_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_106_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_111_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_112_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_113_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_114_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.004999999888241291,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      3.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_116_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_148_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_149_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_150_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_151_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_160_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_170_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_171_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.017999999225139618,
+      0.03500000014901161,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_174_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_175_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_179_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.014999999664723873,
+      0.014999999664723873,
+      0.014999999664723873
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_180_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_185_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.019999999552965164,
+      0.029999999329447746,
+      -0.019999999552965164
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_200_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_201_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_202_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_203_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_204_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_205_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_206_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_207_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_208_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_209_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_210_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_211_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_212_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_213_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_214_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_215_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_216_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_217_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_218_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_219_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": true,
+    "UseMantleType": 1
+  },
+  "Armor_225_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_226_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_227_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_228_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_229_Upper.sbactorpack": {
+    "IsDispOffPorch": true,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 1
+  },
+  "Armor_230_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_231_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_232_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_233_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_234_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  },
+  "Armor_Default_Upper.sbactorpack": {
+    "IsDispOffPorch": false,
+    "ShiekerStoneTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "ShiekerStoneRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "DisableSelfMantle": false,
+    "UseMantleType": 0
+  }
+}

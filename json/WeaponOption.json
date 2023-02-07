@@ -1,0 +1,2242 @@
+{
+  "Weapon_Lsheath_001.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_002.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_003.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_004.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_010.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_013.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_019.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_023.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_024.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_027.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_029.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_030.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_032.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_033.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_034.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_035.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_036.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_037.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_041.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_047.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_051.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_054.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_055.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_056.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_057.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_059.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_060.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Lsheath_074.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Quiver_001.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_001.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_002.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_003.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_004.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_007.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_013.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_016.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_019.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_021.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_023.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_024.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_025.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_027.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_029.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_030.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_031.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_033.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_034.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_035.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_041.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_042.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_047.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_050.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_051.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_052.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_053.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_057.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_058.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_059.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_060.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_070.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_073.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_Sheath_502.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_001.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_013.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_023.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_025.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_028.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_033.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_034.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "Weapon_SpearSheath_035.sbactorpack": {
+    "PlayerHoldTransOffset": [
+      -0.019999999552965164,
+      -0.009999999776482582,
+      0.11999999731779099
+    ],
+    "PlayerHoldRotOffset": [
+      -8.0,
+      -5.0,
+      75.0
+    ],
+    "NPCHoldTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCHoldRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipTransOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "NPCEquipRotOffset": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

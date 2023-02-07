@@ -1,0 +1,26 @@
+{
+  "AirOcta_Tag.sbactorpack": {
+    "HorseNames": "",
+    "LeaderHorseNames": ""
+  },
+  "Enemy_AirOctarock.sbactorpack": {
+    "HorseNames": "",
+    "LeaderHorseNames": ""
+  },
+  "WildHorseCreateTag.sbactorpack": {
+    "HorseNames": "GameRomHorse01,GameRomHorse02,GameRomHorse03,GameRomHorse04",
+    "LeaderHorseNames": "GameRomHorse05"
+  },
+  "WildHorseCreateTag01.sbactorpack": {
+    "HorseNames": "GameRomHorse06,GameRomHorse07,GameRomHorse08,GameRomHorse09,GameRomHorse10",
+    "LeaderHorseNames": "GameRomHorse09"
+  },
+  "WildHorseCreateTag02.sbactorpack": {
+    "HorseNames": "GameRomHorse11,GameRomHorse12,GameRomHorse13,GameRomHorse14,GameRomHorse15,GameRomHorse",
+    "LeaderHorseNames": "GameRomHorse15"
+  },
+  "WildHorseCreateTag03.sbactorpack": {
+    "HorseNames": "GameRomHorse16,GameRomHorse17,GameRomHorse18,GameRomHorse19,GameRomHorse20",
+    "LeaderHorseNames": "GameRomHorse20"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Dm_PlayerStole2.sbactorpack": {
+    "VisibleOffActor1": "PlayerStole2",
+    "VisibleOffActor2": "",
+    "VisibleOffActor3": "",
+    "VisibleOffActor4": "",
+    "VisibleOffActor5": "",
+    "VisibleOffActor6": "",
+    "VisibleOffActor7": "",
+    "VisibleOffActor8": ""
+  },
+  "Weapon_Sword_056.sbactorpack": {
+    "VisibleOffActor1": "Weapon_Sword_070",
+    "VisibleOffActor2": "",
+    "VisibleOffActor3": "",
+    "VisibleOffActor4": "",
+    "VisibleOffActor5": "",
+    "VisibleOffActor6": "",
+    "VisibleOffActor7": "",
+    "VisibleOffActor8": ""
+  },
+  "Weapon_Sword_071.sbactorpack": {
+    "VisibleOffActor1": "Weapon_Sword_070",
+    "VisibleOffActor2": "",
+    "VisibleOffActor3": "",
+    "VisibleOffActor4": "",
+    "VisibleOffActor5": "",
+    "VisibleOffActor6": "",
+    "VisibleOffActor7": "",
+    "VisibleOffActor8": ""
+  }
+}

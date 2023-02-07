@@ -1,0 +1,72 @@
+{
+  "Animal_Crow_Swarm.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Crow_A"
+  },
+  "Animal_Crow_Swarm_HeapMeasure.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Crow_A"
+  },
+  "Animal_Gull_Swarm.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Gull_A"
+  },
+  "Animal_Gull_Swarm_HeapMeasure.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Gull_A"
+  },
+  "Animal_Pigeon_B_Swarm.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Pigeon_B"
+  },
+  "Animal_Pigeon_B_Swarm_HeapMeasure.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Pigeon_B"
+  },
+  "Animal_Pigeon_Swarm.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Pigeon_A"
+  },
+  "Animal_Pigeon_Swarm_HeapMeasure.sbactorpack": {
+    "SwarmSubActorNum": 100,
+    "SwarmPattern": 4,
+    "DeadActorName": "Animal_Pigeon_A"
+  },
+  "Enemy_Bee_Swarm.sbactorpack": {
+    "SwarmSubActorNum": 16,
+    "SwarmPattern": 3,
+    "DeadActorName": ""
+  },
+  "Enemy_Bee_Swarm_HeapMeasure.sbactorpack": {
+    "SwarmSubActorNum": 16,
+    "SwarmPattern": 3,
+    "DeadActorName": ""
+  },
+  "Enemy_Keese_Swarm.sbactorpack": {
+    "SwarmSubActorNum": 50,
+    "SwarmPattern": 0,
+    "DeadActorName": "Enemy_Keese"
+  },
+  "Enemy_Keese_Swarm_AllDay.sbactorpack": {
+    "SwarmSubActorNum": 50,
+    "SwarmPattern": 0,
+    "DeadActorName": "Enemy_Keese"
+  },
+  "Enemy_Keese_Swarm_AllDay_HeapMeasure.sbactorpack": {
+    "SwarmSubActorNum": 50,
+    "SwarmPattern": 0,
+    "DeadActorName": "Enemy_Keese"
+  },
+  "Enemy_Keese_Swarm_HeapMeasure.sbactorpack": {
+    "SwarmSubActorNum": 50,
+    "SwarmPattern": 0,
+    "DeadActorName": "Enemy_Keese"
+  }
+}

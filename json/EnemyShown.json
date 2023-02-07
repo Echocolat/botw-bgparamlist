@@ -1,0 +1,344 @@
+{
+  "BoarMeat.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": true,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "DgnObj_HintBoard.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "EnemyLookTag.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "EnemyLookTag_Happy.sbactorpack": {
+    "IsHappy": true,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "EnemyLookTag_Noise.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": true
+  },
+  "FireWood.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "FireWoodDie.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "FireWoodFromBundle.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "Fire_For_MapObj_L.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "FldObj_DLC_BlowSwordBase_A.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_DLC_HeroMapRelief_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_DLC_HeroMapRelief_Mark_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_DLC_HeroMapRelief_Mark_A_02.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_DLC_HeroMapRelief_Mark_A_03.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_01_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_02_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_03_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_04_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_05_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_06_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_07_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_08_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_09_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_RockZoraRelief_A_M_10_ma.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_SignboardStone_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_SignboardStone_giant.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "FldObj_SignboardStone_Macuse.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "Item_CookSet.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "Item_CookSet_100enemy.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "Item_CookSet_PanOnly.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "Obj_DRStone_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "SignalFireWood.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": true,
+    "IsNoise": false
+  },
+  "Strange_Beacon_CookSet.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObjVillage_ZoraSignboard_B_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObjVillage_ZoraSignboard_C_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObjVillage_ZoraSignboard_C_02.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObjVillage_ZoraSignboard_C_03.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_City_GerudoSighboard_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_City_GoronGuidePost_A_02.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_City_GoronGuidePost_A_03.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_City_GoronSignboard_B_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_HatenoLinkHouseNamePlate_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_HatenoSignboard_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_HatenoSignboard_A_02.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_HatenoSignboard_A_03.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_HatenoSignboard_A_04.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_IchikaraSighboard_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_IchikaraSighboard_A_02.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_IchikaraSighboard_A_03.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_RitoHotelSign_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_RitoPharmacySign_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_RitoTailorSign_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_SheikerGrocerySign_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_SheikerHotelSign_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_SheikerPharmacySign_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_Village_SheikerTailorSign_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  },
+  "TwnObj_ZoraLithograph_A_01.sbactorpack": {
+    "IsHappy": false,
+    "IsCasebyCase": false,
+    "IsSit": false,
+    "IsNoise": false
+  }
+}

@@ -1,0 +1,1717 @@
+{
+  "Dm_Npc_Gerdo_Hero.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Dm_Npc_Goron_Hero.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Dm_Npc_Rito_Hero.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Dm_Npc_Zelda_Sibyl.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Dm_Npc_Zora_Hero.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "GreatFairyBeforeRevival.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "HorseAssociationCustum001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "HorseAssociationCustum002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "HorseAssociationCustum003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "HorseAssociationCustum004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "HorseGod001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_AncientAssistant003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Attacked_001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Attacked_003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Attacked_008.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Attacked_009.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Attacked_010.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Bottle_Mes001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Bowling.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "NPC_CaptionVoice.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Challenge093Lady.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DeathEastHatago_002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DeathMt001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_DRCVoice.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DressFairy_00.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DressFairy_01.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DressFairy_02.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DressFairy_03.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriest001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc005.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc006.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc007.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc2nd001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_DungeonPriestDlc2nd_Boss.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_FaronWoods001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_FaronWoods003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_FaronWoods007.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_FaronWoods008.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_FaronWoods009.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_FaronWoods010.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_FarthestIsland002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_gerudovalley001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_GodVoice.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Goron025.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Goron110.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HatenoGate001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoGate002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoGate003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage005.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage007.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage010.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage012.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HatenoVillage014.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage017.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HatenoVillage018.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HatenoVillage019.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage023.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage024.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HatenoVillage026.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HatenoVillage027.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HiddenKorokGround.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain001.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain003.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain005.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain008.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain010.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain012.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain013.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain020.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain021.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain025.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain030.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain031.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain032.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain033.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain034.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain036.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HighMountain040.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HighMountain041.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HorseBuyer.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HutagoHatago_002.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_HutagoHatago_Woman_01.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleDepthHatago001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleDepthHatago002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleDepthHatago003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleDepthHatago006.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleDepthHatago007.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyrulePlain004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyrulePlain005.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleWestHatago001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleWestHatago002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleWestHatago003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_HyruleWestHatago004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko006.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko010.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko011.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko012.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko014.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kakariko015.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_kokiri001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_kokiri002.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_kokiri003.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_kokiri004.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_kokiri004_DLCDemo.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_kokiri005.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_kokiri005_DLCDemo.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_kokiri006.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_kokiri006_DLCDemo.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Kokiri007.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Kokiri008.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Kokiri010.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_kokiri012.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_kokiri012_DLCDemo.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_LakeSideHatago005.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_LakeSideHatago006.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_Lanayru001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_Lanayru002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Lanayru003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Lanayru004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Minigame_BirdMan001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_MiniGame_Crosscountry.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_NakedIslandPriest.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_NorthHatelHatago001.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_NorthHatelHatago002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_NorthHateru005.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_NorthHateru_around001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_oasis004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_oasis004_fr01.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_oasis004_fr03.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis005.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis006.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis008.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis011.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis012.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis013.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis014.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis015.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_oasis016.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis017.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis019.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis021.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis022.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis028.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis043.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis044.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis045.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_oasis046.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_OasisGoddess.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_OasisHighMountain_001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_OasisHylia_002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_OasisMilk_B.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_OasisMilk_D.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_OasisTeacher.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_PublicVoice.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Remains_Fancier001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_RitoHatago001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_RiverSideHatago001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_RiverSideHatago002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Road_Firone002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SmallOasis004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SmallOasis007.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SmallOasis008.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SmallOasis009.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SmallOasis010.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SouthernVillage001.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_SouthernVillage005.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_SouthernVillage008.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SouthernVillage009.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SouthernVillage012.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SouthernVillage013.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SouthernVillage014.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_SouthernVillageGambler.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_SouthHateru005.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_SouthHateru006.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_SouthHateru007.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_SystemTextBoard.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "NPC_SystemTextDemonStatue.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TabantaBridgeHatago001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TabantaBridgeHatago002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TabantaBridgeHatago003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TabantaBridgeHatago004.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TabantaBridgeHatago005.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TamourHatago001.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_TamourHatago002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TamourHatago003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TamourHatago2_001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TamourPlainHatago_002.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_TamourPlainHatago_003.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_UMiiVillage003.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_UMiiVillage007.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_UMiiVillage008.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_UMiiVillage009.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora001.sbactorpack": {
+    "InWaterDepth": 1.7999999523162842,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora002.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora003.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora004.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora005.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora006.sbactorpack": {
+    "InWaterDepth": 1.7999999523162842,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora007.sbactorpack": {
+    "InWaterDepth": 0.6000000238418579,
+    "FloatDepth": 0.6299999952316284,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora008.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora009.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora010.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora011.sbactorpack": {
+    "InWaterDepth": 0.6000000238418579,
+    "FloatDepth": 0.6299999952316284,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora012.sbactorpack": {
+    "InWaterDepth": 0.6000000238418579,
+    "FloatDepth": 0.6299999952316284,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora013.sbactorpack": {
+    "InWaterDepth": 1.7999999523162842,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora014.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.75,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora015.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora020.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora025.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora026.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora027.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.75,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora028.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora029.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora030.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 2.0999999046325684,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora031.sbactorpack": {
+    "InWaterDepth": 1.7999999523162842,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora032.sbactorpack": {
+    "InWaterDepth": 1.7999999523162842,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora033.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.75,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora034.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora035.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Npc_Zora036.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora037.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.5499999523162842,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_Zora126.sbactorpack": {
+    "InWaterDepth": 0.6000000238418579,
+    "FloatDepth": 0.6299999952316284,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "Npc_ZoraB001.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 2.0999999046325684,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "Self_HorseAssociationCustum.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "subchallnpc000.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "subchallnpc000_twin.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "TwnObj_AncientOven_A_01.sbactorpack": {
+    "InWaterDepth": 0.5,
+    "FloatDepth": 1.350000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.06599999964237213
+  },
+  "TwnObj_DemonStatue_A_01.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "TwnObj_GoddesStatue_A_01.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "TwnObj_GoddesStatue_A_02.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "TwnObj_GoddesStatue_A_10.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "TwnObj_SuperGoddesStatue_A_01.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "UnknownNPC.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  },
+  "UnKnownNPC_2.sbactorpack": {
+    "InWaterDepth": 1.5,
+    "FloatDepth": 1.850000023841858,
+    "FloatRadius": 0.019999999552965164,
+    "FloatCycleTime": 60.0,
+    "ChangeDepthSpeed": 0.032999999821186066
+  }
+}

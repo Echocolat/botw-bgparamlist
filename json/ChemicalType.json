@@ -1,0 +1,294 @@
+{
+  "Enemy_Chuchu_Electric_Junior.sbactorpack": {
+    "ChemicalType": "Electric",
+    "EmitChemicalActor": "ExpandElectricField"
+  },
+  "Enemy_Chuchu_Electric_Middle.sbactorpack": {
+    "ChemicalType": "Electric",
+    "EmitChemicalActor": "ExpandElectricField"
+  },
+  "Enemy_Chuchu_Electric_Senior.sbactorpack": {
+    "ChemicalType": "Electric",
+    "EmitChemicalActor": "ExpandElectricField"
+  },
+  "Enemy_Chuchu_Fire_Junior.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField"
+  },
+  "Enemy_Chuchu_Fire_Middle.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField"
+  },
+  "Enemy_Chuchu_Fire_Senior.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField"
+  },
+  "Enemy_Chuchu_Ice_Junior.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField"
+  },
+  "Enemy_Chuchu_Ice_Middle.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField"
+  },
+  "Enemy_Chuchu_Ice_Senior.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField"
+  },
+  "Enemy_Chuchu_Junior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Chuchu_Middle.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Chuchu_Senior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Fire.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_Lower_Arm_L.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_Lower_Arm_R.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_R.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_R_Lower_Arm_L.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_R_Lower_Arm_R.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_R_Upper_Arm_L.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_R_Upper_Arm_R.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_Upper_Arm_L.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Fire_Upper_Arm_R.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem"
+  },
+  "Enemy_Golem_Ice.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField_Golem"
+  },
+  "Enemy_Golem_Ice_Lower_Arm_L.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField_Golem"
+  },
+  "Enemy_Golem_Ice_Lower_Arm_R.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField_Golem"
+  },
+  "Enemy_Golem_Ice_Upper_Arm_L.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField_Golem"
+  },
+  "Enemy_Golem_Ice_Upper_Arm_R.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField_Golem"
+  },
+  "Enemy_Golem_Junior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Little.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Little_Fire.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField_Golem_Little"
+  },
+  "Enemy_Golem_Little_Ice.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField_Golem_Little"
+  },
+  "Enemy_Golem_Lower_Arm_L.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Lower_Arm_R.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Middle.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Senior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Upper_Arm_L.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Golem_Upper_Arm_R.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese_AllDay.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese_Electric.sbactorpack": {
+    "ChemicalType": "Electric",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese_Electric_AllDay.sbactorpack": {
+    "ChemicalType": "Electric",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese_Fire.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese_Fire_AllDay.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese_Ice.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Keese_Ice_AllDay.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Bone_Junior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Bone_Junior_Head.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Dark.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Electric.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Electric_ForestTower.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Fire.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Fire_Guard_Ambush.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Gold.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Guard_Junior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Guard_Junior_LongVisibility.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Guard_Middle.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Guard_Middle_LongVisibility.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Ice.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Junior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Junior_Guard_Ambush.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Middle.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Middle_Guard_Ambush.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Lizalfos_Senior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Wizzrobe_Electric.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Wizzrobe_Electric_Senior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Wizzrobe_Fire.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Wizzrobe_Fire_Senior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Wizzrobe_Ice.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Enemy_Wizzrobe_Ice_Senior.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  },
+  "Item_Enemy_15.sbactorpack": {
+    "ChemicalType": "Fire",
+    "EmitChemicalActor": "ExpandFireField"
+  },
+  "Item_Enemy_16.sbactorpack": {
+    "ChemicalType": "Electric",
+    "EmitChemicalActor": "ExpandElectricField"
+  },
+  "Item_Enemy_17.sbactorpack": {
+    "ChemicalType": "Ice",
+    "EmitChemicalActor": "ExpandIceField"
+  },
+  "Item_Enemy_40.sbactorpack": {
+    "ChemicalType": "Normal",
+    "EmitChemicalActor": ""
+  }
+}
